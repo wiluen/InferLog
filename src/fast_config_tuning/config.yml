@@ -1,0 +1,13 @@
+max-num-batched-tokens:
+  type: Enumeration
+  values: [4000,6000,8000,10000,12000,
+          14000,16000,18000,20000,22000,
+          24000,26000,28000,30000,32000]
+
+max-num-seqs:
+  type: Enumeration
+  values: [64,96,128,160,192,224,256]
+
+scheduler-delay-factor:
+  type: Enumeration
+  values: [0.0,0.5,1,1.5,2]
