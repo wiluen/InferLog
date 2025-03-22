@@ -5,6 +5,7 @@ configuration in a few iterations.
 
 ## Configuration parameters
 <img src="https://github.com/wiluen/InferLog/blob/main/resource/conf.png" alt="Critical Config in vLLM" width="600px" style="text-align: center">
+
 ## Main code:
 - data_collect.py: collect data using LHS or random
 - maml.py: original implement of MAML algorithm
