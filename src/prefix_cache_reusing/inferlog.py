@@ -496,8 +496,8 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Benchmark Online Log Parsing with vLLM")
     parser.add_argument("--dataset", type=str, required=True, help="log dataset")
     parser.add_argument("--port", type=str, required=True, help="vllm port")
-    parser.add_argument("--capacity", type=str, required=True, help="capacity of ICL Table")
-    parser.add_argument("--concurrency", type=str, required=True, help="requests concurrency")
+    parser.add_argument("--capacity", type=int, required=True, help="capacity of ICL Table")
+    parser.add_argument("--concurrency", type=int, required=True, help="requests concurrency")
     parser.add_argument("--enable_pair", type=bool, required=True, help="enable PAIR,if false, return to prefix caching")
     args = parser.parse_args() 
     dataset=args.dataset
