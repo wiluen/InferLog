@@ -18,4 +18,4 @@ configuration in a few iterations.
 ## Steps:
 1. Collect meta data using LHS sampling algorithm (data_collect.py)
 2. Conduct training for AttMAML and save model (attmaml.py)
-3. Online tuning (tuner.py,attmamldrop_bo.py)
+3. Online tuning (tuner.py and attmamldrop_bo.py)
