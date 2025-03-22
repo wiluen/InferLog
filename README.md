@@ -13,7 +13,7 @@ In this study, we present InferLog, the first LLM inference optimization method 
 > pip install -r requirements.txt
 
 ### Benchmark
-We use loghub2k as the dataset and employ in-context learning technique to find demonstration examples based on similarity in the candidate set. The raw logs are available for downloading at (https://github.com/logpai/loghub)[https://github.com/logpai/loghub]
+We use loghub2k as the dataset and employ in-context learning technique to find demonstration examples based on similarity in the candidate set. The raw logs are available for downloading at [https://github.com/logpai/loghub]
 
 ### Main File
 - prefix_cache_reusing: implementation of Prefix-Aware ICL Refinement(PAIR) strategy to refine the ICL examples to improve prefix cache hit rate.
