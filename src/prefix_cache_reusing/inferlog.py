@@ -153,10 +153,6 @@ def evaluatePA(groundtruth, result):
     for i in range(length):
         if result['template'][i] == groundtruth.loc[groundtruth['Content'] == result['log'][i]]['EventTemplate'].values[0]:
             correct += 1
-        # else:
-        #     with open(f'exp/wrong_{dataset}.txt','a') as f:
-        #         f.write('divlog:'+result['template'][i]+'\n')
-        #         f.write('groundtruth:'+groundtruth.loc[groundtruth['Content'] == result['log'][i]]['EventTemplate'].values[0]+'\n')
                 
     return correct/length
 
@@ -502,20 +498,20 @@ if __name__ == "__main__":
     parser.add_argument("--port", type=str, required=True, help="vllm port")
     parser.add_argument("--capacity", type=str, required=True, help="capacity of ICL Table")
     parser.add_argument("--concurrency", type=str, required=True, help="requests concurrency")
-    parser.add_argument("--enable_pair", type=str, required=True, help="enable PAIR,if false, return to prefix caching")
+    parser.add_argument("--enable_pair", type=bool, required=True, help="enable PAIR,if false, return to prefix caching")
     args = parser.parse_args() 
     dataset=args.dataset
     port=args.port
     capacity=args.capacity
     concurrency=args.concurrency
+    rerank=args.enable_pair
     naive_output=[]
     workload_folder=f'prompt/{dataset}'
-    result_path=f'benchmark/{dataset}_divlog_evaluate.csv'
+    result_path=f'benchmark/{dataset}_evaluate.csv'
     groundtruth_path=f'dataset/{dataset}/{dataset}_2k.log_structured_corrected.csv'
-    temp_path=f'benchmark/{dataset}_divlog_template.csv'
-    log_path=f'benchmark/{dataset}_divlog_test.csv'
+    temp_path=f'benchmark/{dataset}_template.csv'
+    log_path=f'benchmark/{dataset}_test.csv'
     requests=2000
-    rerank=True
     evaluate=True
     cache=OrderedDict()
     request_timeout=300
