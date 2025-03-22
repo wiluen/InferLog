@@ -23,5 +23,5 @@ Reusing prefix KV caching of ICL part, not limited to common instruct.
 We use loghub2k as the dataset and employ in-context learning technique to find demonstration examples based on similarity in the candidate set. The raw logs are available for downloading at [https://github.com/logpai/loghub]
 
 ### Main File
-- prefix_cache_reusing: implementation of Prefix-Aware ICL Refinement(PAIR) strategy to refine the ICL examples to improve prefix cache hit rate.
-- fast_config_tuning: implementation of configuration tuning base on AttMAML and SMBO.
+- src/prefix_cache_reusing: implementation of Prefix-Aware ICL Refinement(PAIR) strategy to refine the ICL examples to improve prefix cache hit rate.
+- src/fast_config_tuning: implementation of configuration tuning base on AttMAML and SMBO.
