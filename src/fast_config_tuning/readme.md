@@ -11,5 +11,9 @@ configuration in a few iterations.
 - attmaml.py: implement of our Attention MAML algorithm
 - attmamldrop_bo.py: AttMAML with MC dropout for SMBO
 - env.py: Interaction with environment(apply config and conduct testing to get metrics)
-- tuner.py: implement of SMBO, if can use the kernel of 'gp' or 'meta'
+- tuner.py: implement of SMBO, it can use the kernel of 'gp' or 'meta'
 
+## Steps:
+1. Collect meta data using LHS sampling algorithm
+2. Conduct training for AttMAML and save model
+3. Online tuning
