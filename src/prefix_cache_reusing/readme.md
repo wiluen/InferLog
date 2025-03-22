@@ -7,8 +7,16 @@ InferLog proposes Prefix-aware ICL Refinement(PAIR) policy to refine the log par
 ## Main code:
 - inferlog.py: implement of PAIR
 - postprocess.py: post processing for log parsing
-- prepare_icl.py: selecting ICL for distict log messages in Loghub-2k. The main code is from (DivLog)[https://github.com/logpai/logparser/blob/main/logparser/DivLog/DivLog.py]
+- prepare_icl.py: selecting ICL for distict log messages in Loghub-2k. The main code is from [https://github.com/logpai/logparser/blob/main/logparser/DivLog/DivLog.py]
 - prompt.zip: the processed results
+
+## Run
+```
+vllm serve qwen/Qwen2.5-14B-Instruct --enable-prefix-caching
+```
+```
+python inferlog.py --dataset 'Spark' --port 8080 --capacity 200 --concurrency 10 --enable_pair
+```
 
 
 
