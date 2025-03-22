@@ -5,3 +5,11 @@ configuration in a few iterations.
 
 ## Configuration parameters
 ![Critical Config in vLLM](https://github.com/wiluen/InferLog/blob/main/resource/conf.png)
+
+## Main code:
+- maml.py: original implement of MAML algorithm
+- attmaml.py: implement of our Attention MAML algorithm
+- attmamldrop_bo.py: AttMAML with MC dropout for SMBO
+- env.py: Interaction with environment(apply config and conduct testing to get metrics)
+- tuner.py: implement of SMBO, if can use the kernel of 'gp' or 'meta'
+
