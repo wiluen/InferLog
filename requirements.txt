@@ -1,0 +1,12 @@
+modelscope==1.19.0
+numpy==1.26.4
+openai==1.42.0
+pandas==2.2.2
+pyDOE==0.3.8
+scipy==1.14.1
+scikit-learn==1.5.2
+tokenizers==0.20.1
+torch==2.4.0
+torchvision==0.19.0
+transformers==4.47.0
+vllm==0.6.3.post1
