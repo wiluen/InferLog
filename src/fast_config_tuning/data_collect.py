@@ -76,7 +76,7 @@ def run(i,j,k,iter,dataset):
     concurrency = 100
     enable_pair = "True" 
     process_benchmark = subprocess.Popen(
-        ["python", "inferlog.py","--dataset",dataset,"--port",str(random_port),"--capacity",str(capacity),"concurrency",str(concurrency),"enable_pair",enable_pair]
+        ["python", "inferlog.py","--dataset",dataset,"--port",str(random_port),"--capacity",str(capacity),"--concurrency",str(concurrency),"--enable_pair",enable_pair]
     )
     process_benchmark.wait()
     time.sleep(10)
