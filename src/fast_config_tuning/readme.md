@@ -4,8 +4,7 @@ To achieve a fast and tailored configuration optimization, we introduce Attentio
 configuration in a few iterations.
 
 ## Configuration parameters
-![Critical Config in vLLM](https://github.com/wiluen/InferLog/blob/main/resource/conf.png)
-
+<img src="https://github.com/wiluen/InferLog/blob/main/resource/conf" alt="Critical Config in vLLM" width="600px" style="text-align: center">
 ## Main code:
 - data_collect.py: collect data using LHS or random
 - maml.py: original implement of MAML algorithm
