@@ -7,7 +7,7 @@ In this study, we present InferLog, the first LLM inference optimization method 
 
 ## Insight
 Reusing prefix KV caching of ICL part, not limited to common instruct.
-![Insight of InferLog](https://github.com/wiluen/InferLog/blob/main/resource/insight.png){:style="width:300px;"}
+<img src="https://github.com/wiluen/InferLog/blob/main/resource/insight.png" alt="Insight of InferLog" width="300px">
 ## start
 
 ### Environment Version
