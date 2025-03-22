@@ -4,6 +4,9 @@ Modern software systems generate massive volumes of runtime logs, necessitating 
 
 In this study, we present InferLog, the first LLM inference optimization method for online log parsing. InferLog accelerate inference by designing 1) A prefix-aware ICL refinement policy to refine the examples and permutation of in-context learning to improve the prefix caching efficiency. 2) A rapid and task-specific configuration tuning pipeline based on meta-learning to find the optimal LLM scheduling-relate configuration for dynamic log parsing workloads. The experimental results based on Loghub-2k dataset and vLLM demonstrate that InferLog significantly outperforms existing inference optimization methods and markedly accelerates the state-of-the-art LLM-based log parser without compromising parsing accuracy.
 ![overview of InferLog](https://github.com/wiluen/InferLog/blob/main/resource/overivew.png)
+
+## Insight
+![Insight of InferLog](https://github.com/wiluen/InferLog/blob/main/resource/insight.png)
 ## start
 
 ### Environment Version
