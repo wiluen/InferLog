@@ -112,10 +112,10 @@ def run(i,j,k,dataset):
     print('vllm ready')
 
     capacity = 200
-    concurrency = 200
+    concurrency = 100
     enable_pair = "True" 
     process_benchmark = subprocess.Popen(
-        ["python", "inferlog.py","--dataset",dataset,"--port",str(random_port),"--capacity",str(capacity),"concurrency",str(concurrency),"enable_pair",enable_pair]
+        ["python", "inferlog.py","--dataset",dataset,"--port",str(random_port),"--capacity",str(capacity),"--concurrency",str(concurrency),"--enable_pair",enable_pair]
     )
 
     process_benchmark.wait()
