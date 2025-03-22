@@ -498,7 +498,7 @@ if __name__ == "__main__":
     parser.add_argument("--port", type=str, required=True, help="vllm port")
     parser.add_argument("--capacity", type=int, required=True, help="capacity of ICL Table")
     parser.add_argument("--concurrency", type=int, required=True, help="requests concurrency")
-    parser.add_argument("--enable_pair", type=bool, required=True, help="enable PAIR,if false, return to prefix caching")
+    parser.add_argument("--enable_pair", action="store_true", help="enable PAIR,if false, return to prefix caching")
     args = parser.parse_args() 
     dataset=args.dataset
     port=args.port
