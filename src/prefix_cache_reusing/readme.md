@@ -13,11 +13,11 @@ InferLog proposes Prefix-aware ICL Refinement(PAIR) policy to refine the log par
 ## Run
 Download the open-source model and launch it using vLLM
 ```
-vllm serve qwen/Qwen2.5-14B-Instruct --enable-prefix-caching
+vllm serve qwen/Qwen2.5-14B-Instruct --port 8001 --enable-prefix-caching
 ```
 Run the command to perform log parsing on a datset and get inference performance and parsing accuracy
 ```
-python inferlog.py --dataset 'Spark' --port 8080 --capacity 200 --concurrency 10 --enable_pair
+python inferlog.py --dataset 'Spark' --port 8001 --capacity 200 --concurrency 100 --enable_pair
 ```
 
 
