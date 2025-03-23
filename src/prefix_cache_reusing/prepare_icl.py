@@ -183,9 +183,9 @@ if __name__ == "__main__":
         path = f'prompt/{dataset}'
         try:
             os.makedirs(path, exist_ok=True) 
-            print(f"目录 {path} 创建成功")
+            print(f"path {path} create successful")
         except OSError as error:
-            print(f"创建目录 {path} 失败: {error}")
+            print(f"path {path} create fail: {error}")
         for line_idx in tqdm(range(len(mp.log_test))): 
             log = mp.log_test[line_idx]
             mp.generatePrompt2txt(line_idx,log, nearest_num=5)
