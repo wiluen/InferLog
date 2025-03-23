@@ -451,7 +451,7 @@ async def run_benchmark(concurrency, request_timeout, output_tokens, vllm_url, a
         f.write(metrics)
 
     if evaluate: 
-    # 保存日志和模板
+    
         with open(log_path, 'r', newline='') as csvfile:
             reader = csv.reader(csvfile)
             log_data = list(reader)[1:]
