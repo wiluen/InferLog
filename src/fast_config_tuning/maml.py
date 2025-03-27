@@ -20,6 +20,7 @@ def data_loader(mode,task,shot):
         for dataset in datasets:
             df = pd.read_csv(f'dataset/{dataset}.csv')
             X = df[['conf1', 'conf2', 'conf3']].values
+            # x,y,z
             y = df['p95latency'].values
             indices = list(range(len(df))) 
             random.shuffle(indices)  
