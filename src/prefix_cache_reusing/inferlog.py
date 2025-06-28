@@ -506,7 +506,7 @@ if __name__ == "__main__":
     concurrency=args.concurrency
     rerank=args.enable_pair
     naive_output=[]
-    workload_folder=f'prompt/{dataset}'
+    workload_folder=f'benchmark/prompt/{dataset}'
     result_path=f'benchmark/{dataset}_evaluate.csv'
     groundtruth_path=f'dataset/{dataset}/{dataset}_2k.log_structured_corrected.csv'
     temp_path=f'benchmark/{dataset}_template.csv'
