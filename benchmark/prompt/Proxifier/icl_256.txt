@@ -1,0 +1,11 @@
+Log message: `r18---sn-vgqsenes.googlevideo.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `pv.mini.sohu.com:80 close, 1510 bytes (1.47 KB) sent, 1293 bytes (1.26 KB) received, lifetime 00:06`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `www.evernote.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `safebrowsing.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `get.sogou.com:80 close, 899 bytes sent, 348 bytes received, lifetime 00:03`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`get.sogou.com:80 close, 651 bytes sent, 346 bytes received, lifetime <1 sec`

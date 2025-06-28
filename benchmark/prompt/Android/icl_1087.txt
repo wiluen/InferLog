@@ -1,0 +1,11 @@
+Log message: `remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching`
+Log template: `remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching`
+Log message: `visible is system.time.showampm`
+Log template: `visible is <*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `state.clipTopAmount:-1, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `overlapAmount:85.0, previousNotificationEnd:0.0, newYTranslation:-85.0, location:4, i:0, getTopPadding:333.0, getLocationOnScreen():-418`
+Log template: `overlapAmount:<*>, previousNotificationEnd:<*>, newYTranslation:<*>, location:<*>, i:<*>, getTopPadding:<*>, getLocationOnScreen():<*>`
+`disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >`

@@ -1,0 +1,11 @@
+Log message: `Base or swap file too young to remove: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742`
+Log template: `Base or swap file too young to remove: <*>`
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Took 20.03 seconds to spawn the instance on the hypervisor.`
+Log template: `[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 0.46 seconds to deallocate network for instance.`
+Log template: `[instance: <*>] Took <*> seconds to deallocate network for instance.`
+Log message: `[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] memory limit: 96258.00 MB, free: 95746.00 MB`
+Log template: `[instance: <*>] memory limit: <*> MB, free: <*> MB`
+Log message: `10.11.10.1 "POST /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers HTTP/1.1" status: 202 len: 733 time: 0.6913249`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 1.00 seconds to destroy the instance on the hypervisor.`

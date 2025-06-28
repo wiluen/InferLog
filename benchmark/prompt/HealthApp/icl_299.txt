@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3640`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7048 5032 150968 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3643`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7036 5023 150711 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `processHandleBroadcastAction action:android.intent.action.TIME_TICK`
+Log template: `processHandleBroadcastAction action:android.intent.action.TIME_TICK`
+`REPORT : 7060 5040 151225 240`

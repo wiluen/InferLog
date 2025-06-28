@@ -1,0 +1,11 @@
+Log message: `efi pagecount 72`
+Log template: `efi pagecount <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x4 to 0x8000000000000000`
+Log template: `<*> successfully changed NAT64 ifstate from <*> to <*>`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+`polled file major 1, minor 0, blocksize 4096, pollers 5`

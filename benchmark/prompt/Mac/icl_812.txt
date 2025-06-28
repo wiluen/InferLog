@@ -1,0 +1,11 @@
+Log message: `hibernate_flush_memory: buffer_cache_gc freed up 3349 wired pages`
+Log template: `hibernate_flush_memory: buffer_cache_gc freed up <*> wired pages`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+Log message: `2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.`
+Log template: `<*> ksfetch[<*>] [lvl=<*>] main() ksfetch done fetching.`
+Log message: `2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+`ARPT: 700980.255260: wl0: setup_keepalive: Seq: 2955519239, Ack: 2597833420, Win size: 4096`

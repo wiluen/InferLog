@@ -1,0 +1,11 @@
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Instance destroyed successfully.`
+Log template: `[instance: <*>] Instance destroyed successfully.`
+Log message: `[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Deletion of /var/lib/nova/instances/95960536-049b-41f6-9049-05fc479b6a7c_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `10.11.21.135,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.2177148`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] VM Stopped (Lifecycle Event)`
+Log template: `[instance: <*>] VM Stopped (Lifecycle Event)`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Creating image`
+Log template: `[instance: <*>] Creating image`
+`[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Stopped (Lifecycle Event)`

@@ -1,0 +1,11 @@
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `ACTIVITY check resid: com.example.android.notepad, size=1`
+Log template: `ACTIVITY check resid: <*>, size=<*>`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `setSpeakerphoneOn  on: true`
+Log template: `setSpeakerphoneOn on: <*>`
+Log message: `mHeadsUpExistenceChangedRunnable`
+Log template: `mHeadsUpExistenceChangedRunnable`
+`ActivityManagerService,attachApplication,callingPid = 13003`

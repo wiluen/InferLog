@@ -1,0 +1,11 @@
+Log message: `CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats`
+Log template: `CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>`
+Log message: `QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport`
+Log template: `<*>(<*>) deny mach-lookup com.apple.networking.captivenetworksupport`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+Log message: `hibernate_alloc_pages act 173850, inact 24957, anon 891, throt 0, spec 73492, wire 527143, wireinit 39927`
+Log template: `hibernate_alloc_pages act <*>, inact <*>, anon <*>, throt <*>, spec <*>, wire <*>, wireinit <*>`
+`Received Capture Event`

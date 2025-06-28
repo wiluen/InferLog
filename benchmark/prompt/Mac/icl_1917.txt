@@ -1,0 +1,11 @@
+Log message: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****`
+Log template: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log message: `[00:28:42.167] (Fig) signalled err=-12871`
+Log template: `[<*>] (Fig) signalled err=<*>`
+Log message: `[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)`
+Log template: `[<*>] <<<< CRABS >>>> crabsWaitForLoad: [<*>] Wait time out - <*> (msRequestTimeout <*>)`
+`-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.`

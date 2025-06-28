@@ -1,0 +1,11 @@
+Log message: `Checking iCDP status for DSID 874161398 (checkWithServer=0)`
+Log template: `Checking iCDP status for DSID <*> (checkWithServer=<*>)`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+`ARPT: 672113.005012: wl0: setup_keepalive: interval 258, retry_interval 30, retry_count 10`

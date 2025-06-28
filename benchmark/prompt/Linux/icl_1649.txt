@@ -1,0 +1,11 @@
+Log message: `connection from 218.69.108.57 () at Fri Jun 24 18:55:18 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`
+Log template: `ANONYMOUS FTP LOGIN FROM <*>, (anonymous)`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=biblioteka.wsi.edu.pl`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=troi.bluesky-technologies.com  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `cupsd shutdown succeeded`
+Log template: `cupsd shutdown succeeded`
+`ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`

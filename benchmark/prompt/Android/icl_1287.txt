@@ -1,0 +1,11 @@
+Log message: `notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140`
+Log template: `cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>`
+Log message: `acquire lock=86152250, flags=0x1, tag="handleAudioEvent", name=android, ws=null, uid=1000, pid=1702`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** unregister callback for <*>@<*>`
+Log message: `setWiredDeviceConnectionState  type: -2147483632  state: 0`
+Log template: `setWiredDeviceConnectionState type: <*> state: <*>`
+`Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`

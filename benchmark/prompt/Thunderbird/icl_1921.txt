@@ -1,0 +1,11 @@
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $`
+Log template: `<*> <*> <*> ak Exp $`
+Log message: `Subsystem revision 20040816`
+Log template: `Subsystem revision <*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+`v2.0 (20020519)`

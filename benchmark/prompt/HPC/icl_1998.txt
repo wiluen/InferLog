@@ -1,0 +1,11 @@
+Log message: `NIFF: node node-171 has detected an available network connection on network 10.128.0.0 via interface ee0`
+Log template: `NIFF: node <*> has detected an available network connection on network <*> via interface ee0`
+Log message: `NIFF: node node-157 has detected an available network connection on network 5.5.226.0 via interface alt0`
+Log template: `NIFF: node <*> has detected an available network connection on network <*> via interface alt0`
+Log message: `NIFF: node node-151 has detected an available network connection on network 5.5.224.0 via interface alt0`
+Log template: `NIFF: node <*> has detected an available network connection on network <*> via interface alt0`
+Log message: `NIFF: node node-163 has detected an available network connection on network 0.0.0.0 via interface alt0`
+Log template: `NIFF: node <*> has detected an available network connection on network <*> via interface alt0`
+Log message: `NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0`
+Log template: `NIFF: node <*> has detected an available network connection on network <*> via interface alt0`
+`NIFF: node node-161 has detected an available network connection on network 0.0.0.0 via interface alt0`

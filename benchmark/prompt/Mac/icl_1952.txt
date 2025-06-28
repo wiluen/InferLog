@@ -1,0 +1,11 @@
+Log message: `setting hostname to "authorMacBook-Pro.local"`
+Log template: `setting hostname to "<*>"`
+Log message: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.`
+Log template: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.`
+Log message: `ARPT: 699244.827573: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2935131210, Ack 3049709979, Win size 278`
+Log template: `ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+`Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`

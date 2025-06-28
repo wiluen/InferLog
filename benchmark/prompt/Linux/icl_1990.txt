@@ -1,0 +1,11 @@
+Log message: `irqbalance startup succeeded`
+Log template: `irqbalance startup succeeded`
+Log message: `Setting network parameters: succeeded`
+Log template: `Setting network parameters: succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `Bringing up loopback interface: succeeded`
+Log template: `Bringing up loopback interface: succeeded`
+`Bringing up loopback interface: succeeded`

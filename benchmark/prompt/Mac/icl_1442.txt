@@ -1,0 +1,11 @@
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `[11:38:27.892] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce1406d600) rejecting report of layer being serviced - IQ has not yet begun to update`
+Log template: `[<*>] <<<< IQ-CA >>>> piqca_setUsePreQueue: (<*>) rejecting report of layer being serviced - IQ has not yet begun to update`
+Log message: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]`
+Log template: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-<*>].]`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+`[HID] [ATC] AppleDeviceManagementHIDEventService::processWakeReason Wake reason: Host (0x01)`

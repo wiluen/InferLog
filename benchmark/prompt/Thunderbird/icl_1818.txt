@@ -1,0 +1,11 @@
+Log message: `probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0`
+Log template: `probe new device <*>: bus <*>:slot <*>:func <*>`
+Log message: `DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPACK on <*> to <*> via eth1`
+Log message: `Reading included configuration file: /etc/xinetd.d/tftp [file=/etc/xinetd.d/tftp] [line=13]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `time reset +0.182379 s`
+Log template: `time reset +<*> s`
+`START: tftp pid=16563 from=10.100.4.251`

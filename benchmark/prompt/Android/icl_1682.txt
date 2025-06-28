@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:-1, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `Bad activity token: android.os.BinderProxy@2bd79ce`
+Log template: `Bad activity token: <*>@<*>`
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>`
+Log message: `getRingtonePlayer...`
+Log template: `getRingtonePlayer...`
+Log message: `suspendAutohide`
+Log template: `suspendAutohide`
+`Releasing suspend blocker "PowerManagerService.WakeLocks".`

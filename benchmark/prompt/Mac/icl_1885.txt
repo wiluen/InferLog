@@ -1,0 +1,11 @@
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+Log template: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=<*> "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+Log message: `Unexpected payload found for message 9, dataLen 0`
+Log template: `Unexpected payload found for message <*>, dataLen <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `Checking iCDP status for DSID 874161398 (checkWithServer=0)`
+Log template: `Checking iCDP status for DSID <*> (checkWithServer=<*>)`
+`hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112`

@@ -1,0 +1,11 @@
+Log message: `Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4`
+Log template: `Follower sid: <*> : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@<*>`
+Log message: `Received connection request /10.10.34.12:34051`
+Log template: `Received connection request <*>`
+Log message: `Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084`
+Log template: `Reading snapshot <*>`
+Log message: `Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e`
+Log template: `Snapshotting: <*> to <*>`
+Log message: `Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd`
+Log template: `Snapshotting: <*> to <*>`
+`Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd`

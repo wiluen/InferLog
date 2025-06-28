@@ -1,0 +1,11 @@
+Log message: `cbjs.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `hangouts.google.com:443 close, 13281 bytes (12.9 KB) sent, 19539 bytes (19.0 KB) received, lifetime 04:17`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `input.shouji.sogou.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `auth.grammarly.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `fonts.gstatic.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:17`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`0-edge-chat.facebook.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`

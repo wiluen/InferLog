@@ -1,0 +1,11 @@
+Log message: `Bluetooth -- LE is supported - Disable LE meta event`
+Log template: `Bluetooth -- LE is supported - Disable LE meta event`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `(DiskStore.Normal:2382) 20cb04f 1.000086`
+Log template: `(DiskStore.Normal:<*>) <*>`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `jemmytest`
+Log template: `jemmytest`
+`tcp_connection_destination_perform_socket_connect 19110 connectx to 183.57.48.75:80@0 failed: [50] Network is down`

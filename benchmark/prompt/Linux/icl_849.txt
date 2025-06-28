@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=adsl-70-242-75-179.dsl.ksc2mo.swbell.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=61.53.154.93  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=218.188.2.4`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `connection from 202.82.200.188 () at Thu Jul  7 16:33:52 2005`
+Log template: `connection from <*> () at <*>`
+`authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br`

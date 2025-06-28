@@ -1,0 +1,11 @@
+Log message: `Link in reset`
+Log template: `Link in reset`
+Log message: `Linkerror event interval expired`
+Log template: `Linkerror event interval expired`
+Log message: `Link ok`
+Log template: `Link ok`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `link errors remain current`
+Log template: `link errors remain current`
+`link errors remain current`

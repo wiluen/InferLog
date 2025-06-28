@@ -1,0 +1,11 @@
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+`TBT W (2): 0x0040 [x]`

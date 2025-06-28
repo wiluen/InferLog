@@ -1,0 +1,11 @@
+Log message: `getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:0, vCores:-27> knownNMs=4`
+Log template: `getResources() for <*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<memory:<*>, vCores:<*> knownNMs=<*>`
+Log message: `TaskAttempt: [attempt_1445144423722_0020_m_000003_0] using containerId: [container_1445144423722_0020_01_000005 on NM: [MSRA-SA-41.fareast.corp.microsoft.com:7109]`
+Log template: `TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>]`
+Log message: `DFSOutputStream ResponseProcessor exception  for block BP-1347369012-10.190.173.170-1444972147527:blk_1073743512_2731`
+Log template: `DFSOutputStream ResponseProcessor exception for block BP-<*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.37551183`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030`
+Log template: `Connecting to ResourceManager at <*>`
+`Connecting to ResourceManager at msra-sa-41/10.190.173.170:8030`

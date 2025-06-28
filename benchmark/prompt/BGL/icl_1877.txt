@@ -1,0 +1,11 @@
+Log message: `generating core.17638`
+Log template: `generating core.<*>`
+Log message: `generating core.2233`
+Log template: `generating core.<*>`
+Log message: `generating core.9369`
+Log template: `generating core.<*>`
+Log message: `generating core.33115`
+Log template: `generating core.<*>`
+Log message: `generating core.3436`
+Log template: `generating core.<*>`
+`generating core.3436`

@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.19247705`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Created MRAppMaster for application appattempt_1445144423722_0020_000001`
+Log template: `Created MRAppMaster for application <*>`
+Log message: `job_1445144423722_0020Job Transitioned from NEW to INITED`
+Log template: `<*> Transitioned from NEW to INITED`
+Log message: `JOB_CREATE job_1445144423722_0020`
+Log template: `JOB_CREATE <*>`
+Log message: `MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.`
+Log template: `MRAppMaster launching normal, non-uberized, multi-container job <*>.`
+`MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.`

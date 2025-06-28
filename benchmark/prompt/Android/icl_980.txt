@@ -1,0 +1,11 @@
+Log message: `release:lock=226887582, flg=0x0, tag="SCREEN_FROZEN", name=android", ws=null, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111`
+Log template: `cancelNotificationLocked:<*>|<*>|<*>|<*>|<*>`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[360,820][536,1011]} from uid 10057 on display 0`
+Log template: `START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*> bnds=<*>} from uid <*> on display <*>`
+`Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21000], maxLayer:[21080], inRotation:[false], rot:[0]`

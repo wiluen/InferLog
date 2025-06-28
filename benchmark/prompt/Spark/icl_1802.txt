@@ -1,0 +1,11 @@
+Log message: `Got assigned task 1351`
+Log template: `Got assigned task <*>`
+Log message: `Got assigned task 0`
+Log template: `Got assigned task <*>`
+Log message: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+Log template: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+Log message: `Changing view acls to: yarn,curi`
+Log template: `Changing view acls to: <*>`
+Log message: `Changing modify acls to: yarn,curi`
+Log template: `Changing modify acls to: <*>`
+`Changing modify acls to: yarn,curi`

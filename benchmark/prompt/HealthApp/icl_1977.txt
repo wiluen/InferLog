@@ -1,0 +1,11 @@
+Log message: `reStartStepCounter`
+Log template: `reStartStepCounter`
+Log message: `tryToRecordAsBasicStepData bWrite true`
+Log template: `tryToRecordAsBasicStepData bWrite <*>`
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+Log message: `getStepCounterStatus`
+Log template: `getStepCounterStatus`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+` getStepCounterStatus= true`

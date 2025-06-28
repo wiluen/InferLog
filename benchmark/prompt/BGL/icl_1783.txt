@@ -1,0 +1,11 @@
+Log message: `5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected`
+Log template: `<*> torus receiver z+ input pipe error(s) (dcr <*>) detected and corrected`
+Log message: `720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.`
+Log template: `<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.`
+Log message: `critical input interrupt enable...0`
+Log template: `critical input interrupt enable...<*>`
+Log message: `critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type`
+Log template: `critical input interrupt (unit=<*> bit=<*>): warning for tree C1 wire, suppressing further interrupts of same type`
+Log message: `critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type`
+Log template: `critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type`
+`critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type`

@@ -1,0 +1,11 @@
+Log message: `maxSessionTimeout set to -1`
+Log template: `maxSessionTimeout set to <*>`
+Log message: `******* GOODBYE /10.10.34.12:59203 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `******* GOODBYE /10.10.34.13:57458 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000`
+Log template: `Have quorum of supporters; starting up and setting last processed zxid: <*>`
+Log message: `First is 0x0`
+Log template: `First is <*>`
+`First is 0x0`

@@ -1,0 +1,11 @@
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats`
+Log template: `CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>`
+Log message: `__42-[NETClientConnection evaluateCrazyIvan46]_block_invoke CI46 - Hit by torpedo! QQ.10018 tc21519 184.105.67.74:443`
+Log template: `<*>-[NETClientConnection <*>]_block_invoke CI46 - Hit by torpedo! <*>`
+`payload Data 07 00`

@@ -1,0 +1,11 @@
+Log message: `Starting ts_fixup: succeeded`
+Log template: `Starting ts_fixup: succeeded`
+Log message: `rpc.statd startup succeeded`
+Log template: `rpc.statd startup succeeded`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `Initializing.`
+Log template: `Initializing.`
+Log message: `Creating Topspin /dev entries:`
+Log template: `Creating Topspin <*> entries:`
+`Creating Topspin /dev entries:`

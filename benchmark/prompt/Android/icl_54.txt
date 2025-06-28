@@ -1,0 +1,11 @@
+Log message: `release:lock=62617001, flg=0x0, tag="WindowManager", name=android", ws=WorkSource{10113}, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `getMode...`
+Log template: `getMode...`
+Log message: `release:lock=233570404, flg=0x0, tag="View Lock", name=com.android.systemui", ws=null, uid=10037, pid=2227`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false`
+Log template: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=<*>`
+Log message: `setLightsOn(true)`
+Log template: `setLightsOn(<*>)`
+`acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10113}, uid=1000, pid=1702`

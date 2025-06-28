@@ -1,0 +1,11 @@
+Log message: `vm_compressor_fastwake_warmup (581519 - 591525) - starting`
+Log template: `vm_compressor_fastwake_warmup (<*> - <*>) - starting`
+Log message: `__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2`
+Log template: `<*>-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>`
+Log message: `hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s`
+Log template: `hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s`
+Log message: `setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`
+Log template: `setting hostname to "<*>"`
+Log message: `11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>`
+Log template: `<*> : BTLE discovered device with hash <*>`
+`mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)`

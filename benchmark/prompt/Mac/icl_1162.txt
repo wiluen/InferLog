@@ -1,0 +1,11 @@
+Log message: `[10:13:05.044] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.`
+Log template: `[<*>] <<<< CRABS >>>> crabsFlumeHostAvailable: [<*>] Byte flume reports host available again.`
+Log message: `2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+`ARPT: 728173.580097: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`

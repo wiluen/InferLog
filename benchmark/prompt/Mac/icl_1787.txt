@@ -1,0 +1,11 @@
+Log message: `-[SOAPParser:0x7f84bad89660 parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)`
+Log template: `-[SOAPParser:<*> parser:didStartElement:namespaceURI:qualifiedName:attributes:] Type not found in EWSItemType for ExchangePersonIdGuid (t:ExchangePersonIdGuid)`
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `ARPT: 699244.827573: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2935131210, Ack 3049709979, Win size 278`
+Log template: `ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>`
+Log message: `Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`
+Log template: `Sandbox: <*>(<*>) deny(<*>) ipc-posix-shm-read-data CFPBS:<*>:`
+Log message: `ASL Sender Statistics`
+Log template: `ASL Sender Statistics`
+`[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]`

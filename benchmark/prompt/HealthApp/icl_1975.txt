@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3666`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7154 5107 153238 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7044 5029 150882 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3732`
+Log template: `onStandStepChanged <*>`
+Log message: `initEnviroument`
+Log template: `initEnviroument`
+`initEnviroument`

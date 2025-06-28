@@ -1,0 +1,11 @@
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Paused (Lifecycle Event)`
+Log template: `[instance: <*>] VM Paused (Lifecycle Event)`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Instance destroyed successfully.`
+Log template: `[instance: <*>] Instance destroyed successfully.`
+Log message: `Creating event network-vif-plugged:8b683414-2896-4251-aa05-980752c9b9b3 for instance fecdd5a9-3ca0-4c82-9336-63b7774f738e`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5 HTTP/1.1" status: 200 len: 1572 time: 0.1838732`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] VM Paused (Lifecycle Event)`

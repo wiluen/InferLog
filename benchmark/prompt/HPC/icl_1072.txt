@@ -1,0 +1,11 @@
+Log message: `ambient=31`
+Log template: `ambient=<*>`
+Log message: `normal`
+Log template: `normal`
+Log message: `starting`
+Log template: `starting`
+Log message: `Temperature (41C) exceeds warning threshold`
+Log template: `Temperature (<*>) exceeds warning threshold`
+Log message: `ambient=30`
+Log template: `ambient=<*>`
+`warning`

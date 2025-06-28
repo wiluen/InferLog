@@ -1,0 +1,11 @@
+Log message: `deleteHealthNotification()`
+Log template: `deleteHealthNotification()`
+Log message: `REPORT : 0 0 0 0`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `next day:steps0mLastReport7214`
+Log template: `next day:<*>`
+Log message: `new date =20171223, type=40003,214445.88000000006,old=210654.54000000004`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `clear()`
+Log template: `clear()`
+`clear()`

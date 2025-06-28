@@ -1,0 +1,11 @@
+Log message: `Link ok`
+Log template: `Link ok`
+Log message: `Link in reset`
+Log template: `Link in reset`
+Log message: `Link error on broadcast tree Interconnect-1T00:00:3:6`
+Log template: `Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>`
+Log message: `link errors remain current`
+Log template: `link errors remain current`
+Log message: `Link error`
+Log template: `Link error`
+`Link error`

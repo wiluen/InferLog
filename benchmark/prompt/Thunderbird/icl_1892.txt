@@ -1,0 +1,11 @@
+Log message: `kernel time sync disabled 0041`
+Log template: `kernel time sync disabled <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `Mounting NFS filesystems: succeeded`
+Log template: `Mounting NFS filesystems: succeeded`
+Log message: `md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27`
+Log template: `md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>`
+Log message: `Disk quotas dquot_6.5.1`
+Log template: `Disk quotas <*>`
+`Disk quotas dquot_6.5.1`

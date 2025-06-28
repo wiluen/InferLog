@@ -1,0 +1,11 @@
+Log message: `asking for cache data failed`
+Log template: `asking for cache data failed`
+Log message: `Detected 3591.360 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `routing cache hash table of 65536 buckets, 1024Kbytes`
+Log template: `routing cache hash table of <*> buckets, <*>`
+Log message: `L2 cache: 2048K`
+Log template: `L2 cache: <*>`
+Log message: `Trace cache: 12K uops, L1 D cache: 16K`
+Log template: `Trace cache: <*> uops, L1 D cache: <*>`
+`Trace cache: 12K uops, L1 D cache: 16K`

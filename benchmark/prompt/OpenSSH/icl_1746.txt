@@ -1,0 +1,11 @@
+Log message: `fatal: Write failed: Connection reset by peer [preauth]`
+Log template: `fatal: Write failed: Connection reset by peer [preauth]`
+Log message: `Failed password for root from 183.62.140.253 port 55577 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Invalid user cheng from 202.100.179.208`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for root from 183.62.140.253 port 38133 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 183.62.140.253 port 35525 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`Failed password for root from 183.62.140.253 port 32826 ssh2`

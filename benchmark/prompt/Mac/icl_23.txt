@@ -1,0 +1,11 @@
+Log message: `2017-07-02 15:46:40.697 GoogleSoftwareUpdateAgent[32432/0x7000002a0000] [lvl=2] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSUpdateEngine updateAllExceptProduct:] KSUpdateEngine updating all installed products, except:'com.google.Keystone'.`
+Log message: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log template: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log message: `after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8`
+Log template: `after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>&espv=<*>&ie=UTF-<*>`
+Log message: `vm_compressor_fastwake_warmup (581519 - 591525) - starting`
+Log template: `vm_compressor_fastwake_warmup (<*> - <*>) - starting`
+Log message: `KeychainGetICDPStatus: status: off`
+Log template: `KeychainGetICDPStatus: status: off`
+`ARPT: 621145.554555: IOPMPowerSource Information: onSleep,  SleepType: Normal Sleep,  'ExternalConnected': Yes, 'TimeRemaining': 0,`

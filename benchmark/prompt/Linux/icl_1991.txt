@@ -1,0 +1,11 @@
+Log message: `creating device node '/udev/vcs2'`
+Log template: `creating device node '<*>'`
+Log message: `Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)`
+Log template: `Dquot-cache hash table entries: <*> (order <*>, <*> bytes)`
+Log message: `Total HugeTLB memory allocated, 0`
+Log template: `Total HugeTLB memory allocated, <*>`
+Log message: `check pass; user unknown`
+Log template: `check pass; user unknown`
+Log message: `VFS: Disk quotas dquot_6.5.1`
+Log template: `VFS: Disk quotas <*>`
+`VFS: Disk quotas dquot_6.5.1`

@@ -1,0 +1,11 @@
+Log message: `Number of reduces for job job_1445144423722_0020 = 1`
+Log template: `Number of reduces for job <*> = <*>`
+Log message: `blacklistDisablePercent is 33`
+Log template: `blacklistDisablePercent is <*>`
+Log message: `Got allocated containers 1`
+Log template: `Got allocated containers <*>`
+Log message: `maxContainerCapability: <memory:8192, vCores:32>`
+Log template: `maxContainerCapability: <memory:<*>, vCores:<*>>`
+Log message: `maxTaskFailuresPerNode is 3`
+Log template: `maxTaskFailuresPerNode is <*>`
+`maxTaskFailuresPerNode is 3`

@@ -1,0 +1,11 @@
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `hcid startup succeeded`
+Log template: `hcid startup succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=217.60.212.66  user=guest`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+`cupsd startup succeeded`

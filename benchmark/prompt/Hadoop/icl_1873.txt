@@ -1,0 +1,11 @@
+Log message: `Resolved 04DN8IQ.fareast.corp.microsoft.com to /default-rack`
+Log template: `Resolved <*> to <*>`
+Log message: `Recalculating schedule, headroom=<memory:3072, vCores:-24>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+Log message: `Executing with tokens:`
+Log template: `Executing with tokens:`
+Log message: `Adding job token for job_1445144423722_0020 to jobTokenSecretManager`
+Log template: `Adding job token for <*> to jobTokenSecretManager`
+Log message: `Size of containertokens_dob is 1`
+Log template: `Size of containertokens_dob is <*>`
+`Adding #0 tokens and #1 secret keys for NM use for launching container`

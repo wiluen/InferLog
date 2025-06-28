@@ -1,0 +1,11 @@
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.`
+Log template: `<*> ksfetch[<*>] [lvl=<*>] main() ksfetch done fetching.`
+Log message: `FA||Url||taskID[2019353444] dealloc`
+Log template: `FA||Url||taskID[<*>] dealloc`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+`Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`

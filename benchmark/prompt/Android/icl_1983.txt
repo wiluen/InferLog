@@ -1,0 +1,11 @@
+Log message: `sending alarm Alarm{aa90550 type 3 when 509142332 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick`
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0`
+Log template: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>`
+Log message: `battery changed pluggedType: 0`
+Log template: `battery changed pluggedType: <*>`
+Log message: `RefreshBatteryInfo isBatteryLow: 23`
+Log template: `RefreshBatteryInfo isBatteryLow: <*>`
+`DefaultState what=155652`

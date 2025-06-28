@@ -1,0 +1,11 @@
+Log message: `Direct-Access ANSI SCSI revision: 02`
+Log template: `Direct-Access ANSI SCSI revision: <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `scanning scsi channel 1 [virtual] for logical drives`
+Log template: `scanning scsi channel <*> [virtual] for logical drives`
+Log message: `Processor ANSI SCSI revision: 02`
+Log template: `Processor ANSI SCSI revision: <*>`
+Log message: `PE/PV Model: 1x2 SCSI BP Rev: 1.0`
+Log template: `PE/PV Model: <*> SCSI BP Rev: <*>`
+`PE/PV Model: 1x2 SCSI BP Rev: 1.0`

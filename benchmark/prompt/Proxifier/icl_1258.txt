@@ -1,0 +1,11 @@
+Log message: `oimagec3.ydstatic.com:80 close, 358 bytes sent, 48647 bytes (47.5 KB) received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `24.135.95.248:443 close, 131 bytes sent, 153 bytes received, lifetime 00:12`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `live.github.com:443 close, 2931 bytes (2.86 KB) sent, 2089 bytes (2.04 KB) received, lifetime 47:52`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `cidian.youdao.com:80 close, 2369 bytes (2.31 KB) sent, 1583 bytes (1.54 KB) received, lifetime 02:59`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `qdun-data.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+`dict.youdao.com:80 close, 447 bytes sent, 2122 bytes (2.07 KB) received, lifetime 10:01`

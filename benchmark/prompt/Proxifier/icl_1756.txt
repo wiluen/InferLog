@@ -1,0 +1,11 @@
+Log message: `v.admaster.com.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `live.github.com:443 close, 2931 bytes (2.86 KB) sent, 2089 bytes (2.04 KB) received, lifetime 47:52`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `qdun-data.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `cidian.youdao.com:80 close, 2369 bytes (2.31 KB) sent, 1583 bytes (1.54 KB) received, lifetime 02:59`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+`cidian.youdao.com:80 close, 923 bytes sent, 456 bytes received, lifetime 09:53`

@@ -1,0 +1,11 @@
+Log message: `Received disconnect from 60.2.12.12: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2`
+Log template: `Failed none for invalid user <*> from <*> port <*> ssh2`
+Log message: `Invalid user abc from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user ghost from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for invalid user vnc from 187.141.143.180 port 60547 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+`Invalid user vnc from 187.141.143.180`

@@ -1,0 +1,11 @@
+Log message: `critical`
+Log template: `critical`
+Log message: `ambient=29`
+Log template: `ambient=<*>`
+Log message: `ambient=26`
+Log template: `ambient=<*>`
+Log message: `ambient=32`
+Log template: `ambient=<*>`
+Log message: `ambient=35`
+Log template: `ambient=<*>`
+`ambient=32`

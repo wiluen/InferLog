@@ -1,0 +1,11 @@
+Log message: `getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq`
+Log template: `getAllCellInfo is blocked by permission manager . callingPackage = <*>`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+Log message: `cancelAutohide`
+Log template: `cancelAutohide`
+Log message: `ACTION_BATTERY_CHANGED pluggedType: 0`
+Log template: `ACTION_BATTERY_CHANGED pluggedType: <*>`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+`cancelPeek: false`

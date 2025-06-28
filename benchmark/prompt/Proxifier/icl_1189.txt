@@ -1,0 +1,11 @@
+Log message: `BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `rssgov.windows.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec`

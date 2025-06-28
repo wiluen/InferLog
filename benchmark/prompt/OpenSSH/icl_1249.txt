@@ -1,0 +1,11 @@
+Log message: `Failed password for root from 183.62.140.253 port 40110 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `fatal: Write failed: Connection reset by peer [preauth]`
+Log template: `fatal: Write failed: Connection reset by peer [preauth]`
+Log message: `Failed password for root from 183.62.140.253 port 34849 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 183.62.140.253 port 55577 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 183.62.140.253 port 35525 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`Failed password for root from 183.62.140.253 port 57092 ssh2`

@@ -1,0 +1,11 @@
+Log message: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x6800 ****`
+Log template: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- <*> -- <*> -- <*> ****`
+Log message: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+Log template: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+Log message: `hibernate_flush_memory: buffer_cache_gc freed up 3349 wired pages`
+Log template: `hibernate_flush_memory: buffer_cache_gc freed up <*> wired pages`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+`ARPT: 724509.898718: wl0: MDNS: IPV4 Addr: 10.105.160.226`

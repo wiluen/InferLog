@@ -1,0 +1,11 @@
+Log message: `wake time set -0.855670 s`
+Log template: `wake time set <*> s`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `PMStats: Hibernate read took 197 ms`
+Log template: `PMStats: Hibernate read took <*> ms`
+`Saw change in network reachability (isReachable=0)`

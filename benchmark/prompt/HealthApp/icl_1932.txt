@@ -1,0 +1,11 @@
+Log message: `new date =20171223, type=40005,330.0,old=330.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `InsertEvent success begin:25233975 end:25233979`
+Log template: `InsertEvent success begin:<*> end:<*>`
+Log message: `uploadStaticsToDB failed message=true`
+Log template: `uploadStaticsToDB failed message=<*>`
+Log message: `setWriteDBLastDataMinute=25233979`
+Log template: `setWriteDBLastDataMinute=<*>`
+`insertHiHealthData() end totalTime = 94`

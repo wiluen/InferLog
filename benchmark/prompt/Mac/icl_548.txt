@@ -1,0 +1,11 @@
+Log message: `device_generate_lock_screen_screenshot: authw 0x7fa823962400(2000)[0, 0, 1440, 900] shield 0x7fa82d372000(2001), dev [1440,900]`
+Log template: `device_generate_lock_screen_screenshot: authw <*>(<*>)[<*>, <*>, <*>, <*>] shield <*>(<*>), dev [<*>,<*>]`
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log template: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+`-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-04 00:25:15 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)`

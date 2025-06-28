@@ -1,0 +1,11 @@
+Log message: `Reboot mark refs: 0`
+Log template: `Reboot mark refs: <*>`
+Log message: `0000000f@2016/9/27:20:40:54.786 CSI perf trace:`
+Log template: `<*> CSI perf trace:`
+Log message: `0000000d Creating NT transaction (seq 2), objectname [6]"(null)"`
+Log template: `<*> Creating NT transaction (seq <*>), objectname [<*>]"(<*>)"`
+Log message: `Ending TrustedInstaller finalization.`
+Log template: `Ending TrustedInstaller finalization.`
+Log message: `00000010@2016/9/27:20:40:54.787 CSI Transaction @0x47e9e0 destroyed`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> CSI Transaction @<*> destroyed`
+`0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.`

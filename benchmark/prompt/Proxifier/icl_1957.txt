@@ -1,0 +1,11 @@
+Log message: `lh3.googleusercontent.com:443 close, 745 bytes sent, 229 bytes received, lifetime 00:14`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `3.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `secure.quantserve.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 00:40`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `203.205.151.204:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`ssl.google-analytics.com:443 close, 974 bytes sent, 4680 bytes (4.57 KB) received, lifetime 04:02`

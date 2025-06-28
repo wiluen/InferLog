@@ -1,0 +1,11 @@
+Log message: `connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `session opened for user news by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `cupsd startup succeeded`
+Log template: `cupsd startup succeeded`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+`check pass; user unknown`

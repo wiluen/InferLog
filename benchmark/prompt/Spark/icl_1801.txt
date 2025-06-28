@@ -1,0 +1,11 @@
+Log message: `Reading broadcast variable 0 took 21 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+Log message: `Got assigned task 0`
+Log template: `Got assigned task <*>`
+Log message: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+Log template: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+Log message: `Changing modify acls to: yarn,curi`
+Log template: `Changing modify acls to: <*>`
+Log message: `Changing view acls to: yarn,curi`
+Log template: `Changing view acls to: <*>`
+`Changing view acls to: yarn,curi`

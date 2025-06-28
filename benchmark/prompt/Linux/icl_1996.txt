@@ -1,0 +1,11 @@
+Log message: `PCI: Using configuration type 1`
+Log template: `PCI: Using configuration type <*>`
+Log message: `PCI: Probing PCI hardware`
+Log template: `PCI: Probing PCI hardware`
+Log message: `PCI: Probing PCI hardware (bus 00)`
+Log template: `PCI: Probing PCI hardware (bus <*>)`
+Log message: `isapnp: No Plug & Play device found`
+Log template: `isapnp: No Plug & Play device found`
+Log message: `isapnp: Scanning for PnP cards...`
+Log template: `isapnp: Scanning for PnP cards...`
+`isapnp: Scanning for PnP cards...`

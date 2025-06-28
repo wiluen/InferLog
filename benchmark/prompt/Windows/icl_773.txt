@@ -1,0 +1,11 @@
+Log message: `Session: 30546174_177417154 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_171646824 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_133134621 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_186107651 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_2934760039 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Session: 30546174_169666711 initialized by client WindowsUpdateAgent.`

@@ -1,0 +1,11 @@
+Log message: `Session: 30546174_167286575 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_184807577 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Scavenge: Starts`
+Log template: `Scavenge: Starts`
+Log message: `Session: 30546174_185317606 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `0000000a Performing 1 operations; 1 are not lock/unlock and follow:`
+Log template: `<*> Performing <*> operations; <*> are not lock/unlock and follow:`
+`Session: 30546174_186137653 initialized by client WindowsUpdateAgent.`

@@ -1,0 +1,11 @@
+Log message: `app.4399.cn:80 close, 1381 bytes (1.34 KB) sent, 38524 bytes (37.6 KB) received, lifetime 00:52`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `info.pinyin.sogou.com:80 close, 548 bytes sent, 166 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `dc.csdn.net:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `tvax1.sinaimg.cn:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `zhstatic.zhihu.com:443 close, 332 bytes sent, 3763 bytes (3.67 KB) received, lifetime 00:18`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+`www.zhihu.com:443 close, 327 bytes sent, 3699 bytes (3.61 KB) received, lifetime 00:18`

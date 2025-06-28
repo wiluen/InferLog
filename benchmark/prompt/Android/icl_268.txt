@@ -1,0 +1,11 @@
+Log message: `setWiredDeviceConnectionState  type: 4  state: 0`
+Log template: `setWiredDeviceConnectionState type: <*> state: <*>`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `cancelNotificationLocked,remove =com.tencent.mobileqq`
+Log template: `cancelNotificationLocked,remove =<*>`
+Log message: `getLastAudibleStreamVolume  treamType: 2`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+`getTasks: caller 10111 does not hold REAL_GET_TASKS; limiting output`

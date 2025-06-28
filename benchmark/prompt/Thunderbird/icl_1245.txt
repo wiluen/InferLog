@@ -1,0 +1,11 @@
+Log message: `#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=18]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Warning: we failed to resolve data source name cn270 cn271 cn272 cn273 cn274 cn275 cn276 cn277 cn278 cn279 cn280 cn281 cn282 cn283 cn284 cn285 cn286 cn287 cn288 cn289 cn290 cn291 cn292 cn293 cn294 cn295 cn296 cn297 cn298 cn299 cn300 cn301 cn302 cn303 cn304 cn305 cn306 cn307 cn308 cn309 cn310 cn311 cn312 cn313 cn314 cn315 cn316 cn317 cn318 cn319 cn320 cn321 cn322 cn323 cn324 cn325 cn326 cn327 cn328 cn329 cn330 cn331 cn332 cn333 cn334 cn335 cn336 cn337 cn338 cn339 cn340 cn341 cn342 cn343 cn344 cn345 cn346 cn347 cn348 cn349 cn350 cn351 cn352 cn353 cn354 cn355 cn356 cn357 cn358 cn359 cn360 cn361 cn362 cn363 cn364 cn365 cn366 cn367 cn368 cn369 cn370 cn371 cn372 cn373 cn374 cn375 cn376 cn377 cn378 cn379 cn380 cn381 cn382 cn383 cn384`
+Log template: `Warning: we failed to resolve data source name <*>`
+Log message: `RRD_update (/var/lib/ganglia/rrds/unspecified/badmin3/disk_total.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)`
+Log template: `RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)`
+`RRD_update (/var/lib/ganglia/rrds/C Nodes/cn776/pkts_out.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)`

@@ -1,0 +1,11 @@
+Log message: `REPORT : 7066 5045 151353 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3675`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7056 5037 151139 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3640`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7101 5070 152103 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7094 5065 151953 240`

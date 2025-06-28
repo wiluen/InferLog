@@ -1,0 +1,11 @@
+Log message: `REPORT : 7015 5008 150261 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `calculateCaloriesWithCache totalCalories=128831`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `theDayChanged 1514044800216`
+Log template: `theDayChanged <*>`
+Log message: `tryToReloadTodayBasicSteps1514044800223|3786|0|0`
+Log template: `<*>|<*>|<*>|<*>`
+Log message: `setGoalNotifiShownRecord 1514044800237 false`
+Log template: `setGoalNotifiShownRecord <*> <*>`
+`next day:steps0mLastReport7214`

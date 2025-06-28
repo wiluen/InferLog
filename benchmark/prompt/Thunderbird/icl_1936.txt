@@ -1,0 +1,11 @@
+Log message: `Subsystem revision 20040816`
+Log template: `Subsystem revision <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `syslog-ng startup succeeded`
+Log template: `syslog-ng startup succeeded`
+Log message: `syslog-ng version 1.6.7 starting`
+Log template: `syslog-ng version <*> starting`
+`syslog-ng version 1.6.7 starting`

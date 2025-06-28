@@ -1,0 +1,11 @@
+Log message: `CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=1 in environment to log backtraces.`
+Log template: `CoreAnimation: warning, deleted thread with uncommitted CATransaction; set CA_DEBUG_TRANSACTIONS=<*> in environment to log backtraces.`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `en0: manual intervention required!`
+Log template: `en0: manual intervention required!`
+Log message: `hibernate_alloc_pages act 173850, inact 24957, anon 891, throt 0, spec 73492, wire 527143, wireinit 39927`
+Log template: `hibernate_alloc_pages act <*>, inact <*>, anon <*>, throt <*>, spec <*>, wire <*>, wireinit <*>`
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+`CCFile::captureLog`

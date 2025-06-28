@@ -1,0 +1,11 @@
+Log message: `ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/TomAndJeff/bin/tested_copro/tested_copro.rts`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2`
+Log template: `ciod: generated <*> core files for program <*>`
+`ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2`

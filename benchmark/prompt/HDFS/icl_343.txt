@@ -1,0 +1,11 @@
+Log message: `BLOCK* NameSystem.delete: blk_-2012430628930443984 is added to invalidSet of 10.250.11.100:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.delete: blk_5018797996887008111 is added to invalidSet of 10.251.89.155:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.delete: blk_-2834195813213005328 is added to invalidSet of 10.250.7.244:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.delete: blk_166171721314010075 is added to invalidSet of 10.251.30.85:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.delete: blk_247452006316846355 is added to invalidSet of 10.250.6.191:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+`BLOCK* NameSystem.delete: blk_8404604116961181201 is added to invalidSet of 10.250.13.188:50010`

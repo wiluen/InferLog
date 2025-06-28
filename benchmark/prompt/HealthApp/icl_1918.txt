@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3666`
+Log template: `onStandStepChanged <*>`
+Log message: `onReceive action: android.intent.action.SCREEN_ON`
+Log template: `onReceive action: android.intent.action.SCREEN_ON`
+Log message: `new date =20171223, type=40003,214445.88000000006,old=210654.54000000004`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `initUserPrivacy the userPrivacy switch is open, start push user data!`
+Log template: `initUserPrivacy the userPrivacy switch is open, start push user data!`
+Log message: `new date =20171223, type=40004,4800.935999999999,old=5112.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+`ifCanSync not! no cloud version`

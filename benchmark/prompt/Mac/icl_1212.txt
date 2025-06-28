@@ -1,0 +1,11 @@
+Log message: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.`
+Log template: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+`assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90`

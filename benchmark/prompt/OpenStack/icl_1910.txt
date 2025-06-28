@@ -1,0 +1,11 @@
+Log message: `[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Claim successful`
+Log template: `[instance: <*>] Claim successful`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Claim successful`
+Log template: `[instance: <*>] Claim successful`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Took 20.14 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+Log message: `image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking`
+Log template: `image <*> at (<*>): checking`
+Log message: `10.11.21.133,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ami HTTP/1.1" status: 200 len: 119 time: 0.4668469`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Claim successful`

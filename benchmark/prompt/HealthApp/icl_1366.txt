@@ -1,0 +1,11 @@
+Log message: `saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003`
+Log template: `saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `ifCanSync not! no cloud version`
+Log template: `ifCanSync not! no cloud version`
+Log message: `sendSyncFailedBroadcast`
+Log template: `sendSyncFailedBroadcast`
+Log message: `initUserPrivacy the userPrivacy is true`
+Log template: `initUserPrivacy the userPrivacy is <*>`
+`initDataPrivacy the dataPrivacy switch is open, start push health data!`

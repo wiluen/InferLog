@@ -1,0 +1,11 @@
+Log message: `16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected`
+Log template: `<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected`
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+Log message: `ciod: Error loading /bgl/apps/swl-prep/rky-swl/MPI-PERF/IMB/perf_tests/IMB-MPI1.5124KB: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected`
+Log template: `<*> torus receiver z+ input pipe error(s) (dcr <*>) detected and corrected`
+Log message: `26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds`
+Log template: `<*> torus sender z- retransmission error(s) (dcr <*>) detected and corrected over <*> seconds`
+`26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds`

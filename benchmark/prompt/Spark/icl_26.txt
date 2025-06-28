@@ -1,0 +1,11 @@
+Log message: `Reading broadcast variable 9 took 160 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+Log message: `Reading broadcast variable 39 took 716 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+Log message: `Reading broadcast variable 40 took 10 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+Log message: `Reading broadcast variable 18 took 12 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+Log message: `Reading broadcast variable 0 took 21 ms`
+Log template: `Reading broadcast variable <*> took <*> ms`
+`Reading broadcast variable 4 took 18 ms`

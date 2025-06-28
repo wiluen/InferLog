@@ -1,0 +1,11 @@
+Log message: `Got assigned task 374`
+Log template: `Got assigned task <*>`
+Log message: `Found block rdd_42_36 locally`
+Log template: `Found block <*> locally`
+Log message: `Got assigned task 388`
+Log template: `Got assigned task <*>`
+Log message: `Slf4jLogger started`
+Log template: `Slf4jLogger started`
+Log message: `Server created on 40984`
+Log template: `Server created on <*>`
+`Server created on 40984`

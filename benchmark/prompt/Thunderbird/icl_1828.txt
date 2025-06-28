@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+Log message: `synchronized to LOCAL(0), stratum 10`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to 10.100.22.250, stratum 3`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to #3#, stratum 1`
+Log template: `synchronized to <*>, stratum <*>`
+`synchronized to #3#, stratum 1`

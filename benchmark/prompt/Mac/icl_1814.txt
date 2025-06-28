@@ -1,0 +1,11 @@
+Log message: `2017-07-04 09:42:57.924 GoogleSoftwareUpdateAgent[34603/0x700000323000] [lvl=2] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '/Users/xpc/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle/Contents/MacOS/GoogleSoftwareUpdateDaemon' with the requirement 'anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] exists and certificate leaf[field.1.2.840.113635.100.6.1.13] exists and certificate leaf[subject.OU]="EQHXZ8M8AV" and (identifier="com.google.Keystone")'`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] +[KSCodeSigningVerification verifyBundle:applicationId:error:] KSCodeSigningVerification verifying code signing for '<*>' with the requirement 'anchor apple generic and certificate <*>[field.<*>] exists and certificate leaf[field.<*>] exists and certificate leaf[subject.OU]="<*>" and (identifier="com.google.Keystone")'`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.`
+Log template: `<*>-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+`11:46:19.229 : Finished generating hashes`

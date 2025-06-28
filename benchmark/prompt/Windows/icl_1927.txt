@@ -1,0 +1,11 @@
+Log message: `00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> PopulateComponentFamiliesKey - End`
+Log message: `Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+Log message: `Disabling manifest caching, because the image is not writeable.`
+Log template: `Disabling manifest caching, because the image is not writeable.`
+Log message: `Loading offline registry hive: ntuser.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Users\default\ntuser.dat'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+Log message: `0000000a CSI Store 17159600 (0x000000000105d5b0) initialized`
+Log template: `<*> CSI Store <*> (<*>) initialized`
+`Loading offline registry hive: schema.dat, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\system32\smi\store\Machine\schema.dat'.`

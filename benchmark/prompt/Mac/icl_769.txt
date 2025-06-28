@@ -1,0 +1,11 @@
+Log message: `ARPT: 739295.354731: wl0: Roamed or switched channel, reason #4, bssid f8:4f:57:3b:ea:b2, last RSSI -77`
+Log template: `ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log template: `ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+Log message: `hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s`
+Log template: `hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s`
+`network changed: v4(en0!:10.105.162.105) DNS+ Proxy+ SMB`

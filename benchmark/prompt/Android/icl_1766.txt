@@ -1,0 +1,11 @@
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111`
+Log template: `cancelNotificationLocked:<*>|<*>|<*>|<*>|<*>`
+Log message: `applyOptionsLocked: Unknown animationType=0`
+Log template: `applyOptionsLocked: Unknown animationType=<*>`
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+`applyOptionsLocked: Unknown animationType=0`

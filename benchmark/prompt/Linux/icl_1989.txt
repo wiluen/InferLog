@@ -1,0 +1,11 @@
+Log message: `CPU: L1 I cache: 16K, L1 D cache: 16K`
+Log template: `CPU: <*> I cache: <*>, <*> D cache: <*>`
+Log message: `On node 0 totalpages: 32430`
+Log template: `On node <*> totalpages: <*>`
+Log message: `Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)`
+Log template: `Dquot-cache hash table entries: <*> (order <*>, <*> bytes)`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `Total HugeTLB memory allocated, 0`
+Log template: `Total HugeTLB memory allocated, <*>`
+`Total HugeTLB memory allocated, 0`

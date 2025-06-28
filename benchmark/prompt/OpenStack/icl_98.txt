@@ -1,0 +1,11 @@
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deletion of /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `Creating event network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9 for instance 70c1714b-c11b-4c88-b300-239afe1f5ff8`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `HTTP exception thrown: No instances found for any event`
+Log template: `HTTP exception thrown: No instances found for any event`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] disk limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] disk limit not specified, defaulting to unlimited`
+`[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Instance spawned successfully.`

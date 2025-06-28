@@ -1,0 +1,11 @@
+Log message: `block-edge.dropbox.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `sb.scorecardresearch.com:443 close, 3818 bytes (3.72 KB) sent, 6276 bytes (6.12 KB) received, lifetime 11:02`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `oimagec3.ydstatic.com:80 close, 358 bytes sent, 48647 bytes (47.5 KB) received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `qdun-data.qq.com:443 close, 261 bytes sent, 70 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `yt3.ggpht.com:443 close, 10542 bytes (10.2 KB) sent, 356545 bytes (348 KB) received, lifetime 09:54`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+`yt3.ggpht.com:443 close, 7886 bytes (7.70 KB) sent, 69275 bytes (67.6 KB) received, lifetime 07:05`

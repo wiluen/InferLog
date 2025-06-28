@@ -1,0 +1,11 @@
+Log message: `Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973)`
+Log template: `Component State Change: Component <*> is in the unavailable state (HWID=<*>)`
+Log message: `Link error on broadcast tree Interconnect-1T00:00:3:6`
+Log template: `Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `link errors remain current`
+Log template: `link errors remain current`
+Log message: `Linkerror event interval expired`
+Log template: `Linkerror event interval expired`
+`Linkerror event interval expired`

@@ -1,0 +1,11 @@
+Log message: `Invalid user anonymous from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user guest from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user eoor [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Failed password for invalid user deploy from 187.141.143.180 port 39710 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=103.99.0.122  user=sshd`
+Log template: `pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+`Failed password for invalid user anonymous from 103.99.0.122 port 63514 ssh2`

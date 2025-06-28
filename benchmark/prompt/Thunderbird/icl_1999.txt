@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `sda1 sda2 sda3 sda4`
+Log template: `sda1 sda2 sda3 sda4`
+Log message: `Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report`
+Log template: `Device: <*>, Temperature changed <*> Celsius to <*> Celsius since last report`
+`Device: /dev/sda, Temperature changed -2 Celsius to 26 Celsius since last report`

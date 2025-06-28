@@ -1,0 +1,11 @@
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `orientation change is complete, call stopFreezingDisplayLocked`
+Log template: `orientation change is complete, call stopFreezingDisplayLocked`
+Log message: `rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED`
+Log template: `rotationForOrientationLw(orient=<*>, last=<*>); user=<*> USER_ROTATION_LOCKED`
+Log message: `The change in focus caused us to need to do a layout end`
+Log template: `The change in focus caused us to need to do a layout end`
+`Application requested orientation -1, got rotation 0 which has compatible metrics`

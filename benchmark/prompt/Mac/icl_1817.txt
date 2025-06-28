@@ -1,0 +1,11 @@
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+Log message: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log template: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+`11:49:29.473 : BTLE scanner Powered On`

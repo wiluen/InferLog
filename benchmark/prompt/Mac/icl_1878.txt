@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `Google Chrome He[36456] triggered unnest of range 0x7fff93c00000->0x7fff93e00000 of DYLD shared region in VM map 0x77c9114550458e7b. While not abnormal for debuggers, this increases system memory footprint until the target exits.`
+Log template: `Google Chrome He[<*>] triggered unnest of range <*> of DYLD shared region in VM map <*>. While not abnormal for debuggers, this increases system memory footprint until the target exits.`
+Log message: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]`
+Log template: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-<*>].]`
+Log message: `payload Data 07 00`
+Log template: `payload Data <*>`
+`hciControllerOnline; HID devices? 0`

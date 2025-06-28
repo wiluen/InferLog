@@ -1,0 +1,11 @@
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> bnds=<*> }`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+`mVisiblity.getValue is false`

@@ -1,0 +1,11 @@
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `[10:13:05.044] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.`
+Log template: `[<*>] <<<< CRABS >>>> crabsFlumeHostAvailable: [<*>] Byte flume reports host available again.`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `Unexpected payload found for message 9, dataLen 0`
+Log template: `Unexpected payload found for message <*>, dataLen <*>`
+`pages 554018, wire 418692, act 40000, inact 0, cleaned 0 spec 0, zf 0, throt 0, compr 112, xpmapped 40000`

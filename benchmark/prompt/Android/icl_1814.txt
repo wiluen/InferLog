@@ -1,0 +1,11 @@
+Log message: `setSystemUiVisibility vis=0 mask=1 oldVal=508 newVal=508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)`
+Log template: `setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>`
+Log message: `orientation change is complete, call stopFreezingDisplayLocked`
+Log template: `orientation change is complete, call stopFreezingDisplayLocked`
+`orientation change is complete, call stopFreezingDisplayLocked`

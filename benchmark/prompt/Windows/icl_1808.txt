@@ -1,0 +1,11 @@
+Log message: `SQM: Initializing online with Windows opt-in: False`
+Log template: `SQM: Initializing online with Windows opt-in: <*>`
+Log message: `SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6`
+Log template: `SQM: Queued <*> file(s) for upload with pattern: <*>, flags: <*>`
+Log message: `SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Failed to start upload with file pattern: <*>, flags: <*> [HRESULT = <*> - E_FAIL]`
+Log message: `SQM: Requesting upload of all unsent reports.`
+Log template: `SQM: Requesting upload of all unsent reports.`
+Log message: `SQM: Cleaning up report files older than 10 days.`
+Log template: `SQM: Cleaning up report files older than <*> days.`
+`SQM: Cleaning up report files older than 10 days.`

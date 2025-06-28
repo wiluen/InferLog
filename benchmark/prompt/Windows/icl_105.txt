@@ -1,0 +1,11 @@
+Log message: `Warning: Unrecognized packageExtended attribute.`
+Log template: `Warning: Unrecognized packageExtended attribute.`
+Log message: `Session: 30546174_133134621 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_2976462424 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_184807577 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_2953481110 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Session: 30546173_4271022933 initialized by client WindowsUpdateAgent.`

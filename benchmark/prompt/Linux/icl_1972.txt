@@ -1,0 +1,11 @@
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `creating device node '/udev/vcsa2'`
+Log template: `creating device node '<*>'`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `usbcore: registered new driver hub`
+Log template: `usbcore: registered new driver <*>`
+Log message: `usbcore: registered new driver usbfs`
+Log template: `usbcore: registered new driver <*>`
+`usbcore: registered new driver usbfs`

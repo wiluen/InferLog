@@ -1,0 +1,11 @@
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)`
+Log template: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (<*>) UASuggestedActionType=<*> (<*>)/(<*>) opts=(<*>) when=<*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+`button report: 0x80039B7`

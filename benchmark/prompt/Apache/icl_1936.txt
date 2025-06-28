@@ -1,0 +1,11 @@
+Log message: `jk2_init() Found child 32677 in scoreboard slot 7`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `workerEnv.init() ok /etc/httpd/conf/workers2.properties`
+Log template: `workerEnv.init() ok <*>`
+Log message: `[client 216.216.185.130] Directory index forbidden by rule: /var/www/html/`
+Log template: `[client <*>] Directory index forbidden by rule: <*>`
+Log message: `jk2_init() Found child 1219 in scoreboard slot 6`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/`
+Log template: `[client <*>] Directory index forbidden by rule: <*>`
+`[client 168.20.198.21] Directory index forbidden by rule: /var/www/html/`

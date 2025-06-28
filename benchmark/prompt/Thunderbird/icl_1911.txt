@@ -1,0 +1,11 @@
+Log message: `registered new driver hub`
+Log template: `registered new driver hub`
+Log message: `registered new driver usbfs`
+Log template: `registered new driver usbfs`
+Log message: `Started working: 1 available service`
+Log template: `Started working: <*> available service`
+Log message: `registered new driver usbhid`
+Log template: `registered new driver usbhid`
+Log message: `Installing public key data`
+Log template: `Installing public key data`
+`Installing public key data`

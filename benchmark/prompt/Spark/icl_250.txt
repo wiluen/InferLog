@@ -1,0 +1,11 @@
+Log message: `Got assigned task 528`
+Log template: `Got assigned task <*>`
+Log message: `Got assigned task 508`
+Log template: `Got assigned task <*>`
+Log message: `Got assigned task 349`
+Log template: `Got assigned task <*>`
+Log message: `Got assigned task 388`
+Log template: `Got assigned task <*>`
+Log message: `Got assigned task 359`
+Log template: `Got assigned task <*>`
+`Got assigned task 358`

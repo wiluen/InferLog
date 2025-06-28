@@ -1,0 +1,11 @@
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `Using ACPI for IRQ routing`
+Log template: `Using ACPI for IRQ routing`
+Log message: `IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64])`
+Log template: `IOAPIC (id[<*>] address[<*>] gsi_base[<*>])`
+Log message: `LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])`
+Log template: `LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])`
+Log message: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+Log template: `LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)`
+`LAPIC (acpi_id[0x04] lapic_id[0x07] enabled)`

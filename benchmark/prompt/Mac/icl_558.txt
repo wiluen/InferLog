@@ -1,0 +1,11 @@
+Log message: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log template: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log message: `full wake promotion (reason 1) 374 ms`
+Log template: `full wake promotion (reason <*>) <*> ms`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `vm_compressor_fastwake_warmup (581519 - 591525) - starting`
+Log template: `vm_compressor_fastwake_warmup (<*> - <*>) - starting`
+Log message: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x6800 ****`
+Log template: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- <*> -- <*> -- <*> ****`
+`Wake reason: ARPT (Network)`

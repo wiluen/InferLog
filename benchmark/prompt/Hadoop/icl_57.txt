@@ -1,0 +1,11 @@
+Log message: `JVM with ID: jvm_1445144423722_0020_m_000009 given task: attempt_1445144423722_0020_m_000007_0`
+Log template: `JVM with ID: <*> given task: <*>`
+Log message: `Event Writer setup for JobId: job_1445144423722_0020, File: hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job_1445144423722_0020_1.jhist`
+Log template: `Event Writer setup for JobId: <*>, File: <*>`
+Log message: `Before Scheduling: PendingReds:1 ScheduledMaps:10 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:0 ContRel:0 HostLocal:0 RackLocal:0`
+Log template: `Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>`
+Log message: `Container complete event for unknown container id container_1445144423722_0020_01_000012`
+Log template: `Container complete event for unknown container id <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.14981231`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+`getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:7168, vCores:-20> knownNMs=4`

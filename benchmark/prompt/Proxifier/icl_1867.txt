@@ -1,0 +1,11 @@
+Log message: `comment.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `www.ieeeconfpublishing.org:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `video-hkg3-2.xx.fbcdn.net:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `assets-cdn.github.com:443 close, 1227 bytes (1.19 KB) sent, 4890 bytes (4.77 KB) received, lifetime 06:19`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `notifications.google.com:443 close, 733 bytes sent, 229 bytes received, lifetime 00:13`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`api.github.com:443 close, 0 bytes sent, 0 bytes received, lifetime 02:02`

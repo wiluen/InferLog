@@ -1,0 +1,11 @@
+Log message: `playSoundEffect   effectType: 0`
+Log template: `playSoundEffect effectType: <*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+Log message: `onTouchEvent::1, x=296.0, y=327.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+`updateDimmedActivatedHideSensitive overlap:false`

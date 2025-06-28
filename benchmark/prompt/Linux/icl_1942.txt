@@ -1,0 +1,11 @@
+Log message: `Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)`
+Log template: `Dquot-cache hash table entries: <*> (order <*>, <*> bytes)`
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `126MB LOWMEM available.`
+Log template: `<*> LOWMEM available.`
+Log message: `Calibrating delay loop... 1445.88 BogoMIPS`
+Log template: `Calibrating delay loop... <*> BogoMIPS`
+`Calibrating delay loop... 1445.88 BogoMIPS`

@@ -1,0 +1,11 @@
+Log message: `doSaveChannels@286: Will write to: /Library/Logs/CrashReporter/CoreCapture/IOReporters/[2017-07-07_13,40,35.959475] - AuthFail:sts:5_rsn:0.xml`
+Log template: `doSaveChannels@<*>: Will write to: <*>`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90`
+Log template: `assertion failed: <*> [<*>]: <*>`
+`CCFile::copyFile fileName is [2017-07-03_16,07,38.954579]-io80211Family-016.pcapng, source path:/var/log/CoreCapture/com.apple.iokit.IO80211Family/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng, dest path:/Library/Logs/CrashReporter/CoreCapture/com.apple.iokit.IO80211Family/[2017-07-03_16,07,39.094895]=AuthFail:sts:5_rsn:0/IO80211AWDLPeerManager//[2017-07-03_16,07,38.954579]-io80211Family-016.pcapng`

@@ -1,0 +1,11 @@
+Log message: `PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1`
+Log template: `PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>`
+Log message: `PCI: Probing PCI hardware (bus 00)`
+Log template: `PCI: Probing PCI hardware (bus <*>)`
+Log message: `PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0`
+Log template: `PCI: Using IRQ router PIIX/ICH [<*>] at <*>`
+Log message: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+Log template: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+Log message: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log template: `PCI: Invalid ACPI-PCI IRQ routing table`
+`PCI: Invalid ACPI-PCI IRQ routing table`

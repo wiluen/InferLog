@@ -1,0 +1,11 @@
+Log message: `*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** unregister callback for <*>@<*>`
+Log message: `cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140`
+Log template: `cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>`
+Log message: `Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `shouldBlockLocation  ret:true`
+Log template: `shouldBlockLocation ret:<*>`
+Log message: `makeExpandedInvisible: mExpandedVisible=false`
+Log template: `makeExpandedInvisible: mExpandedVisible=<*>`
+`startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }`

@@ -1,0 +1,11 @@
+Log message: `cancelNotificationLocked:0|com.tencent.mobileqq|121|null|10111`
+Log template: `cancelNotificationLocked:<*>|<*>|<*>|<*>|<*>`
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `ACTION_BATTERY_CHANGED AMP: 0; Volt: 0`
+Log template: `ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>`
+Log message: `HBM brightnessOut =38`
+Log template: `HBM brightnessOut =<*>`
+`ready=true,policy=3,wakefulness=1,wksummary=0x1,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0`

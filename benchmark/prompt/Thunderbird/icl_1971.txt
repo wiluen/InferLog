@@ -1,0 +1,11 @@
+Log message: `session closed for user root`
+Log template: `session closed for user <*>`
+Log message: `session opened for user root by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `assuming drive cache: write through`
+Log template: `assuming drive cache: write through`
+Log message: `Changing permissions on special file /dev/logsurfer`
+Log template: `Changing permissions on special file <*>`
+Log message: `Cannot open file /dev/logsurfer for writing (No such file or directory)`
+Log template: `Cannot open file <*> for writing (No such file or directory)`
+`Cannot open file /dev/logsurfer for writing (No such file or directory)`

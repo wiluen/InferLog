@@ -1,0 +1,11 @@
+Log message: `Checking iCDP status for DSID 874161398 (checkWithServer=0)`
+Log template: `Checking iCDP status for DSID <*> (checkWithServer=<*>)`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Unexpected payload found for message 9, dataLen 0`
+Log template: `Unexpected payload found for message <*>, dataLen <*>`
+Log message: `Previous sleep cause: 5`
+Log template: `Previous sleep cause: <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+`hibernate_page_list_setall found pageCount 448015`

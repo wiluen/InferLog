@@ -1,0 +1,11 @@
+Log message: `com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 258 seconds.  Ignoring.`
+Log template: `com.apple.<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+`<IMMacNotificationCenterManager: 0x7fdcc9d16380>: Updating enabled: NO   (Topics: ( ))`

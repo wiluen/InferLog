@@ -1,0 +1,11 @@
+Log message: `Before Scheduling: PendingReds:1 ScheduledMaps:10 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:0 ContRel:0 HostLocal:0 RackLocal:0`
+Log template: `Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>`
+Log message: `Putting shuffle token in serviceData`
+Log template: `Putting shuffle token in serviceData`
+Log message: `ERROR IN CONTACTING RM.`
+Log template: `ERROR IN CONTACTING RM.`
+Log message: `Thread Thread[eventHandlingThread,5,main] threw an Exception.`
+Log template: `Thread Thread[eventHandlingThread,<*>,main] threw an Exception.`
+Log message: `Upper limit on the thread pool size is 500`
+Log template: `Upper limit on the thread pool size is <*>`
+`Upper limit on the thread pool size is 500`

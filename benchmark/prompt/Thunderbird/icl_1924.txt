@@ -1,0 +1,11 @@
+Log message: `rpc.statd startup succeeded`
+Log template: `rpc.statd startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `xinetd startup succeeded`
+Log template: `xinetd startup succeeded`
+Log message: `syslog-ng startup succeeded`
+Log template: `syslog-ng startup succeeded`
+Log message: `Starting ts_fixup: succeeded`
+Log template: `Starting ts_fixup: succeeded`
+`Starting ts_fixup: succeeded`

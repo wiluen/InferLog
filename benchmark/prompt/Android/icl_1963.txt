@@ -1,0 +1,11 @@
+Log message: `unregisterAudioFocusListener...`
+Log template: `unregisterAudioFocusListener...`
+Log message: `updateNotificationShade: total=1, active=1`
+Log template: `updateNotificationShade: total=<*>, active=<*>`
+Log message: `getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `getLastAudibleStreamVolume  treamType: 6`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+Log message: `updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true`
+Log template: `updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true`
+`Destroying surface Surface(name=com.example.android.notepad/com.example.android.notepad.NoteEditor) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690`

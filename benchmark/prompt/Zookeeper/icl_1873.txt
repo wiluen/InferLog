@@ -1,0 +1,11 @@
+Log message: `Expiring session 0x14ed93111f20068, timeout of 20000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `maxSessionTimeout set to -1`
+Log template: `maxSessionTimeout set to <*>`
+Log message: `Expiring session 0x34ed9ac1c1e0065, timeout of 20000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `minSessionTimeout set to -1`
+Log template: `minSessionTimeout set to <*>`
+Log message: `Connection broken for id 3, my id = 1, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+`tickTime set to 2000`

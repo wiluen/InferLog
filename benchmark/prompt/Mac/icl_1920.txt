@@ -1,0 +1,11 @@
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `Cocoa scripting error for '0x00b8fffe': four character codes must be four characters long.`
+Log template: `Cocoa scripting error for '<*>': four character codes must be four characters long.`
+Log message: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log template: `Wake reason: EC.SleepTimer (SleepTimer)`
+`Failed to stop a scan - central is not powered on: 4`

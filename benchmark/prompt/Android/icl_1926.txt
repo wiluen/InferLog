@@ -1,0 +1,11 @@
+Log message: `updateChargingLocked: charging=false`
+Log template: `updateChargingLocked: charging=<*>`
+Log message: `scheduleTimeTickEvent triggerAtTime = 509262332`
+Log template: `scheduleTimeTickEvent triggerAtTime = <*>`
+Log message: `abandonAudioFocus`
+Log template: `abandonAudioFocus`
+Log message: `remove(PendingIntent{19abed0: PendingIntentRecord{a485420 com.tencent.qt.qtl broadcastIntent}}) changed bounds; rebatching`
+Log template: `remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching`
+Log message: `Scheduling restart of crashed service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService in 1000ms`
+Log template: `Scheduling restart of crashed service <*> in <*>`
+`remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching`

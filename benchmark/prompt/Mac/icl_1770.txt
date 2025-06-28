@@ -1,0 +1,11 @@
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`
+Log template: `Sandbox: <*>(<*>) deny(<*>) file-read-data <*>`
+Log message: `Previous sleep cause: 5`
+Log template: `Previous sleep cause: <*>`
+Log message: `after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8`
+Log template: `after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>&espv=<*>&ie=UTF-<*>`
+Log message: `[IOBluetoothHostController::setConfigState] calling registerService`
+Log template: `[IOBluetoothHostController::setConfigState] calling registerService`
+`hibernate image path: /var/vm/sleepimage`

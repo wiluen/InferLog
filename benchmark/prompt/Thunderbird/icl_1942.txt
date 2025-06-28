@@ -1,0 +1,11 @@
+Log message: `Registering secondary module capability`
+Log template: `Registering secondary module capability`
+Log message: `registered new driver usbfs`
+Log template: `registered new driver usbfs`
+Log message: `registered new driver usbhid`
+Log template: `registered new driver usbhid`
+Log message: `registered new driver hiddev`
+Log template: `registered new driver hiddev`
+Log message: `registered new driver hub`
+Log template: `registered new driver hub`
+`registered new driver hub`

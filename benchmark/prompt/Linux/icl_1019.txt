@@ -1,0 +1,11 @@
+Log message: `connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort`
+Log template: `Authentication failed from <*> (<*>): Software caused connection abort`
+Log message: `connection from 220.94.205.45 () at Sun Jul 10 13:17:22 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005`

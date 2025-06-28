@@ -1,0 +1,11 @@
+Log message: `Got assigned task 430`
+Log template: `Got assigned task <*>`
+Log message: `Trying to register BlockManager`
+Log template: `Trying to register BlockManager`
+Log message: `Successfully registered with driver`
+Log template: `Successfully registered with driver`
+Log message: `Registered BlockManager`
+Log template: `Registered BlockManager`
+Log message: `Registered signal handlers for [TERM, HUP, INT]`
+Log template: `Registered signal handlers for [TERM, HUP, INT]`
+`Registered signal handlers for [TERM, HUP, INT]`

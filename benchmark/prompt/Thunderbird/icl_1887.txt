@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Initializing.`
+Log template: `Initializing.`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Starting in permissive mode`
+Log template: `Starting in permissive mode`
+`Starting in permissive mode`

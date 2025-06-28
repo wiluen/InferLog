@@ -1,0 +1,11 @@
+Log message: `getStepCounterStatus`
+Log template: `getStepCounterStatus`
+Log message: `next day:steps0mLastReport7214`
+Log template: `next day:<*>`
+Log message: `writeDataToDB size 327`
+Log template: `writeDataToDB size <*>`
+Log message: `onStandStepChanged 3739`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3580`
+Log template: `onStandStepChanged <*>`
+`flush sensor data`

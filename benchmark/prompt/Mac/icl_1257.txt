@@ -1,0 +1,11 @@
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+Log message: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-8].]`
+Log template: `[com.apple.calendar.store.log.caldav.coredav] [Refusing to parse response to PROPPATCH because of content-type: [text/html; charset=UTF-<*>].]`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90`
+Log template: `assertion failed: <*> [<*>]: <*>`
+`-[SFLListManager(ServiceReplyProtocol) notifyChanges:toListWithIdentifier:] Notified of item changes to list with identifier com.apple.LSSharedFileList.RecentApplications`

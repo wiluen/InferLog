@@ -1,0 +1,11 @@
+Log message: `calculateCaloriesWithCache totalCalories=0`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `theDayChanged 1514044800216`
+Log template: `theDayChanged <*>`
+Log message: `setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31588757`
+Log template: `setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `tryToReloadTodayBasicSteps1514044800223|3786|0|0`
+Log template: `<*>|<*>|<*>|<*>`
+Log message: `closeNotification...`
+Log template: `closeNotification...`
+`setGoalNotifiShownRecord 1514044800237 false`

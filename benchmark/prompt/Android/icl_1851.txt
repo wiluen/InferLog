@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+Log message: `animateCollapsePanels:flags=2, force=true, delayed=true, mExpandedVisible=true`
+Log template: `animateCollapsePanels:flags=<*>, force=<*>, delayed=<*>, mExpandedVisible=<*>`
+`isSimPinSecure mSimDatas is null or empty`

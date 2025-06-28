@@ -1,0 +1,11 @@
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+Log message: `Bluetooth -- LE is supported - Disable LE meta event`
+Log template: `Bluetooth -- LE is supported - Disable LE meta event`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+`arp_client_transmit(en0) failed, Network is down (50)`

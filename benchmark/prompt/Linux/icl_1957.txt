@@ -1,0 +1,11 @@
+Log message: `Failure registering capabilities with the kernel`
+Log template: `Failure registering capabilities with the kernel`
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `Intel machine check architecture supported.`
+Log template: `Intel machine check architecture supported.`
+Log message: `Intel machine check reporting enabled on CPU#0.`
+Log template: `Intel machine check reporting enabled on <*>.`
+`Intel machine check reporting enabled on CPU#0.`

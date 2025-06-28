@@ -1,0 +1,11 @@
+Log message: `11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>`
+Log template: `<*> : BTLE discovered device with hash <*>`
+Log message: `RTC: PowerByCalendarDate setting ignored`
+Log template: `RTC: PowerByCalendarDate setting ignored`
+Log message: `nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x4 to 0x8000000000000000`
+Log template: `<*> successfully changed NAT64 ifstate from <*> to <*>`
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`
+Log template: `setting hostname to "<*>"`
+`en0: manual intervention required!`

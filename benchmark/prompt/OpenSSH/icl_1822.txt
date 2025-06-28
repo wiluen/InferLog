@@ -1,0 +1,11 @@
+Log message: `Failed password for root from 112.95.230.3 port 40388 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 60.2.12.12 port 20658 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `Did not receive identification string from 123.235.32.19`
+Log template: `Did not receive identification string from <*>`
+Log message: `Did not receive identification string from 177.79.82.136`
+Log template: `Did not receive identification string from <*>`
+`Failed password for root from 123.235.32.19 port 57100 ssh2`

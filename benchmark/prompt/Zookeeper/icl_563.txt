@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.13:52310`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.23:51828`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.13:50224`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.34:56149`
+Log template: `Accepted socket connection from <*>`
+Log message: `Closed socket connection for client /10.10.34.11:49557 which had sessionid 0x14ed93111f20048`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Accepted socket connection from /10.10.34.14:46136`

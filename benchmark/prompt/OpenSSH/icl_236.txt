@@ -1,0 +1,11 @@
+Log message: `Invalid user api from 185.190.58.151`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user inspur from 175.102.13.6`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user anonymous from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user bssh [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `pam_unix(sshd:session): session closed for user fztu`
+Log template: `pam_unix(sshd:session): session closed for user <*>`
+`Failed password for invalid user matlab from 52.80.34.196 port 46199 ssh2`

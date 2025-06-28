@@ -1,0 +1,11 @@
+Log message: `removeNotification:0|com.tencent.mobileqq|121|null|10111`
+Log template: `removeNotification:<*>|<*>|<*>|<*>|<*>`
+Log message: `getLastAudibleStreamVolume  treamType: 6`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+Log message: `Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide`
+Log template: `Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>}}} -- going to hide`
+Log message: `disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >`
+Log template: `disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >`
+Log message: `printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false`
+Log template: `printFreezingDisplayLogsopening app wtoken = AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>/.<*> t761}}}, allDrawn= <*>, startingDisplayed = <*>, startingMoved = <*>, isRelaunching = <*>`
+`printFreezingDisplayLogsopening app wtoken = AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}}, allDrawn= false, startingDisplayed =  false, startingMoved =  false, isRelaunching =  false`

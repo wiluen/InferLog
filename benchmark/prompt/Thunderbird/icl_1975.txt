@@ -1,0 +1,11 @@
+Log message: `Reading included configuration file: /etc/xinetd.d/krb5-telnet [file=/etc/xinetd.d/krb5-telnet] [line=13]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=18]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Reading included configuration file: /etc/xinetd.d/tftp [file=/etc/xinetd.d/tftp] [line=13]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Reading included configuration file: /etc/xinetd.d/echo-udp [file=/etc/xinetd.d/echo-udp] [line=14]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Reading included configuration file: /etc/xinetd.d/cups-lpd [file=/etc/xinetd.d/cups-lpd] [line=17]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+`Reading included configuration file: /etc/xinetd.d/cups-lpd [file=/etc/xinetd.d/cups-lpd] [line=17]`

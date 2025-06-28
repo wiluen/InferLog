@@ -1,0 +1,11 @@
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `TBT W (2): 0x0040 [x]`
+Log template: `TBT W (<*>): <*> [x]`
+`WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.`

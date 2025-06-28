@@ -1,0 +1,11 @@
+Log message: `Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:7109`
+Log template: `Opening proxy : <*>`
+Log message: `Opening proxy : 04DN8IQ.fareast.corp.microsoft.com:54883`
+Log template: `Opening proxy : <*>`
+Log message: `Adding job token for job_1445144423722_0020 to jobTokenSecretManager`
+Log template: `Adding job token for <*> to jobTokenSecretManager`
+Log message: `Size of containertokens_dob is 1`
+Log template: `Size of containertokens_dob is <*>`
+Log message: `Executing with tokens:`
+Log template: `Executing with tokens:`
+`Executing with tokens:`

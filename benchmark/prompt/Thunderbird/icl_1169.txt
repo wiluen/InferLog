@@ -1,0 +1,11 @@
+Log message: `PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>`
+Log message: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.`
+Log message: `Probing PCI hardware (bus 00)`
+Log template: `Probing PCI hardware (bus <*>)`
+Log message: `PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)`
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+`PCI Interrupt Routing Table [\_SB_.PCI0.PICH._PRT]`

@@ -1,0 +1,11 @@
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).`
+Log template: `AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).`
+Log message: `PMStats: Hibernate read took 197 ms`
+Log template: `PMStats: Hibernate read took <*> ms`
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `wake time set -0.855670 s`
+Log template: `wake time set <*> s`
+`08:21:18.004 : Discoverable mode changed to Off`

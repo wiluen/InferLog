@@ -1,0 +1,11 @@
+Log message: `REPORT : 7211 5148 154459 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7198 5139 154181 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7214 5150 154523 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7200 5140 154223 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7205 5144 154331 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7208 5146 154395 240`

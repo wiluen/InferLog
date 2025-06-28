@@ -1,0 +1,11 @@
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+Log message: `TBT W (2): 0x0040 [x]`
+Log template: `TBT W (<*>): <*> [x]`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `Error in CoreDragRemoveTrackingHandler: -1856`
+Log template: `Error in CoreDragRemoveTrackingHandler: <*>`
+Log message: `Invalidating watch set.`
+Log template: `Invalidating watch set.`
+`.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`

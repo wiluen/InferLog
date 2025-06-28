@@ -1,0 +1,11 @@
+Log message: `KeychainGetICDPStatus: status: off`
+Log template: `KeychainGetICDPStatus: status: off`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `[IOBluetoothHostController::setConfigState] calling registerService`
+Log template: `[IOBluetoothHostController::setConfigState] calling registerService`
+`Opened file /var/vm/sleepimage, size 1073741824, extents 3, maxio 2000000 ssd 1`

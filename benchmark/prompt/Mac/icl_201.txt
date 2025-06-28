@@ -1,0 +1,11 @@
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+`AppleThunderboltNHIType2::waitForOk2Go2Sx - retries = 4`

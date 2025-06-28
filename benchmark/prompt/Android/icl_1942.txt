@@ -1,0 +1,11 @@
+Log message: `Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:3299 com.android.server.wm.WindowManagerService.relayoutWindow:3179 com.android.server.wm.Session.relayout:215 android.view.IWindowSession$Stub.onTransact:286 com.android.server.wm.Session.onTransact:136`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true`
+Log template: `updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true`
+Log message: `unregisterAudioFocusListener...`
+Log template: `unregisterAudioFocusListener...`
+Log message: `getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `updateNotificationShade: total=1, active=1`
+Log template: `updateNotificationShade: total=<*>, active=<*>`
+`Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105`

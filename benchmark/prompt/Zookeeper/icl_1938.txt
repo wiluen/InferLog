@@ -1,0 +1,11 @@
+Log message: `Client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969`
+Log template: `Client attempting to renew session <*> at <*>`
+Log message: `Client attempting to establish new session at /10.10.34.19:33425`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Server environment:user.name=zookeeper`
+Log template: `Server environment:<*>`
+Log message: `Server environment:zookeeper.version=3.4.5--1, built on 06/10/2013 17:26 GMT`
+Log template: `Server environment:<*>`
+Log message: `Revalidating client: 0x24f0557806a001c`
+Log template: `Revalidating client: <*>`
+`Revalidating client: 0x24f0557806a001c`

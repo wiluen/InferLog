@@ -1,0 +1,11 @@
+Log message: `Creating event network-vif-plugged:e3871ffd-5cd5-4287-bddd-3529f7b59515 for instance b9000564-fe1a-409b-b8cc-1e88b294cd1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us`
+Log template: `Auditing locally available compute resources for node <*>`
+Log message: `[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total vcpu: 16 VCPU, used: 0.00 VCPU`
+Log template: `[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU`
+Log message: `[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total disk: 15 GB, used: 0.00 GB`
+Log template: `[instance: <*>] Total disk: <*> GB, used: <*> GB`
+Log message: `Total usable vcpus: 16, total allocated vcpus: 1`
+Log template: `Total usable vcpus: <*>, total allocated vcpus: <*>`
+`Active base files: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742`

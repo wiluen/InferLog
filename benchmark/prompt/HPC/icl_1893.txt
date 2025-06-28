@@ -1,0 +1,11 @@
+Log message: `warning`
+Log template: `warning`
+Log message: `critical`
+Log template: `critical`
+Log message: `ambient=35`
+Log template: `ambient=<*>`
+Log message: `ambient=32`
+Log template: `ambient=<*>`
+Log message: `psu failure\ ambient=31`
+Log template: `psu failure\ ambient=<*>`
+`psu failure\ ambient=31`

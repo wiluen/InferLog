@@ -1,0 +1,11 @@
+Log message: `2017-07-04 09:42:58.121 ksfetch[34604/0x7fff79824000] [lvl=2] main() ksfetch done fetching.`
+Log template: `<*> ksfetch[<*>] [lvl=<*>] main() ksfetch done fetching.`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots`
+Log template: `CCDataTap::profileRemoved, Owner: <*>, Name: <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+`hibernate_machine_init pagesDone 451550 sum2 4886d9d9, time: 197 ms, disk(0x20000) 799 Mb/s, comp bytes: 40017920 time: 27 ms 1412 Mb/s, crypt bytes: 160550912 time: 39 ms 3904 Mb/s`

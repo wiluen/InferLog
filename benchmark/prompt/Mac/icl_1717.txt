@@ -1,0 +1,11 @@
+Log message: `RTC: Maintenance 2017/7/7 17:31:21, sleep 2017/7/7 17:18:49`
+Log template: `RTC: Maintenance <*>, sleep <*>`
+Log message: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x6800 ****`
+Log template: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- <*> -- <*> -- <*> ****`
+Log message: `KeychainGetICDPStatus: status: off`
+Log template: `KeychainGetICDPStatus: status: off`
+Log message: `PM response took 129 ms (10018, QQ)`
+Log template: `PM response took <*> ms (<*>, QQ)`
+Log message: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log template: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+`ARPT: 784117.089800: AirPort_Brcm43xx::powerChange: System Sleep`

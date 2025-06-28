@@ -1,0 +1,11 @@
+Log message: `calculateCaloriesWithCache totalCalories=130951`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `calculateCaloriesWithCache totalCalories=131144`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `REPORT : 7113 5078 152360 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7025 5015 150475 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3620`
+Log template: `onStandStepChanged <*>`
+`calculateCaloriesWithCache totalCalories=127653`

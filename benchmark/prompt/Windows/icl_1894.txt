@@ -1,0 +1,11 @@
+Log message: `Session: 30546174_169296690 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Scavenge: Starts`
+Log template: `Scavenge: Starts`
+Log message: `Session: 30546174_186107651 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Failed to create backup log cab. [HRESULT = 0x80070001 - ERROR_INVALID_FUNCTION]`
+Log template: `Failed to create backup log cab. [HRESULT = <*> - ERROR_INVALID_FUNCTION]`
+Log message: `0000000a Performing 1 operations; 1 are not lock/unlock and follow:`
+Log template: `<*> Performing <*> operations; <*> are not lock/unlock and follow:`
+`Session: 30546174_186107651 initialized by client WindowsUpdateAgent.`

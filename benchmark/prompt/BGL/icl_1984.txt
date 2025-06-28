@@ -1,0 +1,11 @@
+Log message: `store operation.............................1`
+Log template: `store operation.............................<*>`
+Log message: `lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000`
+Log template: `lr:<*> cr:<*> xer:<*> ctr:<*>`
+Log message: `fpr29=0xffffffff ffffffff ffffffff ffffffff`
+Log template: `fpr29=<*>`
+Log message: `minus normalized number..................0`
+Log template: `minus normalized number..................<*>`
+Log message: `fraction rounded.........................0`
+Log template: `fraction rounded.........................<*>`
+`fraction rounded.........................0`

@@ -1,0 +1,11 @@
+Log message: `initializing netlink socket (disabled)`
+Log template: `initializing netlink socket (disabled)`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `initialized`
+Log template: `initialized`
+Log message: `Initializing.`
+Log template: `Initializing.`
+`Initializing.`

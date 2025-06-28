@@ -1,0 +1,11 @@
+Log message: `New election. My id =  1, proposed zxid=0x700000000`
+Log template: `New election. My id = <*>, proposed zxid=<*>`
+Log message: `Interrupting SendWorker`
+Log template: `Interrupting SendWorker`
+Log message: `Connection broken for id 188978561024, my id = 1, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `Connection broken for id 1, my id = 3, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `Unexpected exception causing shutdown while sock still open`
+Log template: `Unexpected exception causing shutdown while sock still open`
+`Connection broken for id 3, my id = 1, error =`

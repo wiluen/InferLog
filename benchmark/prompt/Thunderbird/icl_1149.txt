@@ -1,0 +1,11 @@
+Log message: `PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`
+Log template: `PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>`
+Log message: `Using IOAPIC for interrupt routing`
+Log template: `Using IOAPIC for interrupt routing`
+Log message: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+Log template: `LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)`
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64])`
+Log template: `IOAPIC (id[<*>] address[<*>] gsi_base[<*>])`
+`IOAPIC (id[0x09] address[0xfec80000] gsi_base[32])`

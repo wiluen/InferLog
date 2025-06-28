@@ -1,0 +1,11 @@
+Log message: `Found block rdd_2_2 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_42_36 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_11_0 locally`
+Log template: `Found block <*> locally`
+Log message: `Partition rdd_6_4 not found, computing it`
+Log template: `Partition <*> not found, computing it`
+Log message: `Partition rdd_30_0 not found, computing it`
+Log template: `Partition <*> not found, computing it`
+`Partition rdd_42_26 not found, computing it`

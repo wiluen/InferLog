@@ -1,0 +1,11 @@
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: Updating enabled: YES   (Topics: ( "com.apple.private.alloy.icloudpairing", "com.apple.private.alloy.continuity.encryption", "com.apple.private.alloy.continuity.activity", "com.apple.ess", "com.apple.private.ids", "com.apple.private.alloy.phonecontinuity", "com.apple.madrid", "com.apple.private.ac", "com.apple.private.alloy.phone.auth", "com.apple.private.alloy.keychainsync", "com.apple.private.alloy.fmf", "com.apple.private.alloy.sms", "com.apple.private.alloy.screensharing", "com.apple.private.alloy.maps", "com.apple.private.alloy.thumper.keys", "com.apple.private.alloy.continuity.tethering" ))`
+Log template: `<IMMacNotificationCenterManager: <*>: Updating enabled: YES (Topics: (<*>))`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `(DiskStore.Normal:2382) 20cb04f 1.000086`
+Log template: `(DiskStore.Normal:<*>) <*>`
+`tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert`

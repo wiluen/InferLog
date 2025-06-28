@@ -1,0 +1,11 @@
+Log message: `Invalid user test9 from 52.80.34.196`
+Log template: `Invalid user <*> from <*>`
+Log message: `reverse mapping checking getaddrinfo for 195-154-37-122.rev.poneytelecom.eu [195.154.37.122] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log template: `reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log message: `Invalid user  0101 from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for root from 60.2.12.12 port 15145 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 187.141.143.180 port 35685 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]`

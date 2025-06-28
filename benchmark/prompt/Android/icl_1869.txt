@@ -1,0 +1,11 @@
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `ACTION_BATTERY_CHANGED AMP: 0; Volt: 0`
+Log template: `ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>`
+Log message: `android.util.AndroidRuntimeException: Must execute in UI`
+Log template: `<*>: Must execute in UI`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+`flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`

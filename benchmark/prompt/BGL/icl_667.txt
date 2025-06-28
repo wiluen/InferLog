@@ -1,0 +1,11 @@
+Log message: `62500 floating point alignment exceptions`
+Log template: `<*> floating point alignment exceptions`
+Log message: `54004554 floating point alignment exceptions`
+Log template: `<*> floating point alignment exceptions`
+Log message: `1969920 double-hummer alignment exceptions`
+Log template: `<*> double-hummer alignment exceptions`
+Log message: `162 double-hummer alignment exceptions`
+Log template: `<*> double-hummer alignment exceptions`
+Log message: `633283776 double-hummer alignment exceptions`
+Log template: `<*> double-hummer alignment exceptions`
+`1365301360 double-hummer alignment exceptions`

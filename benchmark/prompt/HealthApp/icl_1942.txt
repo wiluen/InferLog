@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3732`
+Log template: `onStandStepChanged <*>`
+Log message: `Alarm uploadStaticsToDB totalSteps=7163 Calories:153367 Floor:240 Distance:5112`
+Log template: `Alarm uploadStaticsToDB totalSteps=<*> Calories:<*> Floor:<*> Distance:<*>`
+Log message: `onStandStepChanged 3742`
+Log template: `onStandStepChanged <*>`
+Log message: `calculateCaloriesWithCache totalCalories=130052`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `onStandStepChanged 3745`
+Log template: `onStandStepChanged <*>`
+`onStandStepChanged 3742`

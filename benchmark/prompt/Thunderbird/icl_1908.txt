@@ -1,0 +1,11 @@
+Log message: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+Log template: `LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `Starting in permissive mode`
+Log template: `Starting in permissive mode`
+Log message: `Assuming 33MHz system bus speed for PIO modes; override with idebus=xx`
+Log template: `Assuming <*> system bus speed for PIO modes; override with idebus=xx`
+`Assuming 33MHz system bus speed for PIO modes; override with idebus=xx`

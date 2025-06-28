@@ -1,0 +1,11 @@
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `ARPT: 739295.354731: wl0: Roamed or switched channel, reason #4, bssid f8:4f:57:3b:ea:b2, last RSSI -77`
+Log template: `ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI <*>`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `Service exited with abnormal code: 1`
+Log template: `Service exited with abnormal code: <*>`
+`[11:39:18.356] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce15069400) rejecting report of layer being serviced - IQ has not yet begun to update`

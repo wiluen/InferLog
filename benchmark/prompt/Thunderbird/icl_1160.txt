@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`
+Log template: `PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>`
+Log message: `PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>`
+Log message: `PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)`
+Log message: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.`
+`PCI Interrupt Link [LNKG] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`

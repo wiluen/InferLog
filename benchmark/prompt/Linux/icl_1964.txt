@@ -1,0 +1,11 @@
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+Log message: `Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort`
+Log template: `Authentication failed from <*> (<*>): Software caused connection abort`
+Log message: `mtrr: v2.0 (20020519)`
+Log template: `mtrr: <*> (<*>)`
+Log message: `connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `NET: Registered protocol family 16`
+Log template: `NET: Registered protocol family <*>`
+`NET: Registered protocol family 16`

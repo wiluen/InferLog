@@ -1,0 +1,11 @@
+Log message: `SELinux: Initializing.`
+Log template: `SELinux: Initializing.`
+Log message: `Initializing Cryptographic API`
+Log template: `Initializing Cryptographic API`
+Log message: `PCI: Using configuration type 1`
+Log template: `PCI: Using configuration type <*>`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `POSIX conformance testing by UNIFIX`
+Log template: `POSIX conformance testing by UNIFIX`
+`POSIX conformance testing by UNIFIX`

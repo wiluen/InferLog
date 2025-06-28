@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`
+Log template: `ANONYMOUS FTP LOGIN FROM <*>, (anonymous)`
+Log message: `isapnp: No Plug & Play device found`
+Log template: `isapnp: No Plug & Play device found`
+Log message: `Linux agpgart interface v0.100 (c) Dave Jones`
+Log template: `Linux agpgart interface <*> (c) Dave Jones`
+Log message: `Linux Plug and Play Support v0.97 (c) Adam Belay`
+Log template: `Linux Plug and Play Support <*> (c) Adam Belay`
+`Linux Plug and Play Support v0.97 (c) Adam Belay`

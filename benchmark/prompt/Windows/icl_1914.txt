@@ -1,0 +1,11 @@
+Log message: `00000001@2016/9/27:20:30:31.455 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fef9fb9b6d @0x7fef9f8358f @0xff83e97c @0xff83d799 @0xff83db2f)`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>)`
+Log message: `00000002@2016/9/27:20:30:31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fefa006ade @0x7fef9fd2984 @0x7fef9f83665 @0xff83e97c @0xff83d799)`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>)`
+Log message: `00000003@2016/9/27:20:30:31.458 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed806eb5d @0x7fefa1c8728 @0x7fefa1c8856 @0xff83e474 @0xff83d7de @0xff83db2f)`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>)`
+Log message: `Loading offline registry hive: SECURITY, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SECURITY'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+Log message: `Loading offline registry hive: SOFTWARE, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SOFTWARE'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+`00000001@2016/9/28:16:00:46.160 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c39b6d @0x7fee5c0358f @0xffeee97c @0xffeed799 @0xffeedb2f)`

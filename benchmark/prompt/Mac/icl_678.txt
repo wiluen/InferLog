@@ -1,0 +1,11 @@
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.`
+Log template: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+`Sandbox: com.apple.Addres(34326) deny(1) network-outbound /private/var/run/mDNSResponder`

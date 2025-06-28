@@ -1,0 +1,11 @@
+Log message: `getTodayTotalDetailSteps = 1514038560000##7071##548561##8661##16256##27288973`
+Log template: `getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `onStandStepChanged 3640`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3617`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7037 5024 150732 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3613`
+Log template: `onStandStepChanged <*>`
+`REPORT : 7034 5022 150668 240`

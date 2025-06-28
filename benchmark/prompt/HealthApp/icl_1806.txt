@@ -1,0 +1,11 @@
+Log message: `REPORT : 7031 5020 150604 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7027 5017 150518 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7015 5008 150261 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `isScreenOn true`
+Log template: `isScreenOn <*>`
+Log message: `calculateCaloriesWithCache totalCalories=126925`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+`REPORT : 7011 5005 150175 240`

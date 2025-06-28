@@ -1,0 +1,11 @@
+Log message: `Server created on 40984`
+Log template: `Server created on <*>`
+Log message: `Successfully registered with driver`
+Log template: `Successfully registered with driver`
+Log message: `Registered signal handlers for [TERM, HUP, INT]`
+Log template: `Registered signal handlers for [TERM, HUP, INT]`
+Log message: `Trying to register BlockManager`
+Log template: `Trying to register BlockManager`
+Log message: `Registered BlockManager`
+Log template: `Registered BlockManager`
+`Registered BlockManager`

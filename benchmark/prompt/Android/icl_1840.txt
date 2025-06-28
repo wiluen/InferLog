@@ -1,0 +1,11 @@
+Log message: `getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowManagerService.tryStartExitingAnimation:3299 com.android.server.wm.WindowManagerService.relayoutWindow:3179 com.android.server.wm.Session.relayout:215 android.view.IWindowSession$Stub.onTransact:286 com.android.server.wm.Session.onTransact:136`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `getLastAudibleStreamVolume  treamType: 6`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+Log message: `unregisterAudioFocusListener...`
+Log template: `unregisterAudioFocusListener...`
+Log message: `onTrackingStopped: true`
+Log template: `onTrackingStopped: <*>`
+`Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555`

@@ -1,0 +1,11 @@
+Log message: `Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar`
+Log template: `Server environment:<*>`
+Log message: `Received connection request /10.10.34.12:34051`
+Log template: `Received connection request <*>`
+Log message: `Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd`
+Log template: `Snapshotting: <*> to <*>`
+Log message: `Snapshotting: 0x50000062e to /var/lib/zookeeper/version-2/snapshot.50000062e`
+Log template: `Snapshotting: <*> to <*>`
+Log message: `Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084`
+Log template: `Reading snapshot <*>`
+`Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084`

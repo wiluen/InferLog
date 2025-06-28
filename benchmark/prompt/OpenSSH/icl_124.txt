@@ -1,0 +1,11 @@
+Log message: `input_userauth_request: invalid user deploy [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Failed password for invalid user api from 185.190.58.151 port 36894 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Did not receive identification string from 195.154.37.122`
+Log template: `Did not receive identification string from <*>`
+Log message: `reverse mapping checking getaddrinfo for ns.marryaldkfaczcz.com [173.234.31.186] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log template: `reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log message: `error: Received disconnect from 195.154.37.122: 3: com.jcraft.jsch.JSchException: Auth fail [preauth]`
+Log template: `error: Received disconnect from <*>: <*>: <*>: Auth fail [preauth]`
+`reverse mapping checking getaddrinfo for 195-154-37-122.rev.poneytelecom.eu [195.154.37.122] failed - POSSIBLE BREAK-IN ATTEMPT!`

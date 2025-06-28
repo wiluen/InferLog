@@ -1,0 +1,11 @@
+Log message: `hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s`
+Log template: `hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s`
+Log message: `IO80211AWDLPeerManager::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(true)`
+Log template: `<*>::setAwdlSuspendedMode() Suspending AWDL, enterQuietMode(<*>)`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable`
+Log template: `tcp_connection_destination_perform_socket_connect <*> connectx to <*>@<*> failed: [<*>] Network is unreachable`
+Log message: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+Log template: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+`in6_unlink_ifa: IPv6 address 0x77c911454f15210b has no prefix`

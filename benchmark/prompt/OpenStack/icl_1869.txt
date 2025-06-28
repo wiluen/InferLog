@@ -1,0 +1,11 @@
+Log message: `[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total disk: 15 GB, used: 0.00 GB`
+Log template: `[instance: <*>] Total disk: <*> GB, used: <*> GB`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deletion of /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `HTTP exception thrown: No instances found for any event`
+Log template: `HTTP exception thrown: No instances found for any event`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Deletion of /var/lib/nova/instances/be793e89-2cc3-4f99-9884-9c6a624a84bc_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `10.11.10.1 "GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A54%3A58.530160%2B00%3A00 HTTP/1.1" status: 200 len: 23370 time: 0.3273299`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Instance destroyed successfully.`

@@ -1,0 +1,11 @@
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64])`
+Log template: `IOAPIC (id[<*>] address[<*>] gsi_base[<*>])`
+Log message: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+Log template: `LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)`
+Log message: `LAPIC_NMI (acpi_id[0x01] high edge lint[0x1])`
+Log template: `LAPIC_NMI (acpi_id[<*>] high edge lint[<*>])`
+`LAPIC_NMI (acpi_id[0x04] high edge lint[0x1])`

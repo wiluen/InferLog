@@ -1,0 +1,11 @@
+Log message: `rts: kernel terminated for reason 1003`
+Log template: `rts: kernel terminated for reason <*>`
+Log message: `ciod: duplicate canonical-rank 31 to logical-rank 0 mapping at line 3 of node map file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-sweep/sweep.map`
+Log template: `ciod: duplicate canonical-rank <*> to logical-rank <*> mapping at line <*> of node map file <*>`
+Log message: `ciod: Error creating node map from file /p/gb2/welcome3/32k_128x256x1_8x4x4.map: Bad file descriptor`
+Log template: `ciod: Error creating node map from file <*>: Bad file descriptor`
+Log message: `ciod: Error creating node map from file /p/gb2/pakin1/sweep3d-5x5x400-10mk-3mmi-1024pes-xyzt/xyzt.map: Block device required`
+Log template: `ciod: Error creating node map from file <*>: Block device required`
+Log message: `ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map`
+Log template: `ciod: Z coordinate <*> exceeds physical dimension <*> at line <*> of node map file <*>`
+`ciod: Z coordinate 32 exceeds physical dimension 32 at line 33 of node map file /p/gb2/pakin1/contention-32768cpes-torus/xyzt-1x1x32768x1.map`

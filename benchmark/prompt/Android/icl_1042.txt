@@ -1,0 +1,11 @@
+Log message: `Process com.tencent.mobileqq:qzone (pid 12236) has died`
+Log template: `Process <*>:qzone (pid <*>) has died`
+Log message: `interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false`
+Log template: `interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>`
+Log message: `Pid:28601 MediaPlayer destructor`
+Log template: `Pid:<*> MediaPlayer destructor`
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+`cleanUpApplicationRecordLocked, reset pid: 13094, euid: 0`

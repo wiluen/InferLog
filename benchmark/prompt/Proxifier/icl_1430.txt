@@ -1,0 +1,11 @@
+Log message: `rssgov.windows.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `short.weixin.qq.com:80 close, 425 bytes sent, 161 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`short.weixin.qq.com:80 close, 357 bytes sent, 484 bytes received, lifetime <1 sec`

@@ -1,0 +1,11 @@
+Log message: `InsertEvent success begin:25233975 end:25233979`
+Log template: `InsertEvent success begin:<*> end:<*>`
+Log message: `insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT`
+Log template: `insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = ERR_DATA_INSERT`
+Log message: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log template: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log message: `new date =20171223, type=40005,330.0,old=330.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `getBinderPackageName packageName = com.huawei.health`
+Log template: `getBinderPackageName packageName = com.huawei.health`
+`writeDataToDB size 327`

@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.13:37196`
+Log template: `Accepted socket connection from <*>`
+Log message: `Client attempting to establish new session at /10.10.34.39:45022`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Client attempting to establish new session at /10.10.34.11:50990`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `FOLLOWING - LEADER ELECTION TOOK - 238`
+Log template: `FOLLOWING - LEADER ELECTION TOOK - <*>`
+Log message: `Client attempting to establish new session at /10.10.34.27:32782`
+Log template: `Client attempting to establish new session at <*>`
+`Client attempting to establish new session at /10.10.34.11:53422`

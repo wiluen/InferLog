@@ -1,0 +1,11 @@
+Log message: `scanning scsi channel 0 [Phy 0] for non-raid devices`
+Log template: `scanning scsi channel <*> [Phy <*>] for non-raid devices`
+Log message: `MegaRAID Model: LD 0 RAID1 139G Rev: 516A`
+Log template: `MegaRAID Model: LD <*> RAID1 <*> Rev: <*>`
+Log message: `mounted filesystem with ordered data mode.`
+Log template: `mounted filesystem with ordered data mode.`
+Log message: `autorun ...`
+Log template: `autorun ...`
+Log message: `Autodetecting RAID arrays.`
+Log template: `Autodetecting RAID arrays.`
+`Autodetecting RAID arrays.`

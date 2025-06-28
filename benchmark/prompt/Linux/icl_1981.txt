@@ -1,0 +1,11 @@
+Log message: `Failure registering capabilities with the kernel`
+Log template: `Failure registering capabilities with the kernel`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `audit(1122475266.4294965305:0): initialized`
+Log template: `audit(<*>): initialized`
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+Log message: `audit: initializing netlink socket (disabled)`
+Log template: `audit: initializing netlink socket (disabled)`
+`audit: initializing netlink socket (disabled)`

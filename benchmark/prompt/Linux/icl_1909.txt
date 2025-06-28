@@ -1,0 +1,11 @@
+Log message: `Kerberos authentication failed`
+Log template: `Kerberos authentication failed`
+Log message: `connection from 61.74.96.178 () at Wed Jun 29 03:22:23 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `klogd 1.4.1, log source = /proc/kmsg started.`
+Log template: `klogd <*>, log source = <*> started.`
+`klogd 1.4.1, log source = /proc/kmsg started.`

@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Checking iCDP status for DSID 874161398 (checkWithServer=0)`
+Log template: `Checking iCDP status for DSID <*> (checkWithServer=<*>)`
+Log message: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+Log template: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=<*> "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+`hibernate_flush_memory: buffer_cache_gc freed up 13202 wired pages`

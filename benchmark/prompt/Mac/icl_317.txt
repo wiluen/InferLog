@@ -1,0 +1,11 @@
+Log message: `SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}`
+Log template: `SecOSStatusWith error:[<*>] Error Domain=NSOSStatusErrorDomain Code=<*> "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}`
+Log message: `wake time set -0.855670 s`
+Log template: `wake time set <*> s`
+Log message: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log template: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+`01:06:37.436 : Scanning mode Contacts Only`

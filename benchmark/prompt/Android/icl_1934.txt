@@ -1,0 +1,11 @@
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `getDevicesForStream  streamType: 3`
+Log template: `getDevicesForStream streamType: <*>`
+Log message: `addNotification key=0|com.tencent.mobileqq|121|null|10111`
+Log template: `addNotification key=<*>|<*>|<*>|<*>|<*>`
+Log message: `Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+`Process com.tencent.mobileqq:qzone (pid 12236) has died`

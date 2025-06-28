@@ -1,0 +1,11 @@
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `DefaultState what=155652`
+Log template: `DefaultState what=<*>`
+Log message: `ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000`
+Log template: `ChargingSpeed Wattage: <*> ST: <*> --> <*>`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `ACTION_BATTERY_CHANGED pluggedType: 0`
+Log template: `ACTION_BATTERY_CHANGED pluggedType: <*>`
+`updateChargingLocked: charging=false`

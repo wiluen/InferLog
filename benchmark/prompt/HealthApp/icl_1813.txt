@@ -1,0 +1,11 @@
+Log message: `tryToRecordAsBasicStepData bWrite true`
+Log template: `tryToRecordAsBasicStepData bWrite <*>`
+Log message: `registersensorsuccess: true`
+Log template: `registersensorsuccess: <*>`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `bulkSaveDetailHiHealthData() size = 20,totalTime = 34`
+Log template: `bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>`
+Log message: `calculateCaloriesWithCache totalCalories=127011`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+`isScreenOn true`

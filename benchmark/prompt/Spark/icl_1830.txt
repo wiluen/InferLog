@@ -1,0 +1,11 @@
+Log message: `mapred.job.id is deprecated. Instead, use mapreduce.job.id`
+Log template: `mapred.job.id is deprecated. Instead, use mapreduce.job.id`
+Log message: `mapred.tip.id is deprecated. Instead, use mapreduce.task.id`
+Log template: `mapred.tip.id is deprecated. Instead, use mapreduce.task.id`
+Log message: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log template: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log message: `mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap`
+Log template: `mapred.task.is.map is deprecated. Instead, use mapreduce.task.ismap`
+Log message: `mapred.task.partition is deprecated. Instead, use mapreduce.task.partition`
+Log template: `mapred.task.partition is deprecated. Instead, use mapreduce.task.partition`
+`mapred.task.partition is deprecated. Instead, use mapreduce.task.partition`

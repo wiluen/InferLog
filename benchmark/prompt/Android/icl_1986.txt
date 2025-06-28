@@ -1,0 +1,11 @@
+Log message: `handleBatteryUpdate`
+Log template: `handleBatteryUpdate`
+Log message: `ACTION_BATTERY_CHANGED pluggedType: 0`
+Log template: `ACTION_BATTERY_CHANGED pluggedType: <*>`
+Log message: `visible is system.charge.show`
+Log template: `visible is <*>`
+Log message: `onReceive, action:android.intent.action.BATTERY_CHANGED`
+Log template: `onReceive, action:<*>`
+Log message: `userActivityNoUpdateLocked: eventTime=261988799, event=0, flags=0x0, uid=1000`
+Log template: `userActivityNoUpdateLocked: eventTime=<*>, event=<*>, flags=<*>, uid=<*>`
+`ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000`

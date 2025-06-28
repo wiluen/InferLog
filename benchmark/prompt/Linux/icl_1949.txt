@@ -1,0 +1,11 @@
+Log message: `audit(1122475266.4294965305:0): initialized`
+Log template: `audit(<*>): initialized`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `SELinux: Initializing.`
+Log template: `SELinux: Initializing.`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `Capability LSM initialized`
+Log template: `Capability LSM initialized`
+`Capability LSM initialized`

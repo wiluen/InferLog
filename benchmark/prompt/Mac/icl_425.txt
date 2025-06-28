@@ -1,0 +1,11 @@
+Log message: `2017-07-06 20:46:03.869 GoogleSoftwareUpdateAgent[37316/0x7000002a0000] [lvl=2] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "https://tools.google.com/service/update2?cup2hreq=5e15fbe422c816bef7c133cfffdb516e16923579b9be2dfae4d7d8d211b25017&cup2key=7:780377214"`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSOutOfProcessFetcher beginFetchWithDelegate:] KSOutOfProcessFetcher start fetch from URL: "<*>"`
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `PMStats: Hibernate read took 197 ms`
+Log template: `PMStats: Hibernate read took <*> ms`
+`NETWORK: no response from server, reachability, 2, queryRetries, 0`

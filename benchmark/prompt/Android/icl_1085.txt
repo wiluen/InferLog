@@ -1,0 +1,11 @@
+Log message: `cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227`
+Log template: `cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `ACTION_BATTERY_CHANGED AMP: 0; Volt: 0`
+Log template: `ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+`updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?false`

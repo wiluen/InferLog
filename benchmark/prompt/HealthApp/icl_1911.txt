@@ -1,0 +1,11 @@
+Log message: `checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0`
+Log template: `checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>`
+Log message: `onExtend:1514039590000 0 0 5`
+Log template: `onExtend:<*> <*> <*> <*>`
+Log message: `setGoalNotifiShownRecord 1514044800237 false`
+Log template: `setGoalNotifiShownRecord <*> <*>`
+Log message: `startInsertSportSync first 500 steps sync,do all sync`
+Log template: `startInsertSportSync first <*> steps sync,do all sync`
+Log message: `insertHiHealthData() size = 20,app = 1,One Data Type = 2,packageName = com.huawei.health,writeStatType = 0`
+Log template: `insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>`
+`startInsertSportSync first 500 steps sync,do all sync`

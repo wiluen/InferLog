@@ -1,0 +1,11 @@
+Log message: `connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+`connection from 221.4.102.93 () at Thu Jul  7 23:09:47 2005`

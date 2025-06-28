@@ -1,0 +1,11 @@
+Log message: `JVM with ID : jvm_1445144423722_0020_m_000009 asked for a task`
+Log template: `JVM with ID : <*> asked for a task`
+Log message: `Auth successful for job_1445144423722_0020 (auth:SIMPLE)`
+Log template: `Auth successful for <*> (auth:SIMPLE)`
+Log message: `The job-jar file on the remote FS is hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar`
+Log template: `The job-jar file on the remote FS is <*>`
+Log message: `Before Scheduling: PendingReds:0 ScheduledMaps:3 ScheduledReds:1 AssignedMaps:9 AssignedReds:0 CompletedMaps:1 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3`
+Log template: `Before Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>`
+Log message: `Recalculating schedule, headroom=<memory:10240, vCores:-17>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+`Before Scheduling: PendingReds:1 ScheduledMaps:10 ScheduledReds:0 AssignedMaps:0 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:0 ContRel:0 HostLocal:0 RackLocal:0`

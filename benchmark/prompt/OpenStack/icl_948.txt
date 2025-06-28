@@ -1,0 +1,11 @@
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Deletion of /var/lib/nova/instances/17288ea8-cbf4-4f0e-94fe-853fd2735f29_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] disk limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] disk limit not specified, defaulting to unlimited`
+Log message: `10.11.10.1 "GET /v2/e9746973ac574c6b8a9e8857f56a7608/servers/detail?all_tenants=True&changes-since=2017-05-16T05%3A54%3A58.530160%2B00%3A00 HTTP/1.1" status: 200 len: 23370 time: 0.3273299`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `HTTP exception thrown: No instances found for any event`
+Log template: `HTTP exception thrown: No instances found for any event`
+`[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Instance destroyed successfully.`

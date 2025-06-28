@@ -1,0 +1,11 @@
+Log message: `Server environment:os.name=Linux`
+Log template: `Server environment:<*>`
+Log message: `Server environment:java.class.path=/etc/zookeeper/conf:/usr/share/java/jline.jar:/usr/share/java/log4j-1.2.jar:/usr/share/java/xercesImpl.jar:/usr/share/java/xmlParserAPIs.jar:/usr/share/java/netty.jar:/usr/share/java/slf4j-api.jar:/usr/share/java/slf4j-log4j12.jar:/usr/share/java/zookeeper.jar`
+Log template: `Server environment:<*>`
+Log message: `Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre`
+Log template: `Server environment:<*>`
+Log message: `Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running`
+Log template: `Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running`
+Log message: `Client attempting to renew session 0x14f05578bd8001b at /10.10.34.20:56374`
+Log template: `Client attempting to renew session <*> at <*>`
+`Server environment:java.vendor=Oracle Corporation`

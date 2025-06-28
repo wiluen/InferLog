@@ -1,0 +1,11 @@
+Log message: `[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]`
+Log template: `Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[]`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Terminating instance`
+Log template: `[instance: <*>] Terminating instance`
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 20.35 seconds to spawn the instance on the hypervisor.`
+Log template: `[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 19.79 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+`Creating event network-vif-plugged:60df1c66-a513-4973-aeed-095809a52794 for instance 43204226-2f87-4da7-b7ee-4d20cc66e846`

@@ -1,0 +1,11 @@
+Log message: `[client 218.76.139.20] Directory index forbidden by rule: /var/www/html/`
+Log template: `[client <*>] Directory index forbidden by rule: <*>`
+Log message: `jk2_init() Found child 2865 in scoreboard slot 9`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 321 in scoreboard slot 9`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 324 in scoreboard slot 11`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 353 in scoreboard slot 12`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+`jk2_init() Found child 350 in scoreboard slot 9`

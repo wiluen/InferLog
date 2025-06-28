@@ -1,0 +1,11 @@
+Log message: `setSystemUiVisibility vis=0 mask=1 oldVal=508 newVal=508 diff=0 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 0, 0), dockedStackBounds=Rect(0, 0 - 0, 0)`
+Log template: `setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0`
+Log template: `updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>`
+Log message: `getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq`
+Log template: `getAllCellInfo is blocked by permission manager . callingPackage = <*>`
+`cancelNotificationLocked called,tell the app,reason = 1`

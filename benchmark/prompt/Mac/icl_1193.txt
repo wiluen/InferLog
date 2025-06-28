@@ -1,0 +1,11 @@
+Log message: `Got an XPC error: Connection invalid`
+Log template: `Got an XPC error: Connection invalid`
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `(DiskStore.Normal:2382) 20cb04f 1.000086`
+Log template: `(DiskStore.Normal:<*>) <*>`
+Log message: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log template: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: Updating enabled: YES   (Topics: ( "com.apple.private.alloy.icloudpairing", "com.apple.private.alloy.continuity.encryption", "com.apple.private.alloy.continuity.activity", "com.apple.ess", "com.apple.private.ids", "com.apple.private.alloy.phonecontinuity", "com.apple.madrid", "com.apple.private.ac", "com.apple.private.alloy.phone.auth", "com.apple.private.alloy.keychainsync", "com.apple.private.alloy.fmf", "com.apple.private.alloy.sms", "com.apple.private.alloy.screensharing", "com.apple.private.alloy.maps", "com.apple.private.alloy.thumper.keys", "com.apple.private.alloy.continuity.tethering" ))`
+Log template: `<IMMacNotificationCenterManager: <*>: Updating enabled: YES (Topics: (<*>))`
+`hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0`

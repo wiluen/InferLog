@@ -1,0 +1,11 @@
+Log message: `*** info [mice.c(1766)]:`
+Log template: `*** info [mice.c(<*>)]:`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=212.0.132.20  user=test`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 210.245.165.136 () at Wed Jun 22 13:16:31 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 222.33.90.199 () at Mon Jun 20 03:40:59 2005`

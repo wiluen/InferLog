@@ -1,0 +1,11 @@
+Log message: `Invalid user ubnt from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Received disconnect from 60.2.12.12: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `Invalid user inspur from 183.136.162.51`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user inspur [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user support from 195.154.37.122`
+Log template: `Invalid user <*> from <*>`
+`Did not receive identification string from 181.214.87.4`

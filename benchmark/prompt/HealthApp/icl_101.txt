@@ -1,0 +1,11 @@
+Log message: `REPORT : 7011 5005 150175 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `screen status unknown,think screen on`
+Log template: `screen status unknown,think screen on`
+Log message: `REPORT : 7020 5012 150368 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3588`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7029 5018 150561 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`onStandStepChanged 3595`

@@ -1,0 +1,11 @@
+Log message: `getpeername (ftpd): Transport endpoint is not connected`
+Log template: `getpeername (ftpd): Transport endpoint is not connected`
+Log message: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log template: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log message: `Linux Plug and Play Support v0.97 (c) Adam Belay`
+Log template: `Linux Plug and Play Support <*> (c) Adam Belay`
+Log message: `isapnp: Scanning for PnP cards...`
+Log template: `isapnp: Scanning for PnP cards...`
+Log message: `isapnp: No Plug & Play device found`
+Log template: `isapnp: No Plug & Play device found`
+`isapnp: No Plug & Play device found`

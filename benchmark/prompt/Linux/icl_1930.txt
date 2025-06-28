@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=`
+Log message: `connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `klogd 1.4.1, log source = /proc/kmsg started.`
+Log template: `klogd <*>, log source = <*> started.`
+Log message: `Kernel command line: ro root=LABEL=/ rhgb quiet`
+Log template: `Kernel command line: ro root=<*>=<*> rhgb quiet`
+`Kernel command line: ro root=LABEL=/ rhgb quiet`

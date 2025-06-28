@@ -1,0 +1,11 @@
+Log message: `lh3.googleusercontent.com:443 close, 745 bytes sent, 229 bytes received, lifetime 00:14`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `proxy.cse.cuhk.edu.hk:5070 close, 1920 bytes (1.87 KB) sent, 338 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>`
+Log message: `BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `user-images.githubusercontent.com:443 close, 335 bytes sent, 4369 bytes (4.26 KB) received, lifetime 00:40`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `f-log-extension.grammarly.io:443 close, 1363 bytes (1.33 KB) sent, 3549 bytes (3.46 KB) received, lifetime 00:33`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+`www.google.com.hk:443 close, 734 bytes sent, 160 bytes received, lifetime <1 sec`

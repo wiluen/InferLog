@@ -1,0 +1,11 @@
+Log message: `input_userauth_request: invalid user bssh [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user anonymous from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user default from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user 123 from 185.190.58.151`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2`
+Log template: `Failed none for invalid user <*> from <*> port <*> ssh2`
+`Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2`

@@ -1,0 +1,11 @@
+Log message: `Failed to stop a scan - central is not powered on: 4`
+Log template: `Failed to stop a scan - central is not powered on: <*>`
+Log message: `enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex`
+Log template: `enabling pid=<*> for plug-in com.apple.ncplugin.weather(<*>) <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+Log message: `############################## _getSysMsgList`
+Log template: `############################## _getSysMsgList`
+`ASL Sender Statistics`

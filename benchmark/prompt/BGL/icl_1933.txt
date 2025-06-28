@@ -1,0 +1,11 @@
+Log message: `ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA, found 04D081A3892FFFFF0D0B1C505AF3`
+Log template: `Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>`
+Log message: `ciod: LOGIN chdir(/home/yates/SWL_tests/BGL64k_SWL_tests_develop/MPI-VAL/MPITs_v050902/rundir) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+`ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory`

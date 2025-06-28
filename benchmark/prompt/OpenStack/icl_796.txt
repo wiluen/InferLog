@@ -1,0 +1,11 @@
+Log message: `[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `Creating event network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478 for instance af5f7392-f7d4-4298-b647-c98924c64aa1`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.`
+Log template: `While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] VM Started (Lifecycle Event)`
+Log template: `[instance: <*>] VM Started (Lifecycle Event)`
+Log message: `[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Took 21.08 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+`[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Creating image`

@@ -1,0 +1,11 @@
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)`
+Log template: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (<*>) UASuggestedActionType=<*> (<*>)/(<*>) opts=(<*>) when=<*>`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `CoreAnimation: timed out fence 5fe83`
+Log template: `CoreAnimation: timed out fence <*>`
+`CoreAnimation: timed out fence 5fe83`

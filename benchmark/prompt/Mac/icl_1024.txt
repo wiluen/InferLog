@@ -1,0 +1,11 @@
+Log message: `Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`
+Log template: `Sandbox: <*>(<*>) deny(<*>) file-read-data <*>`
+Log message: `Peripheral manager is not powered on`
+Log template: `Peripheral manager is not powered on`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+`00:03:06.178 : Started generating hashes`

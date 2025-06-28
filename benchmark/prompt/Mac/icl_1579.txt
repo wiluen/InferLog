@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+Log message: `en0: manual intervention required!`
+Log template: `en0: manual intervention required!`
+`CCFile::captureLogRun Skipping current file Dir file [2017-07-07_13,40,35.961495]-io80211Family-023.pcapng, Current File [2017-07-07_13,40,35.961495]-io80211Family-023.pcapng`

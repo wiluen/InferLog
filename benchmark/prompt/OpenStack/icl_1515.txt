@@ -1,0 +1,11 @@
+Log message: `Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.`
+Log template: `Running instance usage audit for host <*> from <*> to <*>. <*> instances.`
+Log message: `Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742`
+Log template: `Removing base or swap file: <*>`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Terminating instance`
+Log template: `[instance: <*>] Terminating instance`
+Log message: `10.11.21.132,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0009539`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]`
+Log template: `Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[]`
+`Creating event network-vif-plugged:0b72aca0-102e-4421-8ff3-2902d8353ff0 for instance d6b7bd36-2943-4363-9235-fffdd89ea40e`

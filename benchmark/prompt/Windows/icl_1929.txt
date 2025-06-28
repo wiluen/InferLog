@@ -1,0 +1,11 @@
+Log message: `Session: 30546173_4268042763 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]`
+Log template: `Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]`
+Log message: `Session: 11152_142416105 initialized by client SPP.`
+Log template: `Session: <*> initialized by client SPP.`
+Log message: `Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]`
+Log template: `Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]`
+Log message: `Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]`
+Log template: `Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]`
+`Disabling manifest caching, because the image is not writeable.`

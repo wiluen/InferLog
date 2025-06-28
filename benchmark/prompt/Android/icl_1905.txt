@@ -1,0 +1,11 @@
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `Pid:28601 MediaPlayer destructor`
+Log template: `Pid:<*> MediaPlayer destructor`
+Log message: `Process com.tencent.mobileqq:qzone (pid 12236) has died`
+Log template: `Process <*>:qzone (pid <*>) has died`
+Log message: `interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false`
+Log template: `interceptKeyTq keycode=<*> interactive=<*> keyguardActive=<*> policyFlags=<*> down <*> canceled <*>`
+Log message: `sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>`
+`cleanUpApplicationRecord -- 12025`

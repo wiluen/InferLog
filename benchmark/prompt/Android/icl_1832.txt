@@ -1,0 +1,11 @@
+Log message: `RefreshBatteryInfo isBatteryLow: 23`
+Log template: `RefreshBatteryInfo isBatteryLow: <*>`
+Log message: `onNotificationVisibilityChanged called`
+Log template: `onNotificationVisibilityChanged called`
+Log message: `java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token`
+Log template: `<*>: <*> cannot be cast to <*>$Token`
+Log message: `isSimPinSecure mSimDatas is null or empty`
+Log template: `isSimPinSecure mSimDatas is <*> or empty`
+Log message: `onExpandingStarted`
+Log template: `onExpandingStarted`
+`onTouchEvent::0, x=271.0, y=14.0`

@@ -1,0 +1,11 @@
+Log message: `mapped 4G/4G trampoline to ffff3000.`
+Log template: `mapped <*> trampoline to <*>.`
+Log message: `PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0`
+Log template: `PCI: Using IRQ router PIIX/ICH [<*>] at <*>`
+Log message: `DMI 2.3 present.`
+Log template: `DMI <*> present.`
+Log message: `Transparent bridge - 0000:00:1e.0`
+Log template: `Transparent bridge - <*>`
+Log message: `Console: colour VGA+ 80x25`
+Log template: `Console: colour VGA+ <*>`
+`Console: colour VGA+ 80x25`

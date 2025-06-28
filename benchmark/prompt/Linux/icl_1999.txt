@@ -1,0 +1,11 @@
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`
+Log template: `ANONYMOUS FTP LOGIN FROM <*>, (anonymous)`
+Log message: `mtrr: v2.0 (20020519)`
+Log template: `mtrr: <*> (<*>)`
+Log message: `Linux Plug and Play Support v0.97 (c) Adam Belay`
+Log template: `Linux Plug and Play Support <*> (c) Adam Belay`
+Log message: `Linux agpgart interface v0.100 (c) Dave Jones`
+Log template: `Linux agpgart interface <*> (c) Dave Jones`
+`Linux agpgart interface v0.100 (c) Dave Jones`

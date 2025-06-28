@@ -1,0 +1,11 @@
+Log message: `getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq`
+Log template: `getAllCellInfo is blocked by permission manager . callingPackage = <*>`
+Log message: `release:lock=166121161, flg=0x0, tag="RILJ_ACK_WL", name=com.android.phone", ws=null, uid=1001, pid=2626`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `acquire lock=149977903, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `isWiredHeadsetOn...`
+Log template: `isWiredHeadsetOn...`
+`getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq`

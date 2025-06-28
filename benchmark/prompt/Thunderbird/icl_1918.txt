@@ -1,0 +1,11 @@
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.`
+Log message: `DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPACK on <*> to <*> via eth1`
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `fw version:[516A] bios version:[H418]`
+Log template: `fw version:[<*>] bios version:[<*>]`
+`fw version:[516A] bios version:[H418]`

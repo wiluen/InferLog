@@ -1,0 +1,11 @@
+Log message: `data storage interrupt`
+Log template: `data storage interrupt`
+Log message: `data store interrupt caused by dcbf.........0`
+Log template: `data store interrupt caused by dcbf.........<*>`
+Log message: `debug interrupt enable............0`
+Log template: `debug interrupt enable............<*>`
+Log message: `debug wait enable.................0`
+Log template: `debug wait enable.................<*>`
+Log message: `disable store gathering..................0`
+Log template: `disable store gathering..................<*>`
+`disable store gathering..................0`

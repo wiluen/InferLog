@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 82.83.227.67 (dsl-082-083-227-067.arcor-ip.net) at Sun Jul 10 07:24:24 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `session opened for user cyrus by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+`connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005`

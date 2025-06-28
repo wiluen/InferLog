@@ -1,0 +1,11 @@
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `addNotification key=0|com.tencent.mm|4097|null|10112`
+Log template: `addNotification key=<*>|<*>|<*>|<*>|<*>`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `onNotificationVisibilityChanged called`
+Log template: `onNotificationVisibilityChanged called`
+Log message: `Destroying surface Surface(name=PopupWindow:6ac503e) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.WindowStateAnimator.finishExit:590 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:516 com.android.server.wm.WindowAnimator.updateWindowsLocked:311 com.android.server.wm.WindowAnimator.animateLocked:738`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+`Marking notification as seen 0|com.tencent.mm|4097|null|10112`

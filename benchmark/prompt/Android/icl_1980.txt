@@ -1,0 +1,11 @@
+Log message: `cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140`
+Log template: `cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>`
+Log message: `*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** unregister callback for <*>@<*>`
+Log message: `DefaultState what=155652`
+Log template: `DefaultState what=<*>`
+Log message: `updateChargingLocked: charging=false`
+Log template: `updateChargingLocked: charging=<*>`
+Log message: `ApStaDisabledState what=155652`
+Log template: `ApStaDisabledState what=<*>`
+`onReceive, action:android.intent.action.BATTERY_CHANGED`

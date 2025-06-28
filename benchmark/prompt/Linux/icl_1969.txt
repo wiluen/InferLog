@@ -1,0 +1,11 @@
+Log message: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+Log template: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+Log message: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log template: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log message: `ACPI disabled because your bios is from 2000 and too old`
+Log template: `ACPI disabled because your bios is from <*> and too old`
+Log message: `You can enable it with acpi=force`
+Log template: `You can enable it with acpi=<*>`
+Log message: `ACPI: Interpreter disabled.`
+Log template: `ACPI: Interpreter disabled.`
+`ACPI: Interpreter disabled.`

@@ -1,0 +1,11 @@
+Log message: `PID hash table entries: 512 (order 9: 4096 bytes)`
+Log template: `PID hash table entries: <*> (order <*>: <*> bytes)`
+Log message: `Dentry cache hash table entries: 16384 (order: 4, 65536 bytes)`
+Log template: `Dentry cache hash table entries: <*> (order: <*>, <*> bytes)`
+Log message: `Mount-cache hash table entries: 512 (order: 0, 4096 bytes)`
+Log template: `Mount-cache hash table entries: <*> (order: <*>, <*> bytes)`
+Log message: `Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)`
+Log template: `Dquot-cache hash table entries: <*> (order <*>, <*> bytes)`
+Log message: `Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)`
+Log template: `Inode-cache hash table entries: <*> (order: <*>, <*> bytes)`
+`Inode-cache hash table entries: 8192 (order: 3, 32768 bytes)`

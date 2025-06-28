@@ -1,0 +1,11 @@
+Log message: `Number of reduces for job job_1445144423722_0020 = 1`
+Log template: `Number of reduces for job <*> = <*>`
+Log message: `MRAppMaster launching normal, non-uberized, multi-container job job_1445144423722_0020.`
+Log template: `MRAppMaster launching normal, non-uberized, multi-container job <*>.`
+Log message: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000`
+Log template: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>`
+Log message: `Added attempt_1445144423722_0020_m_000001_1 to list of failed maps`
+Log template: `Added <*> to list of failed maps`
+Log message: `Not uberizing job_1445144423722_0020 because: not enabled; too many maps; too much input;`
+Log template: `Not uberizing <*> because: not enabled; too many maps; too much input;`
+`Not uberizing job_1445144423722_0020 because: not enabled; too many maps; too much input;`

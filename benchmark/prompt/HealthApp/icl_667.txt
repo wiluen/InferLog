@@ -1,0 +1,11 @@
+Log message: `REPORT : 7189 5132 153988 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7114 5079 152381 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `calculateCaloriesWithCache totalCalories=130201`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `calculateCaloriesWithCache totalCalories=130330`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `REPORT : 7198 5139 154181 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7167 5117 153517 240`

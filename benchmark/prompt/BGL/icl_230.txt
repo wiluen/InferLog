@@ -1,0 +1,11 @@
+Log message: `debug wait enable.................0`
+Log template: `debug wait enable.................<*>`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+Log message: `wait state enable.................0`
+Log template: `wait state enable.................<*>`
+Log message: `floating point instr. enabled.....1`
+Log template: `floating point instr. enabled.....<*>`
+Log message: `floating pt ex mode 1 enable......0`
+Log template: `floating pt ex mode <*> enable......<*>`
+`floating pt ex mode 0 enable......0`

@@ -1,0 +1,11 @@
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `Error in CoreDragRemoveTrackingHandler: -1856`
+Log template: `Error in CoreDragRemoveTrackingHandler: <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+`button report: 0X80076ED`

@@ -1,0 +1,11 @@
+Log message: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)`
+Log template: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+`Unable to simultaneously satisfy constraints: ( "<NSLayoutConstraint:0x7f8efb89e920 H:[NSImageView:0x7f8efb89d5d0(38)]>", "<NSLayoutConstraint:0x7f8efb89aac0 H:|-(14)-[NSImageView:0x7f8efb89d5d0]   (Names: PageItemCell:0x7f8efb898930, '|':PageItemCell:0x7f8efb898930 )>", "<NSLayoutConstraint:0x7f8f071a6c20 'NSView-Encapsulated-Layout-Width' H:[PageItemCell(73)]   (Names: PageItemCell:0x7f8efb898930 )>", "<NSLayoutConstraint:0x7f8efb89d8a0 H:[NSImageView:0x7f8efb89d5d0]-(10)-[NSTextField:0x7f8efb89d250]>", "<NSLayoutConstraint:0x7f8efb8980e0 H:[NSTextField:0x7f8efb89e7a0]-(14)-|   (Names: PageItemCell:0x7f8efb898930, '|':PageItemCell:0x7f8efb898930 )>", "<NSLayoutConstraint:0x7f8efb89ba20 H:[NSTextField:0x7f8efb89d250]-(>=NSSpace(8))-[NSTextField:0x7f8efb89e7a0]>" )  Will attempt to recover by breaking constraint <NSLayoutConstraint:0x7f8efb89e920 H:[NSImageView:0x7f8efb89d5d0(38)]>  Set the NSUserDefault NSConstraintBasedLayoutVisualizeMutuallyExclusiveConstraints to YES to have -[NSWindow visualizeConstraints:] automatically called when this happens.  And/or, break on objc_exception_throw to catch this in the debugger.`

@@ -1,0 +1,11 @@
+Log message: `Invalid user utsims from 112.95.230.3`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for root from 60.2.12.12 port 20658 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 60.2.12.12 port 10217 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Did not receive identification string from 123.235.32.19`
+Log template: `Did not receive identification string from <*>`
+Log message: `Failed password for invalid user cisco from 103.99.0.122 port 50890 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+`Failed password for root from 103.99.0.122 port 63012 ssh2`

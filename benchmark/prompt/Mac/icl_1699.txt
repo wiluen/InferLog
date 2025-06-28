@@ -1,0 +1,11 @@
+Log message: `en0: channel changed to 6`
+Log template: `en0: channel changed to <*>`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+Log message: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`
+Log template: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>`
+`<<<< MediaValidator >>>> mv_ValidateRFC4281CodecId: Unrecognized codec 1.(null). Failed codec specific check.`

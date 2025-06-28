@@ -1,0 +1,11 @@
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2d17980>:    NC Disabled: NO`
+Log template: `<IMMacNotificationCenterManager: <*>: NC Disabled: NO`
+Log message: `Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`
+Log template: `Sandbox: <*>(<*>) deny(<*>) file-read-data <*>`
+Log message: `Previous sleep cause: 5`
+Log template: `Previous sleep cause: <*>`
+`hibernate_setup(0) took 8471 ms`

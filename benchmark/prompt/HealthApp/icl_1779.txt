@@ -1,0 +1,11 @@
+Log message: `REPORT : 7165 5115 153474 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `ifCanSync not! no cloud version`
+Log template: `ifCanSync not! no cloud version`
+Log message: `bulkSaveDetailHiHealthData() size = 20,totalTime = 34`
+Log template: `bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>`
+Log message: `initUserPrivacy the userPrivacy is true`
+Log template: `initUserPrivacy the userPrivacy is <*>`
+Log message: `sendSyncFailedBroadcast`
+Log template: `sendSyncFailedBroadcast`
+`initUserPrivacy the userPrivacy switch is open, start push user data!`

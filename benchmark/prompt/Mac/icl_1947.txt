@@ -1,0 +1,11 @@
+Log message: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)`
+Log template: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (<*>) UASuggestedActionType=<*> (<*>)/(<*>) opts=(<*>) when=<*>`
+Log message: `ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223`
+Log template: `ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `ChromeExistion main strSendMsg = {"websitekey":false,"commandkey":true,"browserkey":true}`
+Log template: `ChromeExistion main strSendMsg = {"websitekey":<*>,"commandkey":<*>,"browserkey":<*>}`
+Log message: `[0706/120312:WARNING:dns_config_service_posix.cc(306)] Failed to read DnsConfig.`
+Log template: `[<*>:WARNING:dns_config_service_posix.cc(<*>)] Failed to read DnsConfig.`
+`the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`

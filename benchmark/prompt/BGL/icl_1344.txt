@@ -1,0 +1,11 @@
+Log message: `debug interrupt enable............0`
+Log template: `debug interrupt enable............<*>`
+Log message: `program interrupt: illegal instruction......1`
+Log template: `program interrupt: illegal instruction......<*>`
+Log message: `program interrupt: privileged instruction...0`
+Log template: `program interrupt: privileged instruction...<*>`
+Log message: `critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type`
+Log template: `critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type`
+Log message: `ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+`suppressing further interrupts of same type`

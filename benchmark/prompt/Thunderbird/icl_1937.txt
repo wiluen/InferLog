@@ -1,0 +1,11 @@
+Log message: `Physical Processor ID: 3`
+Log template: `Physical Processor ID: <*>`
+Log message: `Physical Processor ID: 0`
+Log template: `Physical Processor ID: <*>`
+Log message: `Intel(R) Xeon(TM) CPU 3.60GHz stepping 03`
+Log template: `Intel(R) Xeon(TM) CPU <*> stepping <*>`
+Log message: `Using 14.318180 MHz HPET timer.`
+Log template: `Using <*> MHz HPET timer.`
+Log message: `Detected 3591.360 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+`Detected 3591.360 MHz processor.`

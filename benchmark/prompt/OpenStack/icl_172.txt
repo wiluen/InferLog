@@ -1,0 +1,11 @@
+Log message: `Creating event network-vif-plugged:1771f0af-aae8-4b03-97c9-a7bc9c5e4bb7 for instance faf974ea-cba5-4e1b-93f4-3a3bc606006f`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.`
+Log template: `Running instance usage audit for host <*> from <*> to <*>. <*> instances.`
+Log message: `Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `10.11.21.135,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0009499`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`Creating event network-vif-plugged:d1ce4c5a-2811-41c3-8a5a-39f9e6defcb8 for instance b562ef10-ba2d-48ae-bf4a-18666cba4a51`

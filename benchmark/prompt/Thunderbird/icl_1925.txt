@@ -1,0 +1,11 @@
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `Started working: 1 available service`
+Log template: `Started working: <*> available service`
+Log message: `syslog-ng version 1.6.7 starting`
+Log template: `syslog-ng version <*> starting`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+`Version 1.0.6 Starting`

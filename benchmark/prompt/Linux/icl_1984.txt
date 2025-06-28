@@ -1,0 +1,11 @@
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `irqbalance startup succeeded`
+Log template: `irqbalance startup succeeded`
+Log message: `hcid startup succeeded`
+Log template: `hcid startup succeeded`
+`hcid startup succeeded`

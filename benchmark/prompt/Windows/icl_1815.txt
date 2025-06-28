@@ -1,0 +1,11 @@
+Log message: `0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7`
+Log template: `<*> ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=<*> applyflags=<*>`
+Log message: `00000008 CSI Store 4991456 (0x00000000004c29e0) initialized`
+Log template: `<*> CSI Store <*> (<*>) initialized`
+Log message: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log template: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log message: `Startup processing thread terminated normally`
+Log template: `Startup processing thread terminated normally`
+Log message: `NonStart: Checking to ensure startup processing was not required.`
+Log template: `NonStart: Checking to ensure startup processing was not required.`
+`NonStart: Checking to ensure startup processing was not required.`

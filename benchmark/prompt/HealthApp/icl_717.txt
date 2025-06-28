@@ -1,0 +1,11 @@
+Log message: `calculateCaloriesWithCache totalCalories=130052`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `onStandStepChanged 3786`
+Log template: `onStandStepChanged <*>`
+Log message: `screen status unknown,think screen on`
+Log template: `screen status unknown,think screen on`
+Log message: `onStandStepChanged 3760`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3755`
+Log template: `onStandStepChanged <*>`
+`onStandStepChanged 3758`

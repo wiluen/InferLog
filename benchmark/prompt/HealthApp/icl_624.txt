@@ -1,0 +1,11 @@
+Log message: `InsertEvent success begin:25233975 end:25233979`
+Log template: `InsertEvent success begin:<*> end:<*>`
+Log message: `new date =20171223, type=40005,330.0,old=330.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003`
+Log template: `saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>`
+Log message: `startListenerChange subscribeList = [1]`
+Log template: `startListenerChange subscribeList = [<*>]`
+`saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40005`

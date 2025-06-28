@@ -1,0 +1,11 @@
+Log message: `#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+Log message: `sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $`
+Log template: `<*> <*> <*> ak Exp $`
+Log message: `initialized`
+Log template: `initialized`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `4.1.0-ioctl (2003-12-10) initialised: #36#@#37#`
+Log template: `<*>-ioctl (<*>) initialised: <*>`
+`4.1.0-ioctl (2003-12-10) initialised: #36#@#37#`

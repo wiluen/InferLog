@@ -1,0 +1,11 @@
+Log message: `[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] VM Resumed (Lifecycle Event)`
+Log template: `[instance: <*>] VM Resumed (Lifecycle Event)`
+Log message: `[instance: d54b44eb-2d1a-4aa2-ba6b-074d35f8f12c] Terminating instance`
+Log template: `[instance: <*>] Terminating instance`
+Log message: `[instance: 43204226-2f87-4da7-b7ee-4d20cc66e846] Deletion of /var/lib/nova/instances/43204226-2f87-4da7-b7ee-4d20cc66e846_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1910 time: 0.2753000`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `10.11.21.123,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ HTTP/1.1" status: 200 len: 124 time: 0.0008931`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/detail HTTP/1.1" status: 200 len: 1893 time: 0.2699261`

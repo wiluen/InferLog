@@ -1,0 +1,11 @@
+Log message: `store operation.............................1`
+Log template: `store operation.............................<*>`
+Log message: `generating core.303`
+Log template: `generating core.<*>`
+Log message: `rts panic! - stopping execution`
+Log template: `rts panic! - stopping execution`
+Log message: `program interrupt: unimplemented operation..0`
+Log template: `program interrupt: unimplemented operation..<*>`
+Log message: `shutdown complete`
+Log template: `shutdown complete`
+`shutdown complete`

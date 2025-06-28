@@ -1,0 +1,11 @@
+Log message: `sclick.baidu.com:80 close, 1971 bytes (1.92 KB) sent, 401 bytes received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>`
+Log message: `block.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `203.205.151.204:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+`log.getdropbox.com:80 close, 739 bytes sent, 404 bytes received, lifetime <1 sec`

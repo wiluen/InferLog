@@ -1,0 +1,11 @@
+Log message: `playSoundEffect   effectType: 0`
+Log template: `playSoundEffect effectType: <*>`
+Log message: `flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`
+Log template: `flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>`
+Log message: `cancelAutohide`
+Log template: `cancelAutohide`
+Log message: `Bad activity token: android.os.BinderProxy@2bd79ce`
+Log template: `Bad activity token: <*>@<*>`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+`resumeSuspendedAutohide`

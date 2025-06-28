@@ -1,0 +1,11 @@
+Log message: `__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2`
+Log template: `<*>-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `(DiskStore.Normal:2382) 20cb04f 1.000086`
+Log template: `(DiskStore.Normal:<*>) <*>`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+`tcp_connection_tls_session_error_callback_imp 2375 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22`

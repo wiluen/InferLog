@@ -1,0 +1,11 @@
+Log message: `ambient=31`
+Log template: `ambient=<*>`
+Log message: `normal`
+Log template: `normal`
+Log message: `running`
+Log template: `running`
+Log message: `starting`
+Log template: `starting`
+Log message: `closing`
+Log template: `closing`
+`closing`

@@ -1,0 +1,11 @@
+Log message: `getDevicesForStream  streamType: 3`
+Log template: `getDevicesForStream streamType: <*>`
+Log message: `Application requested orientation -1, got rotation 0 which has compatible metrics`
+Log template: `Application requested orientation <*>, got rotation <*> which has compatible metrics`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.MAIN flg=0x10840000 cmp=com.android.incallui/.InCallActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> flg=<*> cmp=<*> (has extras) }`
+`cancelNotificationLocked,remove =com.tencent.mobileqq`

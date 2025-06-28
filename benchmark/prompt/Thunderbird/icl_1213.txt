@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `(root) CMD (run-parts /etc/cron.hourly)`
+Log template: `(<*>) CMD (run-parts <*>)`
+Log message: `... autorun DONE.`
+Log template: `... autorun DONE.`
+Log message: `autorun ...`
+Log template: `autorun ...`
+`autorun ...`

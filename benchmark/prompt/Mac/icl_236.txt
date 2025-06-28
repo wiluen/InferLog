@@ -1,0 +1,11 @@
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `Service exited with abnormal code: 1`
+Log template: `Service exited with abnormal code: <*>`
+`[17:13:46.390] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7f92413e3000) rejecting report of layer being serviced - IQ has not yet begun to update`

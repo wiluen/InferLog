@@ -1,0 +1,11 @@
+Log message: `Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.`
+Log template: `Running instance usage audit for host <*> from <*> to <*>. <*> instances.`
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 20.35 seconds to spawn the instance on the hypervisor.`
+Log template: `[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.`
+Log message: `10.11.21.135,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0009499`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+`Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452`

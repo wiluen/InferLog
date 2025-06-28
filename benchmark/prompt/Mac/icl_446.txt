@@ -1,0 +1,11 @@
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `PM response took 129 ms (10018, QQ)`
+Log template: `PM response took <*> ms (<*>, QQ)`
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+`<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>:   DND Enabled: YES`

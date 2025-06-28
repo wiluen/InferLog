@@ -1,0 +1,11 @@
+Log message: `ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0`
+Log template: `ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>`
+Log message: `release:lock=237091223, flg=0x0, tag="WiredAccessoryManager", name=android", ws=null, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `The change in focus caused us to need to do a layout begin`
+Log template: `The change in focus caused us to need to do a layout begin`
+Log message: `shouldBlockLocation  ret:true`
+Log template: `shouldBlockLocation ret:<*>`
+Log message: `removeNotification:0|com.tencent.mobileqq|121|null|10111`
+Log template: `removeNotification:<*>|<*>|<*>|<*>|<*>`
+`START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0`

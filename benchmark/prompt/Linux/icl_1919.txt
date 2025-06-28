@@ -1,0 +1,11 @@
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `BIOS-provided physical RAM map:`
+Log template: `BIOS-provided physical RAM map:`
+Log message: `0MB HIGHMEM available.`
+Log template: `<*> HIGHMEM available.`
+Log message: `126MB LOWMEM available.`
+Log template: `<*> LOWMEM available.`
+Log message: `zapping low mappings.`
+Log template: `zapping low mappings.`
+`zapping low mappings.`

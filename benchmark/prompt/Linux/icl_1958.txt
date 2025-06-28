@@ -1,0 +1,11 @@
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Intel machine check reporting enabled on CPU#0.`
+Log template: `Intel machine check reporting enabled on <*>.`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `PCI: Probing PCI hardware (bus 00)`
+Log template: `PCI: Probing PCI hardware (bus <*>)`
+Log message: `CPU: Intel Pentium III (Coppermine) stepping 06`
+Log template: `CPU: Intel Pentium III (Coppermine) stepping <*>`
+`CPU: Intel Pentium III (Coppermine) stepping 06`

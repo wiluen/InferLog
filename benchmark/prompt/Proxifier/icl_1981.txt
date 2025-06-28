@@ -1,0 +1,11 @@
+Log message: `static.blog.csdn.net:80 close, 2188 bytes (2.13 KB) sent, 41402 bytes (40.4 KB) received, lifetime 02:03`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `ping.pinyin.sogou.com:80 close, 634 bytes sent, 166 bytes received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `video.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `go.microsoft.com:80 close, 717 bytes sent, 357 bytes received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `cdn.e9377f.com:80 close, 575 bytes sent, 243 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`crl.microsoft.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`

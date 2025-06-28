@@ -1,0 +1,11 @@
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `ASL Sender Statistics`
+Log template: `ASL Sender Statistics`
+Log message: `Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`
+Log template: `Sandbox: <*>(<*>) deny(<*>) ipc-posix-shm-read-data CFPBS:<*>:`
+`[com.apple.calendar.store.log.caldav.queue] [Account xpc_ben@163.com@https://caldav.163.com/caldav/principals/users/xpc_ben%40163.com/ timed out when executing operation: <CalDAVAccountRefreshQueueableOperation: 0x7fa11f9f2290; Sequence: 0>]`

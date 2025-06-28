@@ -1,0 +1,11 @@
+Log message: `Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log template: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log message: `IPC Server listener on 62260: starting`
+Log template: `IPC Server listener on <*>: starting`
+Log message: `IPC Server listener on 62270: starting`
+Log template: `IPC Server listener on <*>: starting`
+Log message: `IPC Server Responder: starting`
+Log template: `IPC Server Responder: starting`
+`IPC Server Responder: starting`

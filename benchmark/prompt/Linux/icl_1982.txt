@@ -1,0 +1,11 @@
+Log message: `ROOT LOGIN ON tty2`
+Log template: `ROOT LOGIN ON <*>`
+Log message: `pci_hotplug: PCI Hot Plug PCI Core version: 0.5`
+Log template: `<*>: PCI Hot Plug PCI Core version: <*>`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+Log message: `kernel.core_uses_pid = 1`
+Log template: `<*> = <*>`
+`kernel.core_uses_pid = 1`

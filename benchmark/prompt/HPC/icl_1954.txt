@@ -1,0 +1,11 @@
+Log message: `wait  (command 4061)`
+Log template: `wait (command <*>)`
+Log message: `wait  (command 2682)`
+Log template: `wait (command <*>)`
+Log message: `Command has been aborted`
+Log template: `Command has been aborted`
+Log message: `boot (command 2092) Error: HALT asserted\  cannot continue`
+Log template: `boot (command <*>) Error: HALT asserted\ cannot continue`
+Log message: `risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>`
+Log template: `risBoot (command <*>) Error: Timed out while waiting for SRM prompt: <ABORT code completed>`
+`risBoot (command 1903) Error: Timed out while waiting for SRM prompt: <ABORT code completed>`

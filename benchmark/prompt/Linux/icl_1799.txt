@@ -1,0 +1,11 @@
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+`restart.`

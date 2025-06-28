@@ -1,0 +1,11 @@
+Log message: `Initializing random number generator: succeeded`
+Log template: `Initializing random number generator: succeeded`
+Log message: `audit(1122475266.4294965305:0): initialized`
+Log template: `audit(<*>): initialized`
+Log message: `SELinux: Initializing.`
+Log template: `SELinux: Initializing.`
+Log message: `Initializing Cryptographic API`
+Log template: `Initializing Cryptographic API`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+`Initializing CPU#0`

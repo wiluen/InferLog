@@ -1,0 +1,11 @@
+Log message: `RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)`
+Log template: `RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)`
+Log message: `gmetad startup succeeded`
+Log template: `gmetad startup succeeded`
+Log message: `My unqualified host name (eadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (cadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (dadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+`My unqualified host name (dadmin1) unknown; sleeping for retry`

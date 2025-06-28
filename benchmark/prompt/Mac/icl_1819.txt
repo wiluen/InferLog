@@ -1,0 +1,11 @@
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789`
+Log template: `ASSERTION FAILED: dvcAddrRef != ((void *)<*>) -[DriverServices getDeviceAddress:] line: <*>`
+Log message: `Got an XPC error: Connection invalid`
+Log template: `Got an XPC error: Connection invalid`
+Log message: `QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport`
+Log template: `<*>(<*>) deny mach-lookup com.apple.networking.captivenetworksupport`
+`CCXPCService::setStreamEventHandler Registered for notification callback.`

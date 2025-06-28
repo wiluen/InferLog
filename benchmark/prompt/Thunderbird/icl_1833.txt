@@ -1,0 +1,11 @@
+Log message: `Compressed image found at block 0`
+Log template: `Compressed image found at block <*>`
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `kernel time sync enabled 0001`
+Log template: `kernel time sync enabled <*>`
+Log message: `data_thread() got not answer from any [Thunderbird_B1] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+Log message: `CentOS-4 (Kernel Module GPG key)`
+Log template: `CentOS-<*> (Kernel Module GPG key)`
+`CentOS-4 (Kernel Module GPG key)`

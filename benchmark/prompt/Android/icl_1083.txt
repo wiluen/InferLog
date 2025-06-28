@@ -1,0 +1,11 @@
+Log message: `onNotificationVisibilityChanged called`
+Log template: `onNotificationVisibilityChanged called`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `Application requested orientation -1, got rotation 0 which has compatible metrics`
+Log template: `Application requested orientation <*>, got rotation <*> which has compatible metrics`
+Log message: `onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=622.0, y[0]=86.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=261991368, downTime=261991304, deviceId=3, source=0x1002 }, mBlockTouches=false`
+Log template: `onInterceptTouchEvent MotionEvent { action=ACTION_UP, actionButton=<*>, id[<*>]=<*>, x[<*>]=<*>, y[<*>]=<*>, toolType[<*>]=TOOL_TYPE_FINGER, buttonState=<*>, metaState=<*>, flags=<*>, edgeFlags=<*>, pointerCount=<*>, historySize=<*>, eventTime=<*>, downTime=<*>, deviceId=<*>, source=<*> }, mBlockTouches=<*>`
+`enqueueNotificationInternal: n.getKey = 0|com.tencent.mobileqq|121|null|10111`

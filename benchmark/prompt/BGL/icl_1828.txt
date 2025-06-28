@@ -1,0 +1,11 @@
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+Log message: `minus normalized number..................0`
+Log template: `minus normalized number..................<*>`
+Log message: `wait state enable.................0`
+Log template: `wait state enable.................<*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `problem state (0=sup,1=usr).......0`
+Log template: `problem state (<*>=sup,<*>=usr).......<*>`
+`problem state (0=sup,1=usr).......0`

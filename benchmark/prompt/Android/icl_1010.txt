@@ -1,0 +1,11 @@
+Log message: `sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>`
+Log message: `Pid:28601 MediaPlayer destructor`
+Log template: `Pid:<*> MediaPlayer destructor`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `mHeadsUpExistenceChangedRunnable`
+Log template: `mHeadsUpExistenceChangedRunnable`
+Log message: `setSpeakerphoneOn  on: true`
+Log template: `setSpeakerphoneOn on: <*>`
+`ActivityManagerService,attachApplication,callingPid = 13094`

@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `rts panic! - stopping execution`
+Log template: `rts panic! - stopping execution`
+Log message: `rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015`
+Log template: `rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>`
+Log message: `rts internal error`
+Log template: `rts internal error`
+Log message: `ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm`
+Log template: `ciod: generated <*> core files for program <*>`
+`rts: kernel terminated for reason 1004`

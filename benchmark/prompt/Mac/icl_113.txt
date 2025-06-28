@@ -1,0 +1,11 @@
+Log message: `setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`
+Log template: `setting hostname to "<*>"`
+Log message: `ARPT: 683173.929950: ARPT: Wake Reason: Wake on Scan offload`
+Log template: `ARPT: <*>: ARPT: Wake Reason: Wake on Scan offload`
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)`
+Log template: `mDNS_RegisterInterface: Frequent transitions for interface en0 (<*>)`
+Log message: `RTC: PowerByCalendarDate setting ignored`
+Log template: `RTC: PowerByCalendarDate setting ignored`
+`AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).`

@@ -1,0 +1,11 @@
+Log message: `Mounting NFS filesystems: succeeded`
+Log template: `Mounting NFS filesystems: succeeded`
+Log message: `unable to qualify my own domain name (badmin1) -- using short name`
+Log template: `unable to qualify my own domain name (<*>) -- using short name`
+Log message: `jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]`
+Log template: `<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]`
+Log message: `session opened for user root by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `session closed for user root`
+Log template: `session closed for user <*>`
+`session closed for user root`

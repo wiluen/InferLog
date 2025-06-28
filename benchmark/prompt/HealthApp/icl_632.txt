@@ -1,0 +1,11 @@
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+Log message: `saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003`
+Log template: `saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>`
+Log message: `setWriteDBLastDataMinute=25233979`
+Log template: `setWriteDBLastDataMinute=<*>`
+Log message: `uploadStaticsToDB failed message=true`
+Log template: `uploadStaticsToDB failed message=<*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+`insertHiHealthData() checkAppType  0 appID = 1`

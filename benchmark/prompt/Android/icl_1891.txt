@@ -1,0 +1,11 @@
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0`
+Log template: `ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>`
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `cleanUpApplicationRecord -- 12025`
+Log template: `cleanUpApplicationRecord -- <*>`
+`Start dump, calling from : pid=12782, uid=1000`

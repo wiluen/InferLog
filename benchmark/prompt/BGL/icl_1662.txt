@@ -1,0 +1,11 @@
+Log message: `total of 12 ddr error(s) detected and corrected`
+Log template: `total of <*> ddr error(s) detected and corrected`
+Log message: `1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1`
+Log template: `<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>`
+Log message: `720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.`
+Log template: `<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.`
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+Log message: `0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.`
+Log template: `<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.`
+`0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.`

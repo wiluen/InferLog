@@ -1,0 +1,11 @@
+Log message: `debug interrupt enable............0`
+Log template: `debug interrupt enable............<*>`
+Log message: `data TLB error interrupt`
+Log template: `data TLB error interrupt`
+Log message: `data storage interrupt`
+Log template: `data storage interrupt`
+Log message: `data store interrupt caused by dcbf.........0`
+Log template: `data store interrupt caused by dcbf.........<*>`
+Log message: `data store interrupt caused by icbi.........0`
+Log template: `data store interrupt caused by icbi.........<*>`
+`data store interrupt caused by icbi.........0`

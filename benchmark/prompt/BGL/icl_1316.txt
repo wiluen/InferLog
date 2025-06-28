@@ -1,0 +1,11 @@
+Log message: `lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000`
+Log template: `lr:<*> cr:<*> xer:<*> ctr:<*>`
+Log message: `core configuration register: 0x00002000`
+Log template: `core configuration register: <*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `CE sym 14, at 0x06047860, mask 0x20`
+Log template: `CE sym <*>, at <*>, mask <*>`
+Log message: `iar 00149ee0 dear 0099e5e8`
+Log template: `iar <*> dear <*>`
+`CE sym 26, at 0x022c3fc0, mask 0x40`

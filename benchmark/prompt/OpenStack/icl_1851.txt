@@ -1,0 +1,11 @@
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Deletion of /var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Deletion of /var/lib/nova/instances/7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] VM Paused (Lifecycle Event)`
+Log template: `[instance: <*>] VM Paused (Lifecycle Event)`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Deletion of /var/lib/nova/instances/d96a117b-0193-4549-bdcc-63b917273d1d_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `Creating event network-vif-plugged:1cf11429-1563-4f6c-823c-91ba6e0f6675 for instance 95960536-049b-41f6-9049-05fc479b6a7c`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+`[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Deletion of /var/lib/nova/instances/78dc1847-8848-49cc-933e-9239b12c9dcf_del complete`

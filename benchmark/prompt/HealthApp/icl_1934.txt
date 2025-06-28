@@ -1,0 +1,11 @@
+Log message: `onExtend:1514042082000 1 0 4`
+Log template: `onExtend:<*> <*> <*> <*>`
+Log message: `tryToReloadTodayBasicSteps1514044800223|3786|0|0`
+Log template: `<*>|<*>|<*>|<*>`
+Log message: `uploadStaticsToDB failed message=true`
+Log template: `uploadStaticsToDB failed message=<*>`
+Log message: `setWriteDBLastDataMinute=25233979`
+Log template: `setWriteDBLastDataMinute=<*>`
+Log message: `flush2DB result success`
+Log template: `flush2DB result success`
+`InsertEvent success begin:25233975 end:25233979`

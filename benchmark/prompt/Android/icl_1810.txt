@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:197, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+Log message: `Bad activity token: android.os.BinderProxy@2bd79ce`
+Log template: `Bad activity token: <*>@<*>`
+Log message: `cancelAutohide`
+Log template: `cancelAutohide`
+`cancelAutohide`

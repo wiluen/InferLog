@@ -1,0 +1,11 @@
+Log message: `connection from "#28#"`
+Log template: `connection from <*>`
+Log message: `sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $`
+Log template: `<*> <*> <*> ak Exp $`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+Log message: `#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+`#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`

@@ -1,0 +1,11 @@
+Log message: `www.evernote.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:10`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `css.sohu.com:80 close, 3549 bytes (3.46 KB) sent, 108371 bytes (105 KB) received, lifetime 00:21`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `i2.itc.cn:80 close, 1330 bytes (1.29 KB) sent, 62141 bytes (60.6 KB) received, lifetime 00:33`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `safebrowsing.googleapis.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `get.sogou.com:80 close, 899 bytes sent, 348 bytes received, lifetime 00:03`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`p.inte.sogou.com:80 close, 5061 bytes (4.94 KB) sent, 1248 bytes (1.21 KB) received, lifetime 00:15`

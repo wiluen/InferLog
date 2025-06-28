@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3751`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3786`
+Log template: `onStandStepChanged <*>`
+Log message: `startTimer start autoSync`
+Log template: `startTimer start autoSync`
+Log message: `REPORT : 7132 5092 152767 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7139 5097 152917 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`onStandStepChanged 3704`

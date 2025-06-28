@@ -1,0 +1,11 @@
+Log message: `Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `10.11.21.135,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0009499`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742`
+Log template: `Removing base or swap file: <*>`
+Log message: `image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage`
+Log template: `image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage`
+`Creating event network-vif-plugged:7bdba89d-dd80-489c-ab06-11d494c5c478 for instance af5f7392-f7d4-4298-b647-c98924c64aa1`

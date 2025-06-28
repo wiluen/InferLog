@@ -1,0 +1,11 @@
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deletion of /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Took 19.97 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+Log message: `10.11.21.132,10.11.10.1 "GET /latest/meta-data/placement/ HTTP/1.1" status: 200 len: 134 time: 0.0007560`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Instance spawned successfully.`

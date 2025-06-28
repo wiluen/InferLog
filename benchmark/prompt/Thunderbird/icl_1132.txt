@@ -1,0 +1,11 @@
+Log message: `gmetad startup succeeded`
+Log template: `gmetad startup succeeded`
+Log message: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPDISCOVER from <*> via eth1`
+Log message: `My unqualified host name (eadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (cadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (dadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+`My unqualified host name (badmin1) unknown; sleeping for retry`

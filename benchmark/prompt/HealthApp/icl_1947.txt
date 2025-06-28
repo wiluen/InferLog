@@ -1,0 +1,11 @@
+Log message: `REPORT : 7193 5135 154074 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onExtend:1514038756000 6 0 4`
+Log template: `onExtend:<*> <*> <*> <*>`
+Log message: `stepSyncOrNot appSynTimes is 0`
+Log template: `stepSyncOrNot appSynTimes is <*>`
+Log message: `REPORT : 7198 5139 154181 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7185 5130 153902 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7181 5127 153817 240`

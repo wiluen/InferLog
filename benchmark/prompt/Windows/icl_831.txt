@@ -1,0 +1,11 @@
+Log message: `Scavenge: Starts`
+Log template: `Scavenge: Starts`
+Log message: `Failed to create backup log cab. [HRESULT = 0x80070001 - ERROR_INVALID_FUNCTION]`
+Log template: `Failed to create backup log cab. [HRESULT = <*> - ERROR_INVALID_FUNCTION]`
+Log message: `Session: 30546354_2934760039 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `00000009@2016/9/27:20:40:53.744 CSI Transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]"TI6.0_0:0/"`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> CSI Transaction @<*> initialized for deployment engine {<*>} with flags <*> and client id [<*>]"<*>/"`
+Log message: `Session: 30546174_186107651 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Session: 30546174_185407611 initialized by client WindowsUpdateAgent.`

@@ -1,0 +1,11 @@
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `resumeSuspendedAutohide`
+Log template: `resumeSuspendedAutohide`
+Log message: `isWiredHeadsetOn...`
+Log template: `isWiredHeadsetOn...`
+Log message: `acquire lock=149977903, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+`getCellLocation is blocked by permission manager uid:10111 pid:28601`

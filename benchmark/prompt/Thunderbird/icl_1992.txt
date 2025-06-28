@@ -1,0 +1,11 @@
+Log message: `removing rsync`
+Log template: `removing <*>`
+Log message: `removing klogin`
+Log template: `removing <*>`
+Log message: `removing ftp`
+Log template: `removing <*>`
+Log message: `removing ntalk`
+Log template: `removing <*>`
+Log message: `removing kshell`
+Log template: `removing <*>`
+`removing kshell`

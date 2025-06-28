@@ -1,0 +1,11 @@
+Log message: `Connection request from old client /10.10.34.16:40418; will be dropped if server is in r-o mode`
+Log template: `Connection request from old client <*>; will be dropped if server is in r-o mode`
+Log message: `Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)`
+Log template: `Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LEADING (my state)`
+Log message: `tickTime set to 2000`
+Log template: `tickTime set to <*>`
+Log message: `Accepted socket connection from /10.10.34.30:43278`
+Log template: `Accepted socket connection from <*>`
+Log message: `Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)`
+Log template: `Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)`
+`Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LOOKING (my state)`

@@ -1,0 +1,11 @@
+Log message: `cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `m.news.4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `comment.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `c.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`newsimg.5054399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19`

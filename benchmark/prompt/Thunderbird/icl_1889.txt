@@ -1,0 +1,11 @@
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `routing cache hash table of 65536 buckets, 1024Kbytes`
+Log template: `routing cache hash table of <*> buckets, <*>`
+Log message: `Hash tables configured (established 262144 bind 65536)`
+Log template: `Hash tables configured (established <*> bind <*>)`
+`Hash tables configured (established 262144 bind 65536)`

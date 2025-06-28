@@ -1,0 +1,11 @@
+Log message: `flingToHeight: vel=0.0, expand=false, target=0.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`
+Log template: `flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>`
+Log message: `cancelNotificationLocked called,tell the app,reason = 8`
+Log template: `cancelNotificationLocked called,tell the app,reason = <*>`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `getRingerMode...`
+Log template: `getRingerMode...`
+Log message: `onNotificationExpansionChanged called`
+Log template: `onNotificationExpansionChanged called`
+`notifyUiVisibilityChanged:vis=0x508, SystemUiVisibility=0x508`

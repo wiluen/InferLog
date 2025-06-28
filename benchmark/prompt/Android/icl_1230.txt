@@ -1,0 +1,11 @@
+Log message: `notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]`
+Log template: `Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]`
+Log message: `release:lock=237091223, flg=0x0, tag="WiredAccessoryManager", name=android", ws=null, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `setSystemUiVisibility vis=708 mask=ffffffff oldVal=40000600 newVal=708 diff=40000108 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)`
+Log template: `setSystemUiVisibility vis=<*> mask=<*> oldVal=<*> newVal=<*> diff=<*> fullscreenStackVis=<*> dockedStackVis=<*>, fullscreenStackBounds=Rect(<*>, <*> - <*>, <*>), dockedStackBounds=Rect(<*>, <*> - <*>, <*>)`
+`getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`

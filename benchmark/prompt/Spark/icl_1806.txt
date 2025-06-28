@@ -1,0 +1,11 @@
+Log message: `Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.`
+Log template: `Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.`
+Log message: `Starting executor ID 5 on host mesos-slave-07`
+Log template: `Starting executor ID <*> on host <*>`
+Log message: `Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069`
+Log template: `Connecting to driver: <*>`
+Log message: `Successfully started service 'sparkExecutorActorSystem' on port 55904.`
+Log template: `Successfully started service 'sparkExecutorActorSystem' on port <*>.`
+Log message: `Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]`
+Log template: `Remoting started; listening on addresses :[<*>]`
+`Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]`

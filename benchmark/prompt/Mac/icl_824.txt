@@ -1,0 +1,11 @@
+Log message: `arp_client_transmit(en0) failed, Network is down (50)`
+Log template: `arp_client_transmit(<*>) failed, Network is down (<*>)`
+Log message: `setting hostname to "authorMacBook-Pro.local"`
+Log template: `setting hostname to "<*>"`
+Log message: `tcp_connection_tls_session_error_callback_imp 2375 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22`
+Log template: `tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.<*> error <*>`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+Log message: `2017-07-03 10:40:42.940 GoogleSoftwareUpdateAgent[33263/0x700000323000] [lvl=2] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSOmahaServer updateInfosForUpdateResponse:updateRequest:infoStore:upToDateTickets:updatedTickets:events:errors:] Response passed CUP validation.`
+`ARPT: 702237.246510: wl0: setup_keepalive: Local port: 49218, Remote port: 443`

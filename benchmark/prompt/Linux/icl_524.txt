@@ -1,0 +1,11 @@
+Log message: `connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `connection from 62.99.164.82 (62.99.164.82.sh.interxion.inode.at) at Sun Jul  3 23:16:09 2005`
+Log template: `connection from <*> (<*>) at <*>`
+`Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort`

@@ -1,0 +1,11 @@
+Log message: `REPORT : 7105 5072 152189 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7170 5119 153581 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `calculateAltitudeWithCache totalAltitude=0`
+Log template: `calculateAltitudeWithCache totalAltitude=<*>`
+Log message: `startInsertSportSync start auto sync,app is 1`
+Log template: `startInsertSportSync start auto sync,app is <*>`
+Log message: `stepSyncOrNot appSynTimes is 0, statsyncTimes is 0`
+Log template: `stepSyncOrNot appSynTimes is <*>, statsyncTimes is <*>`
+`checkInsertStatus stepSum or calorieSum is enough`

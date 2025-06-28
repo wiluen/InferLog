@@ -1,0 +1,11 @@
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+Log message: `[11:38:27.892] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce1406d600) rejecting report of layer being serviced - IQ has not yet begun to update`
+Log template: `[<*>] <<<< IQ-CA >>>> piqca_setUsePreQueue: (<*>) rejecting report of layer being serviced - IQ has not yet begun to update`
+`AppleCamIn::systemWakeCall - messageType = 0xE0000340`

@@ -1,0 +1,11 @@
+Log message: `10.11.21.135,10.11.10.1 "GET /openstack/2013-10-17 HTTP/1.1" status: 200 len: 157 time: 0.2177148`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] VM Started (Lifecycle Event)`
+Log template: `[instance: <*>] VM Started (Lifecycle Event)`
+Log message: `[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Instance destroyed successfully.`
+Log template: `[instance: <*>] Instance destroyed successfully.`
+Log message: `Creating event network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71 for instance be793e89-2cc3-4f99-9884-9c6a624a84bc`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+`[instance: faf974ea-cba5-4e1b-93f4-3a3bc606006f] VM Started (Lifecycle Event)`

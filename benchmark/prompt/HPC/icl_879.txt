@@ -1,0 +1,11 @@
+Log message: `ambient=30`
+Log template: `ambient=<*>`
+Log message: `not-responding`
+Log template: `not-responding`
+Log message: `normal`
+Log template: `normal`
+Log message: `blocked`
+Log template: `blocked`
+Log message: `ambient=31`
+Log template: `ambient=<*>`
+`critical`

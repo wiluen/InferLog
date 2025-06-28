@@ -1,0 +1,11 @@
+Log message: `release:lock=233570404, flg=0x0, tag="View Lock", name=com.android.systemui", ws=null, uid=10037, pid=2227`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `acquire lock=233570404, flags=0x1, tag="View Lock", name=com.android.systemui, ws=null, uid=10037, pid=2227`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `setLightsOn(true)`
+Log template: `setLightsOn(<*>)`
+Log message: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false`
+Log template: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=<*>`
+Log message: `getMode...`
+Log template: `getMode...`
+`acquire lock=237091223, flags=0x1, tag="WiredAccessoryManager", name=android, ws=null, uid=1000, pid=1702`

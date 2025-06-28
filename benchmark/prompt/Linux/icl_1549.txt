@@ -1,0 +1,11 @@
+Log message: `connection from 217.187.83.50 () at Mon Jul 25 23:24:09 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=211-76-104-65.ebix.net.tw`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.42.188.206 () at Fri Jul 22 09:27:24 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005`

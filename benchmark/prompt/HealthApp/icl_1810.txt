@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3616`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3602`
+Log template: `onStandStepChanged <*>`
+Log message: `calculateCaloriesWithCache totalCalories=126925`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `REPORT : 7015 5008 150261 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `isScreenOn true`
+Log template: `isScreenOn <*>`
+`REPORT : 7015 5008 150261 240`

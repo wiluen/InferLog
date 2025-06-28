@@ -1,0 +1,11 @@
+Log message: `removing device node '/udev/vcsa2'`
+Log template: `removing device node '<*>'`
+Log message: `cupsd startup succeeded`
+Log template: `cupsd startup succeeded`
+Log message: `connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `ALERT exited abnormally with [1]`
+Log template: `ALERT exited abnormally with [<*>]`
+Log message: `session opened for user news by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+`session closed for user cyrus`

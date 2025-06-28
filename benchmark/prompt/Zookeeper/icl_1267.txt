@@ -1,0 +1,11 @@
+Log message: `******* GOODBYE /10.10.34.12:59203 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `minSessionTimeout set to -1`
+Log template: `minSessionTimeout set to <*>`
+Log message: `maxSessionTimeout set to -1`
+Log template: `maxSessionTimeout set to <*>`
+Log message: `Revalidating client: 0x14f05578bd80018`
+Log template: `Revalidating client: <*>`
+Log message: `autopurge.purgeInterval set to 0`
+Log template: `autopurge.purgeInterval set to <*>`
+`autopurge.purgeInterval set to 0`

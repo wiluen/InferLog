@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /home/draeger/testQboxhang-nozerobytebug-nosleepyescomm: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `debug interrupt enable............0`
+Log template: `debug interrupt enable............<*>`
+Log message: `ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff`
+Log template: `ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>`
+Log message: `ciod: In packet from node 91.0 (R62-M1-Nf-C:J03-U11), message code 2 is not 3 or 4294967295 (softheader=003b005b 00030000 00000001 00000000)`
+Log template: `ciod: In packet from node <*> (<*>), message code <*> is not <*> or <*> (softheader=<*> <*> <*> <*>)`
+`ciod: pollControlDescriptors: Detected the debugger died.`

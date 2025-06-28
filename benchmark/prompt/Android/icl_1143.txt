@@ -1,0 +1,11 @@
+Log message: `ACTIVITY check resid: com.example.android.notepad, size=1`
+Log template: `ACTIVITY check resid: <*>, size=<*>`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+Log message: `playSoundEffect   effectType: 0`
+Log template: `playSoundEffect effectType: <*>`
+Log message: `*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** register callback for <*>@<*>`
+Log message: `onTouchEvent::1, x=296.0, y=327.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+`updateDimmedActivatedHideSensitive overlap:true`

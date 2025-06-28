@@ -1,0 +1,11 @@
+Log message: `86.99.222.235:443 error : Could not connect through proxy proxy.cse.cuhk.edu.hk:5070 - Proxy closed the connection unexpectedly.`
+Log template: `<*> error : Could not connect through proxy <*> - Proxy closed the connection unexpectedly.`
+Log message: `BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `capi.grammarly.com:443 close, 4974 bytes (4.85 KB) sent, 8661 bytes (8.45 KB) received, lifetime 02:13`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `icauh.youdao.com:80 close, 413 bytes sent, 534 bytes received, lifetime 00:05`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `trello.com:443 close, 2168 bytes (2.11 KB) sent, 605 bytes received, lifetime 00:34`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>`
+`f-log-extension.grammarly.io:443 close, 0 bytes sent, 0 bytes received, lifetime 00:11`

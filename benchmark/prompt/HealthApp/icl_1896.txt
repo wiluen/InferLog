@@ -1,0 +1,11 @@
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `insertHiHealthData() checkAppType  0 appID = 1`
+Log template: `insertHiHealthData() checkAppType <*> appID = <*>`
+Log message: `insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0`
+Log template: `insertHiHealthData() size = <*>,app = <*>,One Data Type = <*>,packageName = <*>,writeStatType = <*>`
+Log message: `initDataPrivacy the dataPrivacy is true`
+Log template: `initDataPrivacy the dataPrivacy is <*>`
+Log message: `saveStatData() type =40003,time = 1513958400000,statClient = 2,who is 1`
+Log template: `saveStatData() type =<*>,time = <*>,statClient = <*>,who is <*>`
+`insertHiHealthData() size = 4,app = 1,One Data Type = 40002,packageName = com.huawei.health,writeStatType = 0`

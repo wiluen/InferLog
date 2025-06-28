@@ -1,0 +1,11 @@
+Log message: `10.250.11.194:50010 Served block blk_3087787567144441647 to /10.251.91.84`
+Log template: `<*> Served block <*> to <*>`
+Log message: `10.251.203.149:50010 Served block blk_-1432303681669932458 to /10.250.10.176`
+Log template: `<*> Served block <*> to <*>`
+Log message: `BLOCK* ask 10.251.126.5:50010 to delete  blk_-9016567407076718172 blk_-8695715290502978219 blk_-7168328752988473716 blk_-4355192005224403537 blk_-3757501769775889193 blk_-154600013573668394 blk_167132135416677587 blk_2654596473569751784 blk_5202581916713319258`
+Log template: `BLOCK* ask <*> to delete <*>`
+Log message: `BLOCK* ask 10.250.18.114:50010 to delete  blk_-5140072410813878235`
+Log template: `BLOCK* ask <*> to delete <*>`
+Log message: `BLOCK* ask 10.251.122.79:50010 to delete  blk_8048594464172649365`
+Log template: `BLOCK* ask <*> to delete <*>`
+`BLOCK* ask 10.251.122.79:50010 to delete  blk_8048594464172649365`

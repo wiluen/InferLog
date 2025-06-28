@@ -1,0 +1,11 @@
+Log message: `Task succeeded with attempt attempt_1445144423722_0020_m_000003_0`
+Log template: `Task succeeded with attempt <*>`
+Log message: `attempt_1445144423722_0020_m_000001_0 TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED`
+Log template: `<*> TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED`
+Log message: `attempt_1445144423722_0020_m_000003_0 TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED`
+Log template: `<*> TaskAttempt Transitioned from SUCCESS_CONTAINER_CLEANUP to SUCCEEDED`
+Log message: `attempt_1445144423722_0020_m_000001_0 TaskAttempt Transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP`
+Log template: `<*> TaskAttempt Transitioned from FAIL_CONTAINER_CLEANUP to FAIL_TASK_CLEANUP`
+Log message: `attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from RUNNING to FAIL_CONTAINER_CLEANUP`
+Log template: `<*> TaskAttempt Transitioned from RUNNING to FAIL_CONTAINER_CLEANUP`
+`attempt_1445144423722_0020_m_000002_0 TaskAttempt Transitioned from RUNNING to FAIL_CONTAINER_CLEANUP`

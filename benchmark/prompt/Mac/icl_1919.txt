@@ -1,0 +1,11 @@
+Log message: `ARPT: 681387.132167: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake`
+Log template: `ARPT: <*>: <*>::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+Log message: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****`
+Log template: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****`
+Log message: `[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.`
+Log template: `[Accounts] Current connection, <NSXPCConnection: <*> connection from pid <*>, doesn't have account access.`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+`[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)`

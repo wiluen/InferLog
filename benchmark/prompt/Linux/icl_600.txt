@@ -1,0 +1,11 @@
+Log message: `connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `*** info [mice.c(1766)]:`
+Log template: `*** info [mice.c(<*>)]:`
+Log message: `connection from 67.95.49.172 () at Fri Jul 22 19:29:10 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005`
+Log template: `connection from <*> (<*>) at <*>`
+`connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005`

@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `... autorun DONE.`
+Log template: `... autorun DONE.`
+Log message: `succeeded`
+Log template: `succeeded`
+Log message: `passed.`
+Log template: `passed.`
+`passed.`

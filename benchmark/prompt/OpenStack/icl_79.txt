@@ -1,0 +1,11 @@
+Log message: `[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Took 0.48 seconds to deallocate network for instance.`
+Log template: `[instance: <*>] Took <*> seconds to deallocate network for instance.`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Deletion of /var/lib/nova/instances/b562ef10-ba2d-48ae-bf4a-18666cba4a51_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 200 len: 380 time: 0.0935540`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: 63a0d960-70b6-44c6-b606-491478a5cadf] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Took 21.11 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+`[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] During sync_power_state the instance has a pending task (spawning). Skip.`

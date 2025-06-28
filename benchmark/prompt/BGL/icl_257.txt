@@ -1,0 +1,11 @@
+Log message: `generating core.25604`
+Log template: `generating core.<*>`
+Log message: `exception syndrome register: 0x00800000`
+Log template: `exception syndrome register: <*>`
+Log message: `data address: 0x00000002`
+Log template: `data address: <*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `core configuration register: 0x00002000`
+Log template: `core configuration register: <*>`
+`core configuration register: 0x00002000`

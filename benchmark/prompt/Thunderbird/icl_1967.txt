@@ -1,0 +1,11 @@
+Log message: `Hash tables configured (established 262144 bind 65536)`
+Log template: `Hash tables configured (established <*> bind <*>)`
+Log message: `Registering secondary module capability`
+Log template: `Registering secondary module capability`
+Log message: `Registered protocol family 2`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 17`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 10`
+Log template: `Registered protocol family <*>`
+`Registered protocol family 10`

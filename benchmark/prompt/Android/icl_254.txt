@@ -1,0 +1,11 @@
+Log message: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0`
+Log template: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>`
+Log message: `onNotificationClick called`
+Log template: `onNotificationClick called`
+Log message: `ActivityRecord info: ActivityInfo{80c2e70 com.tencent.mm.ui.LauncherUI}, euid: 0`
+Log template: `ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>`
+Log message: `Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService`
+Log template: `Start proc <*> for service <*>`
+Log message: `START u0 {act=com.tencent.mobileqq.action.MAINACTIVITY flg=0x14000000 cmp=com.tencent.mobileqq/.activity.SplashActivity (has extras)} from uid 10111 on display 0`
+Log template: `START u0 {act=<*> flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+`registerCallback not in UI.`

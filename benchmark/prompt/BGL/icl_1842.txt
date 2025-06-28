@@ -1,0 +1,11 @@
+Log message: `wait state enable.................0`
+Log template: `wait state enable.................<*>`
+Log message: `debug wait enable.................0`
+Log template: `debug wait enable.................<*>`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+Log message: `icache prefetch depth....................0`
+Log template: `icache prefetch depth....................<*>`
+Log message: `icache prefetch threshold................0`
+Log template: `icache prefetch threshold................<*>`
+`icache prefetch threshold................0`

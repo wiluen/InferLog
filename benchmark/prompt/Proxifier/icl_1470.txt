@@ -1,0 +1,11 @@
+Log message: `www.gstatic.com:443 close, 1239 bytes (1.20 KB) sent, 20185 bytes (19.7 KB) received, lifetime 04:00`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `BAYMSGR2012806.gateway.messenger.live.com:443 close, 13155 bytes (12.8 KB) sent, 21737 bytes (21.2 KB) received, lifetime 00:35`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `qqmail.tencent.com:80 close, 336 bytes sent, 2854 bytes (2.78 KB) received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `security.ie.sogou.com:80 close, 735 bytes sent, 184 bytes received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`fs-conn-doctor.qq.com:443 close, 184 bytes sent, 134 bytes received, lifetime <1 sec`

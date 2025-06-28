@@ -1,0 +1,11 @@
+Log message: `active`
+Log template: `active`
+Log message: `link errors remain current`
+Log template: `link errors remain current`
+Log message: `Link ok`
+Log template: `Link ok`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `Link in reset`
+Log template: `Link in reset`
+`Link in reset`

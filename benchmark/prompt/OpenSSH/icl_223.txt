@@ -1,0 +1,11 @@
+Log message: `input_userauth_request: invalid user utsims [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Failed password for root from 123.235.32.19 port 57100 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `Invalid user cisco from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user oralce from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+`Failed password for uucp from 103.207.39.212 port 51528 ssh2`

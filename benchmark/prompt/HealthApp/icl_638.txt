@@ -1,0 +1,11 @@
+Log message: `REPORT : 7165 5115 153474 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log template: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log message: `insertHiHealthData() end totalTime = 45`
+Log template: `insertHiHealthData() end totalTime = <*>`
+`startListenerChange subscribeList = [1]`

@@ -1,0 +1,11 @@
+Log message: `Received block blk_5250287988089075029 of size 67108864 from /10.251.66.63`
+Log template: `Received block <*> of size <*> from <*>`
+Log message: `Received block blk_-420564586555502239 of size 67108864 from /10.251.90.64`
+Log template: `Received block <*> of size <*> from <*>`
+Log message: `Received block blk_6730979070070986233 of size 67108864 from /10.251.90.239`
+Log template: `Received block <*> of size <*> from <*>`
+Log message: `Received block blk_-8923698979247229952 of size 67108864 from /10.251.90.239`
+Log template: `Received block <*> of size <*> from <*>`
+Log message: `Received block blk_8772892713521115147 of size 67108864 from /10.251.194.245`
+Log template: `Received block <*> of size <*> from <*>`
+`Received block blk_5348548743130215090 of size 67108864 from /10.251.39.179`

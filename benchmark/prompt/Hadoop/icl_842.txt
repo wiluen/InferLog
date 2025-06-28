@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.27772525`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.25258622`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.667`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000009_0 is : 0.295472`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Slow ReadProcessor read fields took 65020ms (threshold=30000ms); ack: seqno: -2 status: SUCCESS status: ERROR downstreamAckTimeNanos: 0, targets: [10.86.169.121:50010, 10.190.173.170:50010]`
+Log template: `Slow ReadProcessor read fields took <*> (threshold=<*>); ack: seqno: <*> status: SUCCESS status: ERROR downstreamAckTimeNanos: <*>, targets: [<*>, <*>]`
+`Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.38137424`

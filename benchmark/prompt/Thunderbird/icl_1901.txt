@@ -1,0 +1,11 @@
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `unable to qualify my own domain name (badmin1) -- using short name`
+Log template: `unable to qualify my own domain name (<*>) -- using short name`
+Log message: `allocating divert_blk for eth0`
+Log template: `allocating divert_blk for <*>`
+Log message: `not allocating divert_blk for non-ethernet device lo`
+Log template: `not allocating divert_blk for non-ethernet device <*>`
+`not allocating divert_blk for non-ethernet device lo`

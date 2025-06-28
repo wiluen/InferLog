@@ -1,0 +1,11 @@
+Log message: `Subsystem revision 20040816`
+Log template: `Subsystem revision <*>`
+Log message: `Registering secondary module capability`
+Log template: `Registering secondary module capability`
+Log message: `Registered protocol family 2`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 10`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 17`
+Log template: `Registered protocol family <*>`
+`Registered protocol family 17`

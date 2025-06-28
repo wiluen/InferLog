@@ -1,0 +1,11 @@
+Log message: `AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).`
+Log template: `AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).`
+Log message: `FA||Url||taskID[2019353444] dealloc`
+Log template: `FA||Url||taskID[<*>] dealloc`
+Log message: `Bluetooth -- LE is supported - Disable LE meta event`
+Log template: `Bluetooth -- LE is supported - Disable LE meta event`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert`
+Log template: `tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert`
+`no application identifier provided, can't use provisioning profiles [pid=37563]`

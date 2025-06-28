@@ -1,0 +1,11 @@
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `no sleep images for WillPowerOffWithImages`
+Log template: `no sleep images for WillPowerOffWithImages`
+Log message: `Error in CoreDragRemoveTrackingHandler: -1856`
+Log template: `Error in CoreDragRemoveTrackingHandler: <*>`
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+Log message: `Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable`
+Log template: `Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable`
+`Error returned from iconservicesagent: (null)`

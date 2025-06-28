@@ -1,0 +1,11 @@
+Log message: `Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `mapResourceRequest:<memory:1024, vCores:1>`
+Log template: `mapResourceRequest:<memory:<*>, vCores:<*>`
+Log message: `attempt_1445144423722_0020_m_000001_1 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `attempt_1445144423722_0020_r_000000_0 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `Reduce slow start threshold reached. Scheduling reduces.`
+Log template: `Reduce slow start threshold reached. Scheduling reduces.`
+`Num completed Tasks: 1`

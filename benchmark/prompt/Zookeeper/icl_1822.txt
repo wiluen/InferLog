@@ -1,0 +1,11 @@
+Log message: `Received connection request /10.10.34.12:50526`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.12:50849`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.11:49023`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.11:49590`
+Log template: `Received connection request <*>`
+Log message: `caught end of stream exception`
+Log template: `caught end of stream exception`
+`Received connection request /10.10.34.11:49518`

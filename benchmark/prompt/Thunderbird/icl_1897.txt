@@ -1,0 +1,11 @@
+Log message: `unable to qualify my own domain name (badmin1) -- using short name`
+Log template: `unable to qualify my own domain name (<*>) -- using short name`
+Log message: `Initializing.`
+Log template: `Initializing.`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `initializing netlink socket (disabled)`
+Log template: `initializing netlink socket (disabled)`
+`initializing netlink socket (disabled)`

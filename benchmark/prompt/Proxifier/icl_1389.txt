@@ -1,0 +1,11 @@
+Log message: `cbjs.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `bx.optimix.asia:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `cdn.e9377f.com:80 close, 575 bytes sent, 243 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `ping.pinyin.sogou.com:80 close, 634 bytes sent, 166 bytes received, lifetime 00:01`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `video.5054399.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+`cpro.baidustatic.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`

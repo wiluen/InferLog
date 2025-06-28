@@ -1,0 +1,11 @@
+Log message: `onExpandingFinished`
+Log template: `onExpandingFinished`
+Log message: `isSimPinSecure mSimDatas is null or empty`
+Log template: `isSimPinSecure mSimDatas is <*> or empty`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `isBluetoothA2dpOn...`
+Log template: `isBluetoothA2dpOn...`
+Log message: `closeQs`
+Log template: `closeQs`
+`updateClipping isOverlap:true, getTopPadding=333.0, Translation=-479.0`

@@ -1,0 +1,11 @@
+Log message: `HCI daemon ver 2.4 started`
+Log template: `HCI daemon ver <*> started`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `sdpd startup succeeded`
+Log template: `sdpd startup succeeded`
+Log message: `sdpd v1.5 started`
+Log template: `sdpd <*> started`
+`sdpd v1.5 started`

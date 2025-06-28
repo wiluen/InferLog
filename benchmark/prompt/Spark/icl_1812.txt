@@ -1,0 +1,11 @@
+Log message: `Running task 123.0 in stage 24.0 (TID 1150)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]`
+Log template: `Remoting started; listening on addresses :[<*>]`
+Log message: `Running task 5.0 in stage 28.0 (TID 1285)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Successfully started service 'sparkExecutorActorSystem' on port 55904.`
+Log template: `Successfully started service 'sparkExecutorActorSystem' on port <*>.`
+Log message: `Starting executor ID 5 on host mesos-slave-07`
+Log template: `Starting executor ID <*> on host <*>`
+`Starting executor ID 5 on host mesos-slave-07`

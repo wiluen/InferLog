@@ -1,0 +1,11 @@
+Log message: `boot  (command 3138)`
+Log template: `boot (command <*>)`
+Log message: `Link in reset`
+Log template: `Link in reset`
+Log message: `normal`
+Log template: `normal`
+Log message: `starting`
+Log template: `starting`
+Log message: `active`
+Log template: `active`
+`configured out`

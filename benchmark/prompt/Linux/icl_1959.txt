@@ -1,0 +1,11 @@
+Log message: `Checking 'hlt' instruction... OK.`
+Log template: `Checking '<*>' instruction... OK.`
+Log message: `You can enable it with acpi=force`
+Log template: `You can enable it with acpi=<*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `Enabling unmasked SIMD FPU exception support... done.`
+Log template: `Enabling unmasked SIMD FPU exception support... done.`
+Log message: `Enabling fast FPU save and restore... done.`
+Log template: `Enabling fast FPU save and restore... done.`
+`Enabling fast FPU save and restore... done.`

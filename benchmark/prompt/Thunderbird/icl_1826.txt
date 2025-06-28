@@ -1,0 +1,11 @@
+Log message: `4.1.0-ioctl (2003-12-10) initialised: #36#@#37#`
+Log template: `<*>-ioctl (<*>) initialised: <*>`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `synchronized to #3#, stratum 1`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to 10.100.22.250, stratum 3`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to LOCAL(0), stratum 10`
+Log template: `synchronized to <*>, stratum <*>`
+`synchronized to LOCAL(0), stratum 10`

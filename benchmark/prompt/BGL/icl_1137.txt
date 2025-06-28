@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /home/yates//bandwidth.rts: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: Error loading /bgl/apps/SWL/performance/MINIBEN//bandwidth.rts: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: Error loading allreduce_int_V1R1.rts: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map`
+Log template: `ciod: Missing or invalid fields on line <*> of node map file <*>`
+Log message: `ciod: LOGIN chdir(pwd) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+`ciod: Error loading /bgl/apps/scaletest/performance/MINIBEN/mb_243_0810/allreduce.rts: invalid or missing program image, Exec format error`

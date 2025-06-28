@@ -1,0 +1,11 @@
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+Log message: `[11:38:27.892] <<<< IQ-CA >>>> piqca_setUsePreQueue: (0x7fce1406d600) rejecting report of layer being serviced - IQ has not yet begun to update`
+Log template: `[<*>] <<<< IQ-CA >>>> piqca_setUsePreQueue: (<*>) rejecting report of layer being serviced - IQ has not yet begun to update`
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `assertion failed: 15G1510: com.apple.telemetry + 38574 [10D2E324-788C-30CC-A749-55AE67AEC7BC]: 0x7fc235807b90`
+Log template: `assertion failed: <*> [<*>]: <*>`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+`CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots`

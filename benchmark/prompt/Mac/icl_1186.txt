@@ -1,0 +1,11 @@
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 258 seconds.  Ignoring.`
+Log template: `com.apple.<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.`
+Log message: `ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789`
+Log template: `ASSERTION FAILED: dvcAddrRef != ((void *)<*>) -[DriverServices getDeviceAddress:] line: <*>`
+`CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`

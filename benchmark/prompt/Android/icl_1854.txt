@@ -1,0 +1,11 @@
+Log message: `abandonAudioFocus`
+Log template: `abandonAudioFocus`
+Log message: `Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]`
+Log template: `Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]`
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> phoneId=<*>`
+Log message: `getLastAudibleStreamVolume  treamType: 3`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+Log message: `acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10111}, uid=1000, pid=1702`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+`*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`

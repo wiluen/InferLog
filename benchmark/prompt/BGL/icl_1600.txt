@@ -1,0 +1,11 @@
+Log message: `2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds`
+Log template: `<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+Log message: `core configuration register: 0x00002000`
+Log template: `core configuration register: <*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)`
+Log template: `MACHINE CHECK DCR read timeout (mc=<*> iar <*> lr <*>)`
+`MACHINE CHECK DCR read timeout (mc=e08x iar 0x00000000 lr 0xc00045a4)`

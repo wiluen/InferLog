@@ -1,0 +1,11 @@
+Log message: `26741629 torus sender z- retransmission error(s) (dcr 0x02f9) detected and corrected over 268 seconds`
+Log template: `<*> torus sender z- retransmission error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds`
+Log template: `<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+Log message: `16 tree receiver 2 in re-synch state event(s) (dcr 0x019a) detected`
+Log template: `<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected`
+Log message: `1 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 244 seconds`
+Log template: `<*> tree receiver <*> in re-synch state event(s) (dcr <*>) detected over <*> seconds`
+`13 tree receiver 1 in re-synch state event(s) (dcr 0x0185) detected over 4562 seconds`

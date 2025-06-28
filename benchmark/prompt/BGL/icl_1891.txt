@@ -1,0 +1,11 @@
+Log message: `ciod: LOGIN chdir(/home/spelce1/UMT2K/umt2k/ckpt_umt2k_src/TEST/NEW_TEST) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `shutdown complete`
+Log template: `shutdown complete`
+Log message: `rts internal error`
+Log template: `rts internal error`
+Log message: `ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `rts panic! - stopping execution`
+Log template: `rts panic! - stopping execution`
+`rts panic! - stopping execution`

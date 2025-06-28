@@ -1,0 +1,11 @@
+Log message: `SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Failed to start standard sample upload. [HRESULT = <*> - E_FAIL]`
+Log message: `00000008 CSI Store 4991456 (0x00000000004c29e0) initialized`
+Log template: `<*> CSI Store <*> (<*>) initialized`
+Log message: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log template: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log message: `NonStart: Checking to ensure startup processing was not required.`
+Log template: `NonStart: Checking to ensure startup processing was not required.`
+Log message: `Startup processing thread terminated normally`
+Log template: `Startup processing thread terminated normally`
+`NonStart: Success, startup processing not required as expected.`

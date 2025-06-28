@@ -1,0 +1,11 @@
+Log message: `Number of reduces for job job_1445144423722_0020 = 1`
+Log template: `Number of reduces for job <*> = <*>`
+Log message: `All maps assigned. Ramping up all remaining reduces:1`
+Log template: `All maps assigned. Ramping up all remaining reduces:<*>`
+Log message: `Added attempt_1445144423722_0020_m_000001_1 to list of failed maps`
+Log template: `Added <*> to list of failed maps`
+Log message: `Got allocated containers 1`
+Log template: `Got allocated containers <*>`
+Log message: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000`
+Log template: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>`
+`All maps assigned. Ramping up all remaining reduces:1`

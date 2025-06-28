@@ -1,0 +1,11 @@
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `sdpd v1.5 started`
+Log template: `sdpd <*> started`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+`Version 1.0.6 Starting`

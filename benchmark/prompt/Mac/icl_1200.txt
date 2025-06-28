@@ -1,0 +1,11 @@
+Log message: `bitmap_size 0x7f0fc, previewSize 0x4028, writing 485676 pages @ 0x97144`
+Log template: `bitmap_size <*>, previewSize <*>, writing <*> pages @ <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `Unexpected payload found for message 9, dataLen 0`
+Log template: `Unexpected payload found for message <*>, dataLen <*>`
+`pages 1401204, wire 544128, act 416065, inact 0, cleaned 0 spec 3, zf 25, throt 0, compr 266324, xpmapped 40000`

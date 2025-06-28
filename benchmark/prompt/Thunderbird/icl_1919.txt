@@ -1,0 +1,11 @@
+Log message: `eth0: e1000_probe: Intel(R) PRO/1000 Network Connection`
+Log template: `<*>: <*>: Intel(R) PRO/<*> Network Connection`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `Probing PCI hardware (bus 00)`
+Log template: `Probing PCI hardware (bus <*>)`
+Log message: `probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0`
+Log template: `probe new device <*>: bus <*>:slot <*>:func <*>`
+`probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0`

@@ -1,0 +1,11 @@
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `onExpandingFinished`
+Log template: `onExpandingFinished`
+Log message: `ACTION_BATTERY_CHANGED AMP: 0; Volt: 0`
+Log template: `ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `android.util.AndroidRuntimeException: Must execute in UI`
+Log template: `<*>: Must execute in UI`
+`flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`

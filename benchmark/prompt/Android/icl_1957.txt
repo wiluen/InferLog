@@ -1,0 +1,11 @@
+Log message: `cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140`
+Log template: `cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>`
+Log message: `updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true`
+Log template: `updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true`
+Log message: `notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]`
+Log template: `Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]`
+Log message: `Destroying surface Surface(name=com.example.android.notepad/com.example.android.notepad.NoteEditor) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+`ACTIVITY check resid: com.example.android.notepad, size=1`

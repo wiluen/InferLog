@@ -1,0 +1,11 @@
+Log message: `logNotificationVisibilityChanges runInThread over`
+Log template: `logNotificationVisibilityChanges runInThread over`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token`
+Log template: `<*>: <*> cannot be cast to <*>$Token`
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `Marking notification as seen 0|com.tencent.mobileqq|121|null|10111`
+Log template: `Marking notification as seen <*>|<*>|<*>|<*>|<*>`
+`interceptKeyTq keycode=3 interactive=true keyguardActive=false policyFlags=2b000002 down false canceled false`

@@ -1,0 +1,11 @@
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`
+Log template: `PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)`
+`INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`

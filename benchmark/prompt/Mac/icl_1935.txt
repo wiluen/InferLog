@@ -1,0 +1,11 @@
+Log message: `ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log template: `ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( "84-41-67-32-db-e1" )`
+Log template: `hostControllerOnline - Number of Paired devices = <*>, List of Paired devices = ( "<*>" )`
+`booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`

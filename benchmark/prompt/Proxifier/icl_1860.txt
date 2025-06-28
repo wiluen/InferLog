@@ -1,0 +1,11 @@
+Log message: `s1.img4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `client-lb.dropbox.com:443 close, 0 bytes sent, 0 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `c.csdnimg.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `long.open.weixin.qq.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `hm.baidu.com:443 error : A connection request was canceled before the completion.`
+Log template: `<*> error : A connection request was canceled before the completion.`
+`i7.baidu.com:80 close, 2813 bytes (2.74 KB) sent, 23975 bytes (23.4 KB) received, lifetime 00:26`

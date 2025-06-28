@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.20639901`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `task_1445144423722_0020_m_000003 Task Transitioned from RUNNING to SUCCEEDED`
+Log template: `<*> Task Transitioned from RUNNING to SUCCEEDED`
+Log message: `Opening proxy : MSRA-SA-41.fareast.corp.microsoft.com:7109`
+Log template: `Opening proxy : <*>`
+Log message: `KILLING attempt_1445144423722_0020_m_000001_0`
+Log template: `KILLING <*>`
+`KILLING attempt_1445144423722_0020_m_000001_0`

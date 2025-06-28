@@ -1,0 +1,11 @@
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `getCellLocation is blocked by permission manager uid:10111 pid:28601`
+Log template: `getCellLocation is blocked by permission manager uid:<*> pid:<*>`
+Log message: `*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** register callback for <*>@<*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `Animating brightness: target=38, rate=200`
+Log template: `Animating brightness: target=<*>, rate=<*>`
+`setSpeakerphoneOn on:true`

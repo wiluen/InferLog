@@ -1,0 +1,11 @@
+Log message: `isScreenOn true`
+Log template: `isScreenOn <*>`
+Log message: `onStandStepChanged 3599`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3602`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3616`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7027 5017 150518 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7025 5015 150475 240`

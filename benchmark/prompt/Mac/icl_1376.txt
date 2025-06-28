@@ -1,0 +1,11 @@
+Log message: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log template: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log message: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- 0x5fd0 -- 0x9a00 -- 0x6800 ****`
+Log template: `**** [IOBluetoothFamily][ProcessBluetoothTransportShowsUpActionWL] -- calling IOBluetoothFamily's registerService() -- <*> -- <*> -- <*> ****`
+Log message: `vm_compressor_fastwake_warmup (581519 - 591525) - starting`
+Log template: `vm_compressor_fastwake_warmup (<*> - <*>) - starting`
+Log message: `network changed: v4(en0:10.105.160.237) v6(en0!:2607:f140:6000:8:f1dc:a608:863:19ad) DNS Proxy SMB`
+Log template: `network changed: <*>(<*>) <*>(<*>) DNS Proxy SMB`
+Log message: `full wake promotion (reason 1) 374 ms`
+Log template: `full wake promotion (reason <*>) <*> ms`
+`full wake request (reason 2) 30914 ms`

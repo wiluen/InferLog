@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.13841225`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.3512319`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000004_0 is : 0.25258622`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.9185183`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000007_0 is : 0.19255035`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+`Progress of TaskAttempt attempt_1445144423722_0020_m_000008_0 is : 0.27811313`

@@ -1,0 +1,11 @@
+Log message: `instruction address space.........0`
+Log template: `instruction address space.........<*>`
+Log message: `core configuration register: 0x00002000`
+Log template: `core configuration register: <*>`
+Log message: `exception syndrome register: 0x00800000`
+Log template: `exception syndrome register: <*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `special purpose registers:`
+Log template: `special purpose registers:`
+`special purpose registers:`

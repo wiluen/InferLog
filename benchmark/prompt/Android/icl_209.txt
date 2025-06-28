@@ -1,0 +1,11 @@
+Log message: `acquire lock=189667585, flags=0x1, tag="*launch*", name=android, ws=WorkSource{10111}, uid=1000, pid=1702`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `abandonAudioFocus`
+Log template: `abandonAudioFocus`
+Log message: `getLastAudibleStreamVolume  treamType: 3`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+Log message: `visible is system.message.count gt 0`
+Log template: `visible is <*> gt <*>`
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> phoneId=<*>`
+`Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui`

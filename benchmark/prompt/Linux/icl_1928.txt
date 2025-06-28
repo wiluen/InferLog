@@ -1,0 +1,11 @@
+Log message: `ACPI: Subsystem revision 20040326`
+Log template: `ACPI: Subsystem revision <*>`
+Log message: `Enabling fast FPU save and restore... done.`
+Log template: `Enabling fast FPU save and restore... done.`
+Log message: `ACPI disabled because your bios is from 2000 and too old`
+Log template: `ACPI disabled because your bios is from <*> and too old`
+Log message: `ACPI: Interpreter disabled.`
+Log template: `ACPI: Interpreter disabled.`
+Log message: `You can enable it with acpi=force`
+Log template: `You can enable it with acpi=<*>`
+`You can enable it with acpi=force`

@@ -1,0 +1,11 @@
+Log message: `unable to qualify my own domain name (aadmin1) -- using short name`
+Log template: `unable to qualify my own domain name (<*>) -- using short name`
+Log message: `jA9J1dQ7016560: from=root, size=1595423, class=0, nrcpts=1, msgid=<200511091901.jA9J1dQ7016560@aadmin1>, relay=#7#@localhost`
+Log template: `<*>: from=<*>, size=<*>, class=<*>, nrcpts=<*>, msgid=<*>, relay=<*>@localhost`
+Log message: `My unqualified host name (cadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (dadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+Log message: `My unqualified host name (eadmin1) unknown; sleeping for retry`
+Log template: `My unqualified host name (<*>) unknown; sleeping for retry`
+`My unqualified host name (aadmin1) unknown; sleeping for retry`

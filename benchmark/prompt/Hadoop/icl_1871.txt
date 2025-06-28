@@ -1,0 +1,11 @@
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Extract jar:file:/D:/hadoop-2.6.0-localbox/share/hadoop/yarn/hadoop-yarn-common-2.6.0-SNAPSHOT.jar!/webapps/mapreduce to C:\Users\msrabi\AppData\Local\Temp\Jetty_0_0_0_0_62267_mapreduce____.8n7xum\webapp`
+Log template: `Extract jar:file:<*> to <*>`
+Log message: `reduceResourceRequest:<memory:1024, vCores:1>`
+Log template: `reduceResourceRequest:<memory:<*>, vCores:<*>`
+Log message: `Adding #0 tokens and #1 secret keys for NM use for launching container`
+Log template: `Adding #<*> tokens and #<*> secret keys for NM use for launching container`
+Log message: `The job-conf file on the remote FS is /tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.xml`
+Log template: `The job-conf file on the remote FS is <*>`
+`The job-jar file on the remote FS is hdfs://msra-sa-41:9000/tmp/hadoop-yarn/staging/msrabi/.staging/job_1445144423722_0020/job.jar`

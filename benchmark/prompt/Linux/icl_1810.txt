@@ -1,0 +1,11 @@
+Log message: `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`
+Log template: `ANONYMOUS FTP LOGIN FROM <*>, (anonymous)`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `restart.`
+Log template: `restart.`
+Log message: `Received SNMP packet(s) from 67.170.148.126`
+Log template: `Received SNMP packet(s) from <*>`
+`connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005`

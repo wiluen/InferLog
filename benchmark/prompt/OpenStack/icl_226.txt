@@ -1,0 +1,11 @@
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Deletion of /var/lib/nova/instances/af5f7392-f7d4-4298-b647-c98924c64aa1_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+Log message: `[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] Total vcpu: 16 VCPU, used: 0.00 VCPU`
+Log template: `[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU`
+Log message: `[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Total disk: 15 GB, used: 0.00 GB`
+Log template: `[instance: <*>] Total disk: <*> GB, used: <*> GB`
+Log message: `Auditing locally available compute resources for node cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us`
+Log template: `Auditing locally available compute resources for node <*>`
+Log message: `Creating event network-vif-plugged:e3871ffd-5cd5-4287-bddd-3529f7b59515 for instance b9000564-fe1a-409b-b8cc-1e88b294cd1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+`image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): checking`

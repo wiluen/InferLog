@@ -1,0 +1,11 @@
+Log message: `en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161`
+Log template: `en0: Supported channels <*>`
+Log message: `ARPT: 699244.827573: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2935131210, Ack 3049709979, Win size 278`
+Log template: `ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>`
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+`[HID] [ATC] [Error] AppleDeviceManagementHIDEventService::start Could not make a string from out connection notification key`

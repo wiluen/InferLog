@@ -1,0 +1,11 @@
+Log message: `10.250.9.207:50010 Served block blk_4355450627202483068 to /10.250.9.207`
+Log template: `<*> Served block <*> to <*>`
+Log message: `10.250.10.213:50010 Served block blk_-1125621902344947014 to /10.250.10.213`
+Log template: `<*> Served block <*> to <*>`
+Log message: `10.250.6.214:50010 Served block blk_-3384560576963801177 to /10.250.6.214`
+Log template: `<*> Served block <*> to <*>`
+Log message: `10.250.14.38:50010 Served block blk_-8674089929114017279 to /10.250.14.38`
+Log template: `<*> Served block <*> to <*>`
+Log message: `10.250.13.240:50010 Served block blk_-3134225108208373949 to /10.250.13.240`
+Log template: `<*> Served block <*> to <*>`
+`10.250.13.240:50010 Served block blk_-3134225108208373949 to /10.250.13.240`

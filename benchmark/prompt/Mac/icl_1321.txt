@@ -1,0 +1,11 @@
+Log message: `wake time set -0.855670 s`
+Log template: `wake time set <*> s`
+Log message: `after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8`
+Log template: `after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>&espv=<*>&ie=UTF-<*>`
+Log message: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log template: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+`14:16:06.179 : Scanning mode Contacts Only`

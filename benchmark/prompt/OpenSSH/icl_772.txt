@@ -1,0 +1,11 @@
+Log message: `Invalid user abc from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user ingrid from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user www [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `input_userauth_request: invalid user ingrid [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user magnos from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+`Invalid user magnos from 187.141.143.180`

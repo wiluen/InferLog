@@ -1,0 +1,11 @@
+Log message: `Established session 0x34ed9ac1c1e0064 with negotiated timeout 10000 for client /10.10.34.11:37111`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x24ee30a54f5001f with negotiated timeout 10000 for client /10.10.34.11:45102`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x14ed93111f20079 with negotiated timeout 20000 for client /10.10.34.11:49800`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Server environment:user.dir=/`
+Log template: `Server environment:<*>`
+`Established session 0x14ed93111f200df with negotiated timeout 10000 for client /10.10.34.13:37467`

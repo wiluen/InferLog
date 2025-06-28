@@ -1,0 +1,11 @@
+Log message: `CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots`
+Log template: `CCDataTap::profileRemoved, Owner: <*>, Name: <*>`
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log template: `ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+`en0: BSSID changed to 00:a2:ee:1a:71:8c`

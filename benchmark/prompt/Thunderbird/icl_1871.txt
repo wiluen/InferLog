@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`
+Log template: `PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64])`
+Log template: `IOAPIC (id[<*>] address[<*>] gsi_base[<*>])`
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+`apic_id 9, version 32, address 0xfec80000, GSI 32-55`

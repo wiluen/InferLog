@@ -1,0 +1,11 @@
+Log message: `ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789`
+Log template: `ASSERTION FAILED: dvcAddrRef != ((void *)<*>) -[DriverServices getDeviceAddress:] line: <*>`
+Log message: `[14:07:21.190] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification`
+Log template: `[<*>] <<<< Boss >>>> figPlaybackBossPrerollCompleted: unexpected preroll-complete notification`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `[00:29:04.085] <<<< CRABS >>>> crabsWaitForLoad: [0x7fbc7ac683a0] Wait time out - -1001 (msRequestTimeout -1)`
+Log template: `[<*>] <<<< CRABS >>>> crabsWaitForLoad: [<*>] Wait time out - <*> (msRequestTimeout <*>)`
+Log message: `[00:28:42.167] (Fig) signalled err=-12871`
+Log template: `[<*>] (Fig) signalled err=<*>`
+`-_continuousScroll is deprecated for NSScrollWheel. Please use -hasPreciseScrollingDeltas.`

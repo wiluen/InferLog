@@ -1,0 +1,11 @@
+Log message: `getTodayBasicStandardSteps= 1514018661124##0##3428`
+Log template: `getTodayBasicStandardSteps= <*>##<*>##<*>`
+Log message: `setTodayTotalDetailSteps=1514045640000##0##549659##8661##16256##34397604`
+Log template: `setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `onStandStepChanged 3649`
+Log template: `onStandStepChanged <*>`
+Log message: `calculateCaloriesWithCache totalCalories=0`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31588757`
+Log template: `setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>`
+`setTodayTotalDetailSteps=1514038440000##7026##548365##8661##14071##27184972`

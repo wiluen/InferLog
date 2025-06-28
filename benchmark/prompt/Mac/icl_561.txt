@@ -1,0 +1,11 @@
+Log message: `[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail`
+Log template: `[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-<*>.log>, it will probably fail`
+Log message: `schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>`
+Log template: `schedule invalidation <DYTransport <*>, error: lost transport connection (<*>)>`
+Log message: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****`
+Log template: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.`
+Log template: `[Accounts] Current connection, <NSXPCConnection: <*> connection from pid <*>, doesn't have account access.`
+`[18:56:23.837] <<<< CRABS >>>> crabsFlumeHostUnavailable: [0x7f961cf08cf0] Byte flume reports host unavailable.`

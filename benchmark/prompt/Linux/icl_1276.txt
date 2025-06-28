@@ -1,0 +1,11 @@
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `connection from 63.197.98.106 (adsl-63-197-98-106.dsl.mtry01.pacbell.net) at Mon Jul  4 12:52:44 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 218.146.61.230 () at Sun Jul 17 08:06:12 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 04:06:32 2005`

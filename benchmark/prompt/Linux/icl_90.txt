@@ -1,0 +1,11 @@
+Log message: `connection from 172.181.208.156 () at Tue Jul 26 05:47:51 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `Received SNMP packet(s) from 67.170.148.126`
+Log template: `Received SNMP packet(s) from <*>`
+Log message: `restart.`
+Log template: `restart.`
+`connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:07 2005`

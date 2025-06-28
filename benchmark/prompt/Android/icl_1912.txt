@@ -1,0 +1,11 @@
+Log message: `updateChargingLocked: charging=false`
+Log template: `updateChargingLocked: charging=<*>`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `scheduleTimeTickEvent triggerAtTime = 509262332`
+Log template: `scheduleTimeTickEvent triggerAtTime = <*>`
+Log message: `Unable to start service Intent { act=com.tencent.android.tpush.action.keepalive cmp=com.qqgame.hlddz/com.tencent.android.tpush.service.XGPushService } U=0: not found`
+Log template: `Unable to start service Intent { act=<*> cmp=<*> } U=<*>: not found`
+Log message: `remove(PendingIntent{e4e2534: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}) changed bounds; rebatching`
+Log template: `remove(PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}) changed bounds; rebatching`
+`Received TIME_TICK alarm; rescheduling`

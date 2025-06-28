@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Using 14.318180 MHz HPET timer.`
+Log template: `Using <*> MHz HPET timer.`
+Log message: `data_thread() got not answer from any [Thunderbird_B1] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+Log message: `kernel time sync enabled 0001`
+Log template: `kernel time sync enabled <*>`
+Log message: `[ib_sm_sweep.c:1455]: No topology change`
+Log template: `[ib_sm_sweep.c:<*>]: No topology change`
+`time reset +0.182379 s`

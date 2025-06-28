@@ -1,0 +1,11 @@
+Log message: `removing ftp`
+Log template: `removing <*>`
+Log message: `removing ntalk`
+Log template: `removing <*>`
+Log message: `removing printer`
+Log template: `removing <*>`
+Log message: `removing daytime`
+Log template: `removing <*>`
+Log message: `removing time`
+Log template: `removing <*>`
+`removing time`

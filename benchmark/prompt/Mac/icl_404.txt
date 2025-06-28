@@ -1,0 +1,11 @@
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `[10:13:05.044] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.`
+Log template: `[<*>] <<<< CRABS >>>> crabsFlumeHostAvailable: [<*>] Byte flume reports host available again.`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `com.apple.Addres(34830) deny network-outbound /private/var/run/mDNSResponder`
+Log template: `<*>(<*>) deny network-outbound <*>`
+`FA||Url||taskID[2019353296] dealloc`

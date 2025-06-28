@@ -1,0 +1,11 @@
+Log message: `Destroying surface Surface(name=PopupWindow:6ac503e) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.WindowStateAnimator.finishExit:590 com.android.server.wm.WindowStateAnimator.stepAnimationLocked:516 com.android.server.wm.WindowAnimator.updateWindowsLocked:311 com.android.server.wm.WindowAnimator.animateLocked:738`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `getDevicesForStream  streamType: 3`
+Log template: `getDevicesForStream streamType: <*>`
+Log message: `addNotification key=0|com.tencent.mm|4097|null|10112`
+Log template: `addNotification key=<*>|<*>|<*>|<*>|<*>`
+Log message: `START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0`
+Log template: `START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*> bnds=<*>} from uid <*> on display <*>`
+`enqueueNotificationInternal: pkg=com.tencent.mobileqq id=121 notification=Notification(pri=1 contentView=null vibrate=[100] sound=null tick defaults=0x0 flags=0x11 color=0x00000000 vis=PRIVATE)`

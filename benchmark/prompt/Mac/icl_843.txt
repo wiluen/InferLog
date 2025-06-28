@@ -1,0 +1,11 @@
+Log message: `ARPT: 681387.132167: AirPort_Brcm43xx::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake`
+Log template: `ARPT: <*>: <*>::powerChange: System Wake - Full Wake/ Dark Wake / Maintenance wake`
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `2017-07-02 10:40:07.676 GoogleSoftwareUpdateAgent[32012/0x7000002a0000] [lvl=2] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for "com.google.Keystone" using engine <KSUpdateEngine:0x100313e70 ticketStore=<KSPersistentTicketStore:0x100332a60 store=<KSKeyedPersistentStore:0x100315fa0 path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore" lockFile=<KSLockFile:0x1003176d0 path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/TicketStore/Keystone.ticketstore.lock" locked=NO > >> processor=<KSActionProcessor:0x1003143e0 delegate=<KSUpdateEngine:0x100313e70> isProcessing=NO actionsCompleted=0 progress=0.00 errors=0 currentActionErrors=0 events=0 currentActionEvents=0 actionQueue=( ) > delegate=(null) serverInfoStore=<KSServerPrivateInfoStore:0x100311a10 path="/Users/xpc/Library/Google/GoogleSoftwareUpdate/Servers"> errors=0 >`
+Log template: `<*> GoogleSoftwareUpdateAgent[<*>] [lvl=<*>] -[KSAgentApp updateProductWithProductID:usingEngine:] Checking for updates for "com.google.Keystone" using engine <KSUpdateEngine:<*> ticketStore=<KSPersistentTicketStore:<*> store=<KSKeyedPersistentStore:<*> path="<*>" lockFile=<KSLockFile:<*> path="<*>" locked=NO > >> processor=<KSActionProcessor:<*> delegate=<KSUpdateEngine:<*> isProcessing=NO actionsCompleted=<*> progress=<*> errors=<*> currentActionErrors=<*> events=<*> currentActionEvents=<*> actionQueue=( ) > delegate=(<*>) serverInfoStore=<KSServerPrivateInfoStore:<*> path="<*>"> errors=<*> >`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+`[Accounts] Failed to update account with identifier 76FE6715-3D27-4F21-AA35-C88C1EA820E8, error: Error Domain=ABAddressBookErrorDomain Code=1002 "(null)"`

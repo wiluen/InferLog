@@ -1,0 +1,11 @@
+Log message: `126MB LOWMEM available.`
+Log template: `<*> LOWMEM available.`
+Log message: `0MB HIGHMEM available.`
+Log template: `<*> HIGHMEM available.`
+Log message: `DMA zone: 4096 pages, LIFO batch:1`
+Log template: `DMA zone: <*> pages, LIFO batch:<*>`
+Log message: `Normal zone: 28334 pages, LIFO batch:6`
+Log template: `Normal zone: <*> pages, LIFO batch:<*>`
+Log message: `HighMem zone: 0 pages, LIFO batch:1`
+Log template: `HighMem zone: <*> pages, LIFO batch:<*>`
+`HighMem zone: 0 pages, LIFO batch:1`

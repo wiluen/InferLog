@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.5806522`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `attempt_1445144423722_0020_r_000000_0 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `job_1445144423722_0020Job Transitioned from NEW to INITED`
+Log template: `<*> Transitioned from NEW to INITED`
+Log message: `job_1445144423722_0020Job Transitioned from SETUP to RUNNING`
+Log template: `<*> Transitioned from SETUP to RUNNING`
+Log message: `job_1445144423722_0020Job Transitioned from INITED to SETUP`
+Log template: `<*> Transitioned from INITED to SETUP`
+`job_1445144423722_0020Job Transitioned from INITED to SETUP`

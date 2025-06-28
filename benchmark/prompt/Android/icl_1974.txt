@@ -1,0 +1,11 @@
+Log message: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0`
+Log template: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>`
+Log message: `RefreshBatteryInfo isBatteryLow: 23`
+Log template: `RefreshBatteryInfo isBatteryLow: <*>`
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `updateIsPoweredLocked: wasPowered=false, mIsPowered=false, oldPlugType=0, mPlugType=0, mBatteryLevel=23`
+Log template: `updateIsPoweredLocked: wasPowered=<*>, mIsPowered=<*>, oldPlugType=<*>, mPlugType=<*>, mBatteryLevel=<*>`
+`setDataSource(166, 0, 576460752303423487)`

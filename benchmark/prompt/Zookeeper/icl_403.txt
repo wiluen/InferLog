@@ -1,0 +1,11 @@
+Log message: `Notification time out: 3200`
+Log template: `Notification time out: <*>`
+Log message: `Sending DIFF`
+Log template: `Sending DIFF`
+Log message: `Send worker leaving thread`
+Log template: `Send worker leaving thread`
+Log message: `Interrupted while waiting for message on queue`
+Log template: `Interrupted while waiting for message on queue`
+Log message: `Received connection request /10.10.34.11:45440`
+Log template: `Received connection request <*>`
+`Interrupting SendWorker`

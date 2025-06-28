@@ -1,0 +1,11 @@
+Log message: `Server listening on :: port 22.`
+Log template: `Server listening on :: port <*>.`
+Log message: `connection from "#28#"`
+Log template: `connection from <*>`
+Log message: `Started working: 1 available service`
+Log template: `Started working: <*> available service`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `[ib_sm_sweep.c:1482]: No configuration change required`
+Log template: `[ib_sm_sweep.c:<*>]: No configuration change required`
+`Received SNMP packet(s) from #34#`

@@ -1,0 +1,11 @@
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `resumeSuspendedAutohide`
+Log template: `resumeSuspendedAutohide`
+`[HSM] stayAwake false uid: 10111, pid: 28601`

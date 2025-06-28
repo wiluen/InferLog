@@ -1,0 +1,11 @@
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `handleBatteryUpdate`
+Log template: `handleBatteryUpdate`
+Log message: `Skipping AppWindowToken{9f4ef63 token=Token{a64f992 ActivityRecord{de9231d u0 com.tencent.qt.qtl/.activity.info.NewsDetailXmlActivity t761}}} -- going to hide`
+Log template: `Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>}}} -- going to hide`
+Log message: `querySoundEffectsEnabled...`
+Log template: `querySoundEffectsEnabled...`
+Log message: `Acquiring suspend blocker "PowerManagerService.WakeLocks".`
+Log template: `Acquiring suspend blocker "PowerManagerService.WakeLocks".`
+`HBM brightnessOut =38`

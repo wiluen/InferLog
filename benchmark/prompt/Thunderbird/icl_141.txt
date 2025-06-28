@@ -1,0 +1,11 @@
+Log message: `sys_ia32.c,v 1.32 2002/03/24 13:02:28 ak Exp $`
+Log template: `<*> <*> <*> ak Exp $`
+Log message: `[ib_sm_sweep.c:1482]: No configuration change required`
+Log template: `[ib_sm_sweep.c:<*>]: No configuration change required`
+Log message: `data_thread() got not answer from any [Thunderbird_A5] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+Log message: `Local disconnected: Connection closed.`
+Log template: `Local disconnected: Connection closed.`
+Log message: `[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************`
+Log template: `[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************`
+`[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************`

@@ -1,0 +1,11 @@
+Log message: `instruction address space.........0`
+Log template: `instruction address space.........<*>`
+Log message: `instruction address: 0x00004ed8`
+Log template: `instruction address: <*>`
+Log message: `guaranteed instruction cache block touch.0`
+Log template: `guaranteed instruction cache block touch.<*>`
+Log message: `data cache search parity error detected. attempting to correct`
+Log template: `data cache search parity error detected. attempting to correct`
+Log message: `instruction cache parity error corrected`
+Log template: `instruction cache parity error corrected`
+`instruction cache parity error corrected`

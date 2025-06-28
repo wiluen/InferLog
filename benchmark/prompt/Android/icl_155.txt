@@ -1,0 +1,11 @@
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `ACTIVITY check resid: com.example.android.notepad, size=1`
+Log template: `ACTIVITY check resid: <*>, size=<*>`
+Log message: `flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`
+Log template: `flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>`
+Log message: `*** unregister callback for null`
+Log template: `*** unregister callback for <*>`
+Log message: `cancelPeek: false`
+Log template: `cancelPeek: <*>`
+`onExpandingStarted`

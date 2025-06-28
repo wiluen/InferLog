@@ -1,0 +1,11 @@
+Log message: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`
+Log template: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `Failed to stop a scan - central is not powered on: 4`
+Log template: `Failed to stop a scan - central is not powered on: <*>`
+Log message: `08:21:18.004 : Discoverable mode changed to Off`
+Log template: `<*> : Discoverable mode changed to Off`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+`[11:51:29.334] itemasync_SetProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2306`

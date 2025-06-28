@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `logNotificationVisibilityChanges runInThread over`
+Log template: `logNotificationVisibilityChanges runInThread over`
+Log message: `setWiredDeviceConnectionState  type: 4  state: 0`
+Log template: `setWiredDeviceConnectionState type: <*> state: <*>`
+`getRecentTasks: num=10,flags=62,totalTasks=46`

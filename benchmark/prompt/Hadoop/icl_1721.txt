@@ -1,0 +1,11 @@
+Log message: `Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 256 seconds.  Will retry shortly ...`
+Log template: `Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...`
+Log message: `Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 325 seconds.  Will retry shortly ...`
+Log template: `Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...`
+Log message: `Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)`
+Log template: `Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>)`
+Log message: `Failed to renew lease for [DFSClient_NONMAPREDUCE_1537864556_1] for 270 seconds.  Will retry shortly ...`
+Log template: `Failed to renew lease for [<*>] for <*> seconds. Will retry shortly ...`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000002_0 is : 0.38137424`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+`Retrying connect to server: msra-sa-41:8030. Already tried 0 time(s); retry policy is RetryUpToMaximumCountWithFixedSleep(maxRetries=10, sleepTime=1000 MILLISECONDS)`

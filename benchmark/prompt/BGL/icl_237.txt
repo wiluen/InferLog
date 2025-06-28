@@ -1,0 +1,11 @@
+Log message: `program interrupt: trap instruction.........0`
+Log template: `program interrupt: trap instruction.........<*>`
+Log message: `program interrupt: imprecise exception......0`
+Log template: `program interrupt: imprecise exception......<*>`
+Log message: `program interrupt`
+Log template: `program interrupt`
+Log message: `program interrupt: fp cr update.............0`
+Log template: `program interrupt: fp cr update.............<*>`
+Log message: `program interrupt: fp cr field .............0`
+Log template: `program interrupt: fp cr field .............<*>`
+`program interrupt: fp cr field .............0`

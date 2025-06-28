@@ -1,0 +1,11 @@
+Log message: `Failed none for invalid user admin from 5.188.10.180 port 52631 ssh2`
+Log template: `Failed none for invalid user <*> from <*> port <*> ssh2`
+Log message: `input_userauth_request: invalid user test2 [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user PlcmSpIp from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>`
+Log message: `Connection closed by 191.210.223.172 [preauth]`
+Log template: `Connection closed by <*> [preauth]`
+`Failed password for invalid user inspur from 175.102.13.6 port 47130 ssh2`

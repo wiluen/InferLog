@@ -1,0 +1,11 @@
+Log message: `Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`
+Log template: `Sandbox: <*>(<*>) deny(<*>) ipc-posix-shm-read-data CFPBS:<*>:`
+Log message: `polled file major 1, minor 0, blocksize 4096, pollers 5`
+Log template: `polled file major <*>, minor <*>, blocksize <*>, pollers <*>`
+Log message: `enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex`
+Log template: `enabling pid=<*> for plug-in com.apple.ncplugin.weather(<*>) <*>`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+`Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`

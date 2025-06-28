@@ -1,0 +1,11 @@
+Log message: `starting`
+Log template: `starting`
+Log message: `normal`
+Log template: `normal`
+Log message: `running`
+Log template: `running`
+Log message: `ambient=31`
+Log template: `ambient=<*>`
+Log message: `blocked`
+Log template: `blocked`
+`blocked`

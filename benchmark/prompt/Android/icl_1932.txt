@@ -1,0 +1,11 @@
+Log message: `sending alarm Alarm{19069ff type 3 when 509169377 PendingIntent{50303cc: PendingIntentRecord{e204f60 com.android.phone broadcastIntent}}},repeatInterval = 0,listenerTag =null`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> <*> broadcastIntent}}},repeatInterval = <*>,listenerTag =<*>`
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `Killing 23484:com.android.calendar/u0a13 (adj 906): empty for 1810s`
+Log template: `Killing <*> (adj <*>): empty for <*>`
+Log message: `getRunningAppProcesses: caller 10111 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getRunningAppProcesses: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `interceptKeyBeforeQueueing: key 4 , result : 1`
+Log template: `interceptKeyBeforeQueueing: key <*> , result : <*>`
+`Pid:28601 MediaPlayer destructor`

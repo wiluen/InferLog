@@ -1,0 +1,11 @@
+Log message: `hcid startup succeeded`
+Log template: `hcid startup succeeded`
+Log message: `rpc.statd startup succeeded`
+Log template: `<*> startup succeeded`
+Log message: `Setting network parameters: succeeded`
+Log template: `Setting network parameters: succeeded`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `Initializing random number generator: succeeded`
+Log template: `Initializing random number generator: succeeded`
+`Initializing random number generator: succeeded`

@@ -1,0 +1,11 @@
+Log message: `Failed password for invalid user operator from 103.99.0.122 port 53492 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Invalid user oralce from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for sshd from 103.99.0.122 port 51359 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Invalid user support from 103.207.39.16`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user cisco from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+`Failed password for invalid user ubnt from 103.99.0.122 port 64908 ssh2`

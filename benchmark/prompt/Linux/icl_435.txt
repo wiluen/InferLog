@@ -1,0 +1,11 @@
+Log message: `connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `Authentication failed from 163.27.187.39 (163.27.187.39): Software caused connection abort`
+Log template: `Authentication failed from <*> (<*>): Software caused connection abort`
+`connection from 208.62.55.75 () at Wed Jun 29 10:48:06 2005`

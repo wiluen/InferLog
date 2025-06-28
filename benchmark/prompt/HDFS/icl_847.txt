@@ -1,0 +1,11 @@
+Log message: `Receiving block blk_4959462704623252283 src: /10.251.125.174:44166 dest: /10.251.125.174:50010`
+Log template: `Receiving block <*> src: <*> dest: <*>`
+Log message: `Receiving block blk_6400082566804273401 src: /10.251.38.214:42160 dest: /10.251.38.214:50010`
+Log template: `Receiving block <*> src: <*> dest: <*>`
+Log message: `Receiving block blk_1869228153483717375 src: /10.251.203.4:56599 dest: /10.251.203.4:50010`
+Log template: `Receiving block <*> src: <*> dest: <*>`
+Log message: `Receiving block blk_7654726977769174867 src: /10.251.110.160:49990 dest: /10.251.110.160:50010`
+Log template: `Receiving block <*> src: <*> dest: <*>`
+Log message: `Receiving block blk_6868050965297613251 src: /10.251.201.204:47734 dest: /10.251.201.204:50010`
+Log template: `Receiving block <*> src: <*> dest: <*>`
+`Receiving block blk_8222237992861447018 src: /10.251.203.4:60086 dest: /10.251.203.4:50010`

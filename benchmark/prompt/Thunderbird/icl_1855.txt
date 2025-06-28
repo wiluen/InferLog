@@ -1,0 +1,11 @@
+Log message: `PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>`
+Log message: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.`
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)`
+Log message: `PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`
+Log template: `PCI interrupt <*> -> GSI <*> (level, low) -> IRQ <*>`
+`PCI interrupt 0000:07:08.0[A] -> GSI 65 (level, low) -> IRQ 193`

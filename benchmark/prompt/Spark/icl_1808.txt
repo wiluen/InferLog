@@ -1,0 +1,11 @@
+Log message: `Saved output of task 'attempt_201706092018_0024_m_000121_1146' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121`
+Log template: `Saved output of task '<*>' to <*>`
+Log message: `Found block rdd_42_36 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_2_2 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_11_0 locally`
+Log template: `Found block <*> locally`
+Log message: `Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4`
+Log template: `Created local directory at <*>`
+`Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4`

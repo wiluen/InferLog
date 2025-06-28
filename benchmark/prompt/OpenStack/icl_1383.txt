@@ -1,0 +1,11 @@
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Stopped (Lifecycle Event)`
+Log template: `[instance: <*>] VM Stopped (Lifecycle Event)`
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Claim successful`
+Log template: `[instance: <*>] Claim successful`
+Log message: `Creating event network-vif-plugged:e1bf6353-ae58-4e46-b2d1-65a69b992bed for instance 63a0d960-70b6-44c6-b606-491478a5cadf`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1" status: 200 len: 1708 time: 0.1894400`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.`
+Log template: `[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.`
+`10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/d96a117b-0193-4549-bdcc-63b917273d1d HTTP/1.1" status: 200 len: 1708 time: 0.1916969`

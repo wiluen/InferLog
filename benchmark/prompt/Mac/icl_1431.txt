@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `enabling pid=30298 for plug-in com.apple.ncplugin.weather(1.0) 131FE7ED-87F7-471D-8797-C11107688DF7 /System/Library/CoreServices/Weather.app/Contents/PlugIns/com.apple.ncplugin.weather.appex`
+Log template: `enabling pid=<*> for plug-in com.apple.ncplugin.weather(<*>) <*>`
+`Configuration Notice: ASL Module "com.apple.authkit.osx.asl" sharing output destination "/var/log/Accounts" with ASL Module "com.apple.Accounts". Output parameters from ASL Module "com.apple.Accounts" override any specified in ASL Module "com.apple.authkit.osx.asl".`

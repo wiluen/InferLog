@@ -1,0 +1,11 @@
+Log message: `Closed socket connection for client /10.10.34.13:38088 which had sessionid 0x14ede63a5a70048`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Getting a snapshot from leader`
+Log template: `Getting a snapshot from leader`
+Log message: `Server environment:host.name=mesos-master-1`
+Log template: `Server environment:<*>`
+Log message: `Closed socket connection for client /10.10.34.19:57338 which had sessionid 0x14f05578bd8000d`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Client attempting to establish new session at /10.10.34.40:58713`
+Log template: `Client attempting to establish new session at <*>`
+`FOLLOWING - LEADER ELECTION TOOK - 49`

@@ -1,0 +1,11 @@
+Log message: `jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]`
+Log template: `<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `[ib_sm_sweep.c:1482]: No configuration change required`
+Log template: `[ib_sm_sweep.c:<*>]: No configuration change required`
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1`
+Log message: `DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPOFFER on <*> to <*> via eth1`
+`jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]`

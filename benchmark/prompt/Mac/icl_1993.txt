@@ -1,0 +1,11 @@
+Log message: `AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us`
+Log template: `<*>::prePCIWake - power up complete - took <*> us`
+Log message: `ARPT: 739295.354731: wl0: Roamed or switched channel, reason #4, bssid f8:4f:57:3b:ea:b2, last RSSI -77`
+Log template: `ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI <*>`
+Log message: `CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots`
+Log template: `CCDataTap::profileRemoved, Owner: <*>, Name: <*>`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+`DB Error: 1 "no such table: tb_c2cMsg_2909288299"`

@@ -1,0 +1,11 @@
+Log message: `r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000`
+Log template: `r24=<*> r25=<*> r26=<*> r27=<*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `iar 00106448 dear 0246dacc`
+Log template: `iar <*> dear <*>`
+Log message: `dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000`
+Log template: `dbcr0=<*> dbsr=<*> ccr0=<*>`
+Log message: `lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000`
+Log template: `lr:<*> cr:<*> xer:<*> ctr:<*>`
+`lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000`

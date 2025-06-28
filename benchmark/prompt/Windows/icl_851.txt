@@ -1,0 +1,11 @@
+Log message: `Starting the TrustedInstaller main loop.`
+Log template: `Starting the TrustedInstaller main loop.`
+Log message: `TrustedInstaller service starts successfully.`
+Log template: `TrustedInstaller service starts successfully.`
+Log message: `Startup processing thread terminated normally`
+Log template: `Startup processing thread terminated normally`
+Log message: `NonStart: Checking to ensure startup processing was not required.`
+Log template: `NonStart: Checking to ensure startup processing was not required.`
+Log message: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log template: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+`No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`

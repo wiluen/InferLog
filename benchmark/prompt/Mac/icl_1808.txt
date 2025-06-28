@@ -1,0 +1,11 @@
+Log message: `could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0`
+Log template: `could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>`
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+`11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>`

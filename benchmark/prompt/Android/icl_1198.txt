@@ -1,0 +1,11 @@
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }`
+Log template: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+`userActivityNoUpdateLocked: eventTime=261972159, event=1, flags=0x0, uid=1000`

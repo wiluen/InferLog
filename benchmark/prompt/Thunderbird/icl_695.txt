@@ -1,0 +1,11 @@
+Log message: `[ib_sm_sweep.c:1482]: No configuration change required`
+Log template: `[ib_sm_sweep.c:<*>]: No configuration change required`
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+Log message: `[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************`
+Log template: `[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************`
+Log message: `Local disconnected: Connection closed.`
+Log template: `Local disconnected: Connection closed.`
+Log message: `data_thread() got not answer from any [Thunderbird_A5] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+`[ib_sm_sweep.c:1455]: No topology change`

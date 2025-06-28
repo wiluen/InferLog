@@ -1,0 +1,11 @@
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `FA||Url||taskID[2019353444] dealloc`
+Log template: `FA||Url||taskID[<*>] dealloc`
+Log message: `com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 258 seconds.  Ignoring.`
+Log template: `com.apple.<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.`
+Log message: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (null) UASuggestedActionType=0 (null)/(null) opts=(null) when=2017-07-05 03:51:50 +0000 confidence=1 from=(null)/(null) (UABestAppSuggestionManager.m #319)`
+Log template: `-[UABestAppSuggestionManager notifyBestAppChanged:type:options:bundleIdentifier:activityType:dynamicIdentifier:when:confidence:deviceName:deviceIdentifier:deviceType:] (<*>) UASuggestedActionType=<*> (<*>)/(<*>) opts=(<*>) when=<*>`
+`CGXDisplayDidWakeNotification [712572581805245]: posting kCGSDisplayDidWake`

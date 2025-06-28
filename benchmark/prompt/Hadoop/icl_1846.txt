@@ -1,0 +1,11 @@
+Log message: `maxTaskFailuresPerNode is 3`
+Log template: `maxTaskFailuresPerNode is <*>`
+Log message: `Started HttpServer2$SelectChannelConnectorWithSafeStartup@0.0.0.0:62267`
+Log template: `Started HttpServer2$SelectChannelConnectorWithSafeStartup@<*>`
+Log message: `queue: default`
+Log template: `queue: default`
+Log message: `blacklistDisablePercent is 33`
+Log template: `blacklistDisablePercent is <*>`
+Log message: `nodeBlacklistingEnabled:true`
+Log template: `nodeBlacklistingEnabled:<*>`
+`nodeBlacklistingEnabled:true`

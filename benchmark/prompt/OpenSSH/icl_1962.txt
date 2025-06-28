@@ -1,0 +1,11 @@
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `Failed password for root from 60.2.12.12 port 10217 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 60.2.12.12 port 20658 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Connection closed by 60.2.12.12 [preauth]`
+Log template: `Connection closed by <*> [preauth]`
+`Failed password for root from 60.2.12.12 port 15145 ssh2`

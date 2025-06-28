@@ -1,0 +1,11 @@
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `cancelNotificationLocked,remove =com.tencent.mobileqq`
+Log template: `cancelNotificationLocked,remove =<*>`
+Log message: `getLastAudibleStreamVolume  treamType: 2`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+`getRunningAppProcesses: caller 10027 does not hold REAL_GET_TASKS; limiting output`

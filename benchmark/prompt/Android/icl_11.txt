@@ -1,0 +1,11 @@
+Log message: `enqueueNotificationInternal: n.getKey = 0|com.tencent.mm|4097|null|10112`
+Log template: `enqueueNotificationInternal: n.getKey = <*>`
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `ACTION_BATTERY_CHANGED AMP: 0; Volt: 0`
+Log template: `ACTION_BATTERY_CHANGED AMP: <*>; Volt: <*>`
+Log message: `HBM brightnessOut =38`
+Log template: `HBM brightnessOut =<*>`
+`ready=true,policy=3,wakefulness=1,wksummary=0x23,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0`

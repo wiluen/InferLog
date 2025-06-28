@@ -1,0 +1,11 @@
+Log message: `... autorun DONE.`
+Log template: `... autorun DONE.`
+Log message: `initializing netlink socket (disabled)`
+Log template: `initializing netlink socket (disabled)`
+Log message: `Interpreter enabled`
+Log template: `Interpreter enabled`
+Log message: `Mounting NFS filesystems: succeeded`
+Log template: `Mounting NFS filesystems: succeeded`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+`Disabled at runtime.`

@@ -1,0 +1,11 @@
+Log message: `connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `sdpd v1.5 started`
+Log template: `sdpd <*> started`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `hcid startup succeeded`
+Log template: `hcid startup succeeded`
+Log message: `HCI daemon ver 2.4 started`
+Log template: `HCI daemon ver <*> started`
+`HCI daemon ver 2.4 started`

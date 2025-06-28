@@ -1,0 +1,11 @@
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `efi pagecount 72`
+Log template: `efi pagecount <*>`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `tcp_connection_tls_session_error_callback_imp 2375 __tcp_connection_tls_session_callback_write_block_invoke.434 error 22`
+Log template: `tcp_connection_tls_session_error_callback_imp <*> __tcp_connection_tls_session_callback_write_block_invoke.<*> error <*>`
+Log message: `ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223`
+Log template: `ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>`
+`ARPT: 787923.793193: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`

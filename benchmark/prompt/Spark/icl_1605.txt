@@ -1,0 +1,11 @@
+Log message: `Partition rdd_6_4 not found, computing it`
+Log template: `Partition <*> not found, computing it`
+Log message: `Block rdd_42_34 stored as bytes in memory (estimated size 842.0 B, free 832.9 KB)`
+Log template: `Block <*> stored as bytes in memory (estimated size <*>, free <*>)`
+Log message: `Found block rdd_2_2 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_11_0 locally`
+Log template: `Found block <*> locally`
+Log message: `Found block rdd_42_36 locally`
+Log template: `Found block <*> locally`
+`Found block rdd_42_33 locally`

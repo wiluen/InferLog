@@ -1,0 +1,11 @@
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+Log message: `-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID`
+Log template: `-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `BuildActDeviceEntry exit`
+Log template: `BuildActDeviceEntry exit`
+`jemmytest`

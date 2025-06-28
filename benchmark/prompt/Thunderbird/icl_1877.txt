@@ -1,0 +1,11 @@
+Log message: `synchronized to #3#, stratum 1`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `Registering netfilter hooks`
+Log template: `Registering netfilter hooks`
+Log message: `routing cache hash table of 65536 buckets, 1024Kbytes`
+Log template: `routing cache hash table of <*> buckets, <*>`
+Log message: `Using IOAPIC for interrupt routing`
+Log template: `Using IOAPIC for interrupt routing`
+Log message: `Using software bounce buffering for IO (SWIOTLB)`
+Log template: `Using software bounce buffering for IO (SWIOTLB)`
+`Using software bounce buffering for IO (SWIOTLB)`

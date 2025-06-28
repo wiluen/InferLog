@@ -1,0 +1,11 @@
+Log message: `boot  (command 3473)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 2392)`
+Log template: `boot (command <*>)`
+Log message: `Fan speeds ( 3534 3534 3375 4115 3497 3479 )`
+Log template: `Fan speeds ( <*> <*> <*> <*> <*> <*> )`
+Log message: `Fan speeds ( 3552 3534 3375 4192 3515 3479 )`
+Log template: `Fan speeds ( <*> <*> <*> <*> <*> <*> )`
+Log message: `Fan speeds ( 3552 3552 3391 **** 3515 3497 )`
+Log template: `Fan speeds ( <*> <*> <*> **** <*> <*> )`
+`Fan speeds ( 3552 3534 3391 **** 3515 3479 )`

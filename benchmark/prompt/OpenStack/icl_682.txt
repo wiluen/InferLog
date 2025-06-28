@@ -1,0 +1,11 @@
+Log message: `10.11.10.1 "GET /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/faf974ea-cba5-4e1b-93f4-3a3bc606006f HTTP/1.1" status: 200 len: 1708 time: 0.1894400`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] During sync_power_state the instance has a pending task (spawning). Skip.`
+Log template: `[instance: <*>] During sync_power_state the instance has a pending task (spawning). Skip.`
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Claim successful`
+Log template: `[instance: <*>] Claim successful`
+Log message: `10.11.10.1 "POST /v2/e9746973ac574c6b8a9e8857f56a7608/os-server-external-events HTTP/1.1" status: 404 len: 296 time: 0.0835118`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Deletion of /var/lib/nova/instances/a015cf14-84bb-4156-a48d-7c4824ac7a9d_del complete`
+Log template: `[instance: <*>] Deletion of <*> complete`
+`10.11.10.1 "DELETE /v2/54fadb412c4e40cdbaed9335e4c35a9e/servers/43204226-2f87-4da7-b7ee-4d20cc66e846 HTTP/1.1" status: 204 len: 203 time: 0.2904482`

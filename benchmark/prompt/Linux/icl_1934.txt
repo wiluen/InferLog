@@ -1,0 +1,11 @@
+Log message: `hcid startup succeeded`
+Log template: `hcid startup succeeded`
+Log message: `rpc.idmapd startup succeeded`
+Log template: `<*> startup succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+`portmap startup succeeded`

@@ -1,0 +1,11 @@
+Log message: `Processed session termination for sessionid: 0x34ed9ac1c1e00ae`
+Log template: `Processed session termination for sessionid: <*>`
+Log message: `Processed session termination for sessionid: 0x14f1724a6e8000d`
+Log template: `Processed session termination for sessionid: <*>`
+Log message: `Established session 0x14ede63a5a7004b with negotiated timeout 10000 for client /10.10.34.11:40489`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Processed session termination for sessionid: 0x34edfaa9c22003d`
+Log template: `Processed session termination for sessionid: <*>`
+Log message: `Processed session termination for sessionid: 0x14f4a6318b80019`
+Log template: `Processed session termination for sessionid: <*>`
+`Processed session termination for sessionid: 0x14ed93111f200a7`

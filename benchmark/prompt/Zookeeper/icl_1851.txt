@@ -1,0 +1,11 @@
+Log message: `Interrupting SendWorker`
+Log template: `Interrupting SendWorker`
+Log message: `Connection broken for id 188978561024, my id = 1, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `FOLLOWING`
+Log template: `FOLLOWING`
+Log message: `Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000`
+Log template: `Have quorum of supporters; starting up and setting last processed zxid: <*>`
+Log message: `FOLLOWING - LEADER ELECTION TOOK - 49`
+Log template: `FOLLOWING - LEADER ELECTION TOOK - <*>`
+`New election. My id =  1, proposed zxid=0x700000000`

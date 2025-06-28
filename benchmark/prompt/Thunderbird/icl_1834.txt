@@ -1,0 +1,11 @@
+Log message: `sda1 sda2 sda3 sda4`
+Log template: `sda1 sda2 sda3 sda4`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Processor [CPU2] (supports C1)`
+Log template: `Processor [<*>] (supports C1)`
+Log message: `(supports S0 S4 S5)`
+Log template: `(supports <*>)`
+`(supports S0 S4 S5)`

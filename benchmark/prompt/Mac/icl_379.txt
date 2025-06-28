@@ -1,0 +1,11 @@
+Log message: `AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us`
+Log template: `<*>::prePCIWake - power up complete - took <*> us`
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: Updating enabled: YES   (Topics: ( "com.apple.private.alloy.icloudpairing", "com.apple.private.alloy.continuity.encryption", "com.apple.private.alloy.continuity.activity", "com.apple.ess", "com.apple.private.ids", "com.apple.private.alloy.phonecontinuity", "com.apple.madrid", "com.apple.private.ac", "com.apple.private.alloy.phone.auth", "com.apple.private.alloy.keychainsync", "com.apple.private.alloy.fmf", "com.apple.private.alloy.sms", "com.apple.private.alloy.screensharing", "com.apple.private.alloy.maps", "com.apple.private.alloy.thumper.keys", "com.apple.private.alloy.continuity.tethering" ))`
+Log template: `<IMMacNotificationCenterManager: <*>: Updating enabled: YES (Topics: (<*>))`
+Log message: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log template: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `KeychainGetICDPStatus: status: off`
+Log template: `KeychainGetICDPStatus: status: off`
+`IOPMrootDomain: idle cancel, state 1`

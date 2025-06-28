@@ -1,0 +1,11 @@
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `cancelNotificationLocked called,tell the app,reason = 8`
+Log template: `cancelNotificationLocked called,tell the app,reason = <*>`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `onNotificationExpansionChanged called`
+Log template: `onNotificationExpansionChanged called`
+Log message: `getRingerMode...`
+Log template: `getRingerMode...`
+`notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000`

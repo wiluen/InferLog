@@ -1,0 +1,11 @@
+Log message: `Failed password for ftp from 5.188.10.180 port 54715 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `input_userauth_request: invalid user monitor [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Failed password for invalid user 1234 from 5.188.10.180 port 45541 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `input_userauth_request: invalid user abc [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `input_userauth_request: invalid user ubuntu [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+`input_userauth_request: invalid user ghost [preauth]`

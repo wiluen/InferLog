@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.23:51828`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.13:52310`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.39:51758`
+Log template: `Accepted socket connection from <*>`
+Log message: `Have smaller server identifier, so dropping the connection: (2, 1)`
+Log template: `Have smaller server identifier, so dropping the connection: (<*>, <*>)`
+Log message: `Accepted socket connection from /10.10.34.11:54078`
+Log template: `Accepted socket connection from <*>`
+`Accepted socket connection from /10.10.34.11:54078`

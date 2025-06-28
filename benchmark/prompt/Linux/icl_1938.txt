@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=68.143.156.89.nw.nuvox.net  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `Real Time Clock Driver v1.12`
+Log template: `Real Time Clock Driver <*>`
+Log message: `Enabling fast FPU save and restore... done.`
+Log template: `Enabling fast FPU save and restore... done.`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `Using tsc for high-res timesource`
+Log template: `Using tsc for high-res timesource`
+`Using tsc for high-res timesource`

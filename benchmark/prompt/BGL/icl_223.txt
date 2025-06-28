@@ -1,0 +1,11 @@
+Log message: `minus normalized number..................0`
+Log template: `minus normalized number..................<*>`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+Log message: `wait state enable.................0`
+Log template: `wait state enable.................<*>`
+Log message: `auxiliary processor.........................0`
+Log template: `auxiliary processor.........................<*>`
+Log message: `store operation.............................1`
+Log template: `store operation.............................<*>`
+`store operation.............................1`

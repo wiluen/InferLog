@@ -1,0 +1,11 @@
+Log message: `dbcr0=0x00000000 dbsr=0x00000000 ccr0=0x40002000`
+Log template: `dbcr0=<*> dbsr=<*> ccr0=<*>`
+Log message: `data address: 0x00000002`
+Log template: `data address: <*>`
+Log message: `CE sym 10, at 0x01d7a160, mask 0x10`
+Log template: `CE sym <*>, at <*>, mask <*>`
+Log message: `r24=0x0ffea4c8 r25=0x00000003 r26=0x0000000f r27=0xffffd000`
+Log template: `r24=<*> r25=<*> r26=<*> r27=<*>`
+Log message: `fpr29=0xffffffff ffffffff ffffffff ffffffff`
+Log template: `fpr29=<*>`
+`fpr29=0xffffffff ffffffff ffffffff ffffffff`

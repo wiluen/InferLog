@@ -1,0 +1,11 @@
+Log message: `Session: 30546173_4262462443 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Ending TrustedInstaller finalization.`
+Log template: `Ending TrustedInstaller finalization.`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SECURITY`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `0000000d Creating NT transaction (seq 2), objectname [6]"(null)"`
+Log template: `<*> Creating NT transaction (seq <*>), objectname [<*>]"(<*>)"`
+Log message: `0000000f@2016/9/27:20:40:54.786 CSI perf trace:`
+Log template: `<*> CSI perf trace:`
+`Scavenge: Begin CSI Store`

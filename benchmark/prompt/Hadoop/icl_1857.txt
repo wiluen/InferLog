@@ -1,0 +1,11 @@
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `job_1445144423722_0020Job Transitioned from SETUP to RUNNING`
+Log template: `<*> Transitioned from SETUP to RUNNING`
+Log message: `Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Processing the event EventType: TASK_ABORT`
+Log template: `Processing the event EventType: TASK_ABORT`
+Log message: `Processing the event EventType: JOB_SETUP`
+Log template: `Processing the event EventType: JOB_SETUP`
+`Processing the event EventType: JOB_SETUP`

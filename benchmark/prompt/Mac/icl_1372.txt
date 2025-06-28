@@ -1,0 +1,11 @@
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! NeteaseMusic.17988 tc12042 103.251.128.144:80`
+Log template: `-[NETClientConnection evaluateCrazyIvan46] CI46 - Perform CrazyIvan46! <*>`
+Log message: `-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID`
+Log template: `-[NETClientConnection effectiveBundleID] using process name apsd as bundle ID (this is expected for daemons without bundle ID`
+Log message: `2017/07/07 21:47:20.392 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 515629905.`
+Log template: `<*> | I | VoipWrapper | DAVEngineImpl.cpp:<*>:Close | close video chat. llFriendUIN = <*>.`
+`2017/07/06 18:22:57.953 | I | VoipWrapper  | DAVEngineImpl.cpp:1400:Close             | close video chat. llFriendUIN = 1742124257.`

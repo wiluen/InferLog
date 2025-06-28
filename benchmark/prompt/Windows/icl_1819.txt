@@ -1,0 +1,11 @@
+Log message: `0000000e Created NT transaction (seq 2) result 0x00000000, handle @0xb8`
+Log template: `<*> Created NT transaction (seq <*>) result <*>, handle @<*>`
+Log message: `Starting TrustedInstaller initialization.`
+Log template: `Starting TrustedInstaller initialization.`
+Log message: `Loading offline registry hive: COMPONENTS, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\COMPONENTS'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+Log message: `Starting TrustedInstaller finalization.`
+Log template: `Starting TrustedInstaller finalization.`
+Log message: `00000007@2016/9/27:20:30:31.462 CSI perf trace:`
+Log template: `<*> CSI perf trace:`
+`00000007@2016/9/27:20:30:31.462 CSI perf trace:`

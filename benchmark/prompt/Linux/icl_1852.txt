@@ -1,0 +1,11 @@
+Log message: `connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `imps2: Auto-detected intellimouse PS/2`
+Log template: `<*>: Auto-detected intellimouse <*>`
+`*** info [mice.c(1766)]:`

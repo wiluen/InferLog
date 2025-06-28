@@ -1,0 +1,11 @@
+Log message: `task_1445144423722_0020_m_000005 Task Transitioned from NEW to SCHEDULED`
+Log template: `<*> Task Transitioned from NEW to SCHEDULED`
+Log message: `TaskAttempt: [attempt_1445144423722_0020_m_000001_0] using containerId: [container_1445144423722_0020_01_000003 on NM: [MININT-FNANLI5.fareast.corp.microsoft.com:52368]`
+Log template: `TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>]`
+Log message: `TaskAttempt: [attempt_1445144423722_0020_m_000000_0] using containerId: [container_1445144423722_0020_01_000002 on NM: [04DN8IQ.fareast.corp.microsoft.com:54883]`
+Log template: `TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>]`
+Log message: `TaskAttempt: [attempt_1445144423722_0020_m_000003_0] using containerId: [container_1445144423722_0020_01_000005 on NM: [MSRA-SA-41.fareast.corp.microsoft.com:7109]`
+Log template: `TaskAttempt: [<*>] using containerId: [<*> on NM: [<*>]`
+Log message: `ATTEMPT_START task_1445144423722_0020_m_000008`
+Log template: `ATTEMPT_START <*>`
+`Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:28345`

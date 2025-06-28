@@ -1,0 +1,11 @@
+Log message: `Using mapred newApiCommitter.`
+Log template: `Using mapred newApiCommitter.`
+Log message: `Web app /mapreduce started at 62267`
+Log template: `Web app <*> started at <*>`
+Log message: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log template: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log message: `adding path spec: /ws/*`
+Log template: `adding path spec: <*>`
+Log message: `adding path spec: /mapreduce/*`
+Log template: `adding path spec: <*>`
+`adding path spec: /mapreduce/*`

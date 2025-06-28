@@ -1,0 +1,11 @@
+Log message: `sending alarm Alarm{aa90550 type 3 when 509142332 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick`
+Log message: `orientation change is complete, call stopFreezingDisplayLocked`
+Log template: `orientation change is complete, call stopFreezingDisplayLocked`
+Log message: `startAnimation end`
+Log template: `startAnimation end`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=android.intent.action.VIEW dat=file:///storage/emulated/0/Tencent/QQfile_recv/b.apk typ=application/vnd.android.package-archive flg=0x10800000 cmp=com.android.packageinstaller/.PackageInstallerActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> typ=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `getRecentTasks: num=20,flags=62,totalTasks=46`
+Log template: `getRecentTasks: num=<*>,flags=<*>,totalTasks=<*>`
+`The change in focus caused us to need to do a layout end`

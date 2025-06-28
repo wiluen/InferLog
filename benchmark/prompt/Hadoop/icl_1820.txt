@@ -1,0 +1,11 @@
+Log message: `job_1445144423722_0020Job Transitioned from NEW to INITED`
+Log template: `<*> Transitioned from NEW to INITED`
+Log message: `We launched 1 speculations.  Sleeping 15000 milliseconds.`
+Log template: `We launched <*> speculations. Sleeping <*> milliseconds.`
+Log message: `Number of reduces for job job_1445144423722_0020 = 1`
+Log template: `Number of reduces for job <*> = <*>`
+Log message: `JOB_CREATE job_1445144423722_0020`
+Log template: `JOB_CREATE <*>`
+Log message: `Adding job token for job_1445144423722_0020 to jobTokenSecretManager`
+Log template: `Adding job token for <*> to jobTokenSecretManager`
+`Adding job token for job_1445144423722_0020 to jobTokenSecretManager`

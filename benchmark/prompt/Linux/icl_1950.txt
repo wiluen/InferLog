@@ -1,0 +1,11 @@
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `sdpd startup succeeded`
+Log template: `sdpd startup succeeded`
+Log message: `rpc.statd startup succeeded`
+Log template: `<*> startup succeeded`
+Log message: `rpc.idmapd startup succeeded`
+Log template: `<*> startup succeeded`
+`rpc.idmapd startup succeeded`

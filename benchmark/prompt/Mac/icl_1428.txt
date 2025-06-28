@@ -1,0 +1,11 @@
+Log message: `Bluetooth -- LE is supported - Disable LE meta event`
+Log template: `Bluetooth -- LE is supported - Disable LE meta event`
+Log message: `no sleep images for WillPowerOffWithImages`
+Log template: `no sleep images for WillPowerOffWithImages`
+Log message: `Error in CoreDragRemoveTrackingHandler: -1856`
+Log template: `Error in CoreDragRemoveTrackingHandler: <*>`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)`
+Log template: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)`
+`CFNetwork SSLHandshake failed (-9802)`

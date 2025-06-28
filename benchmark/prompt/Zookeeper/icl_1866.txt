@@ -1,0 +1,11 @@
+Log message: `Received connection request /10.10.34.13:33165`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.13:45053`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.12:50526`
+Log template: `Received connection request <*>`
+Log message: `Received connection request /10.10.34.12:51050`
+Log template: `Received connection request <*>`
+Log message: `Closed socket connection for client /10.10.34.11:56471 (no session established for client)`
+Log template: `Closed socket connection for client <*> (no session established for client)`
+`Received connection request /10.10.34.12:34051`

@@ -1,0 +1,11 @@
+Log message: `CPU: L1 I cache: 16K, L1 D cache: 16K`
+Log template: `CPU: <*> I cache: <*>, <*> D cache: <*>`
+Log message: `CPU 0 irqstacks, hard=02345000 soft=02344000`
+Log template: `CPU <*> irqstacks, hard=<*> soft=<*>`
+Log message: `kernel.core_uses_pid = 1`
+Log template: `<*> = <*>`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+`Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`

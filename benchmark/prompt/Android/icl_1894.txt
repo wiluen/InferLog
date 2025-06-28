@@ -1,0 +1,11 @@
+Log message: `ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0`
+Log template: `ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>`
+Log message: `handleTimeUpdate`
+Log template: `handleTimeUpdate`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `cleanUpApplicationRecordLocked, pid: 12025, restart: false`
+Log template: `cleanUpApplicationRecordLocked, pid: <*>, restart: <*>`
+Log message: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0`
+Log template: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>`
+`setWiredDeviceConnectionState  type: 4  state: 0`

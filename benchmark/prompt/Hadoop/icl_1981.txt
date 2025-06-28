@@ -1,0 +1,11 @@
+Log message: `Instantiated MRClientService at MININT-FNANLI5.fareast.corp.microsoft.com/10.86.169.121:62260`
+Log template: `Instantiated MRClientService at MININT-<*>`
+Log message: `Recalculating schedule, headroom=<memory:3072, vCores:-24>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+Log message: `Recalculating schedule, headroom=<memory:5120, vCores:-22>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+Log message: `2 failures on node MININT-FNANLI5.fareast.corp.microsoft.com`
+Log template: `<*> failures on node MININT-<*>`
+Log message: `1 failures on node MININT-FNANLI5.fareast.corp.microsoft.com`
+Log template: `<*> failures on node MININT-<*>`
+`1 failures on node MININT-FNANLI5.fareast.corp.microsoft.com`

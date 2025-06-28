@@ -1,0 +1,11 @@
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `efi pagecount 72`
+Log template: `efi pagecount <*>`
+Log message: `(ImportBailout.Error:1331) Asked to exit for Diskarb`
+Log template: `(ImportBailout.Error:<*>) Asked to exit for Diskarb`
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `nw_nat64_post_new_ifstate successfully changed NAT64 ifstate from 0x4 to 0x8000000000000000`
+Log template: `<*> successfully changed NAT64 ifstate from <*> to <*>`
+`en0: Supported channels 1 2 3 4 5 6 7 8 9 10 11 12 13 36 40 44 48 52 56 60 64 100 104 108 112 116 120 124 128 132 136 140 144 149 153 157 161 165`

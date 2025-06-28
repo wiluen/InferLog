@@ -1,0 +1,11 @@
+Log message: `onNotificationVisibilityChanged called`
+Log template: `onNotificationVisibilityChanged called`
+Log message: `registerCallback not in UI.`
+Log template: `registerCallback not in UI.`
+Log message: `updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0`
+Log template: `updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>`
+Log message: `state.clipTopAmount:197, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `ActivityManagerService,attachApplication,callingPid = 12787`
+Log template: `ActivityManagerService,attachApplication,callingPid = <*>`
+`cancelNotification,index:-1`

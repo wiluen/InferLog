@@ -1,0 +1,11 @@
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2d17980>:    NC Disabled: NO`
+Log template: `<IMMacNotificationCenterManager: <*>: NC Disabled: NO`
+Log message: `com.apple.Safari.SafeBrowsing.Update: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for 258 seconds.  Ignoring.`
+Log template: `com.apple.<*>: scheduler_evaluate_activity told me to run this job; however, but the start time isn't for <*> seconds. Ignoring.`
+Log message: `Peripheral manager is not powered on`
+Log template: `Peripheral manager is not powered on`
+`17:13:03.545 : Starting AirDrop server for user 501 on wake`

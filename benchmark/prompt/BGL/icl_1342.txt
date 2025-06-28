@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /home/spelce1/HPCC_IBM/Urgent/Gunnels/VNM64/vnm.rts: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Error loading /p/gb1/stella/SPPM/1322/sppm_DD: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Error loading /g/g0/spelce1/Tuned/SPaSM-base/rundir/SPaSM.baseline: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+`ciod: Error loading /bgl/apps/followup/SPASM/spasm.254: invalid or missing program image, Permission denied`

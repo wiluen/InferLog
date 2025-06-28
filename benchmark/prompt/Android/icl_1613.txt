@@ -1,0 +1,11 @@
+Log message: `release:lock=62617001, flg=0x0, tag="WindowManager", name=android", ws=WorkSource{10113}, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `release:lock=264232593, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `getMode...`
+Log template: `getMode...`
+Log message: `getStreamVolume  treamType: 5`
+Log template: `getStreamVolume treamType: <*>`
+Log message: `Releasing suspend blocker "PowerManagerService.WakeLocks".`
+Log template: `Releasing suspend blocker "PowerManagerService.WakeLocks".`
+`release:lock=173466309, flg=0x0, tag="AudioMix", name=audioserver", ws=null, uid=1041, pid=0`

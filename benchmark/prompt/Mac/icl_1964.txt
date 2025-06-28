@@ -1,0 +1,11 @@
+Log message: `efi pagecount 72`
+Log template: `efi pagecount <*>`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `CCDataTap::profileRemoved, Owner: com.apple.driver.AirPort.Brcm4360.0, Name: StateSnapshots`
+Log template: `CCDataTap::profileRemoved, Owner: <*>, Name: <*>`
+`(DiskStore.Normal:2382) 20cb04f 1.000086`

@@ -1,0 +1,11 @@
+Log message: `KeychainGetICDPStatus: status: off`
+Log template: `KeychainGetICDPStatus: status: off`
+Log message: `Unexpected payload found for message 9, dataLen 0`
+Log template: `Unexpected payload found for message <*>, dataLen <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `AppleCamIn::handleWakeEvent_gated`
+Log template: `AppleCamIn::handleWakeEvent_gated`
+Log message: `[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000`
+Log template: `[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- <*>`
+`handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`

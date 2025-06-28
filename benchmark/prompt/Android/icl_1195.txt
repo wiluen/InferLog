@@ -1,0 +1,11 @@
+Log message: `getRingtonePlayer...`
+Log template: `getRingtonePlayer...`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `onTouchEvent::0, x=271.0, y=14.0`
+Log template: `onTouchEvent::<*>, x=<*>, y=<*>`
+Log message: `cancelAutohide`
+Log template: `cancelAutohide`
+Log message: `Bad activity token: android.os.BinderProxy@2bd79ce`
+Log template: `Bad activity token: <*>@<*>`
+`suspendAutohide`

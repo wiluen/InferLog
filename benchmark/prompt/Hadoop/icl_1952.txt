@@ -1,0 +1,11 @@
+Log message: `attempt_1445144423722_0020_r_000000_0 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `job_1445144423722_0020Job Transitioned from SETUP to RUNNING`
+Log template: `<*> Transitioned from SETUP to RUNNING`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.5806522`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Cannot assign container Container: [ContainerId: container_1445144423722_0020_01_000012, NodeId: MSRA-SA-39.fareast.corp.microsoft.com:28345, NodeHttpAddress: MSRA-SA-39.fareast.corp.microsoft.com:8042, Resource: <memory:1024, vCores:1>, Priority: 20, Token: Token { kind: ContainerToken, service: 172.22.149.145:28345 }, ] for a map as either  container memory less than required <memory:1024, vCores:1> or no pending map tasks - maps.isEmpty=true`
+Log template: `Cannot assign container Container: [ContainerId: <*>, NodeId: <*>, NodeHttpAddress: <*>, Resource: <memory:<*>, vCores:<*>, Priority: <*>, Token: Token { kind: ContainerToken, service: <*> }, ] for a map as either container memory less than required <memory:<*>, vCores:<*> or no pending map tasks - maps.isEmpty=<*>`
+Log message: `Num completed Tasks: 1`
+Log template: `Num completed Tasks: <*>`
+`task_1445144423722_0020_m_000003 Task Transitioned from RUNNING to SUCCEEDED`

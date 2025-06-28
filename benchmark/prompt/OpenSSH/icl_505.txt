@@ -1,0 +1,11 @@
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=5.36.59.76.dynamic-dsl-ip.omantel.net.om  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `Invalid user butter from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for root from 183.62.140.253 port 55577 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 183.62.140.253 port 34849 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for root from 183.62.140.253 port 35525 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`Failed password for root from 187.141.143.180 port 55849 ssh2`

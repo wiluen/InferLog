@@ -1,0 +1,11 @@
+Log message: `Verification succeeded for blk_774612454978154966`
+Log template: `Verification succeeded for <*>`
+Log message: `Verification succeeded for blk_1649162819905816843`
+Log template: `Verification succeeded for <*>`
+Log message: `Verification succeeded for blk_3894335463008345041`
+Log template: `Verification succeeded for <*>`
+Log message: `Verification succeeded for blk_-8050165297538775793`
+Log template: `Verification succeeded for <*>`
+Log message: `Verification succeeded for blk_1584196996810164915`
+Log template: `Verification succeeded for <*>`
+`Verification succeeded for blk_1150231966878829887`

@@ -1,0 +1,11 @@
+Log message: `isWiredHeadsetOn...`
+Log template: `isWiredHeadsetOn...`
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>`
+Log message: `Bad activity token: android.os.BinderProxy@2bd79ce`
+Log template: `Bad activity token: <*>@<*>`
+Log message: `suspendAutohide`
+Log template: `suspendAutohide`
+Log message: `getRingtonePlayer...`
+Log template: `getRingtonePlayer...`
+`Acquiring suspend blocker "PowerManagerService.WakeLocks".`

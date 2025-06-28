@@ -1,0 +1,11 @@
+Log message: `c.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `cnzz.mmstat.com:80 close, 686 bytes sent, 579 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `xin.4399.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `hpd.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+`c.cnzz.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`

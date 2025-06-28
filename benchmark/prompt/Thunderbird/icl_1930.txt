@@ -1,0 +1,11 @@
+Log message: `passed.`
+Log template: `passed.`
+Log message: `Trace cache: 12K uops, L1 D cache: 16K`
+Log template: `Trace cache: <*> uops, L1 D cache: <*>`
+Log message: `Cannot open file /dev/logsurfer for writing (No such file or directory)`
+Log template: `Cannot open file <*> for writing (No such file or directory)`
+Log message: `asking for cache data failed`
+Log template: `asking for cache data failed`
+Log message: `assuming drive cache: write through`
+Log template: `assuming drive cache: write through`
+`assuming drive cache: write through`

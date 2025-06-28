@@ -1,0 +1,11 @@
+Log message: `Using ACPI for IRQ routing`
+Log template: `Using ACPI for IRQ routing`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)`
+Log message: `IRQ0 used by override.`
+Log template: `<*> used by override.`
+Log message: `IRQ9 used by override.`
+Log template: `<*> used by override.`
+`IRQ9 used by override.`

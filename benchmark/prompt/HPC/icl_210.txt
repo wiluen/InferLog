@@ -1,0 +1,11 @@
+Log message: `link errors remain current`
+Log template: `link errors remain current`
+Log message: `NIFF: node node-69 detected a failed network connection on network 5.5.224.0 via interface alt0`
+Log template: `NIFF: node <*> detected a failed network connection on network <*> via interface alt0`
+Log message: `NIFF: node node-162 detected a failed network connection on network 5.5.224.0 via interface alt0`
+Log template: `NIFF: node <*> detected a failed network connection on network <*> via interface alt0`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `Link error on broadcast tree Interconnect-1T00:00:3:6`
+Log template: `Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>`
+`Link error on broadcast tree Interconnect-0T00:00:2:1`

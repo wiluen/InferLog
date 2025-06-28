@@ -1,0 +1,11 @@
+Log message: `v2.0:USB HID core driver`
+Log template: `<*>:USB HID core driver`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `no floppy controllers found`
+Log template: `no floppy controllers found`
+Log message: `PS/2 mouse device common for all mice`
+Log template: `PS/<*> mouse device common for all mice`
+`PS/2 mouse device common for all mice`

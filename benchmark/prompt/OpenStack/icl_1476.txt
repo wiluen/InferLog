@@ -1,0 +1,11 @@
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] VM Started (Lifecycle Event)`
+Log template: `[instance: <*>] VM Started (Lifecycle Event)`
+Log message: `Creating event network-vif-plugged:1bb8c7a3-effa-4568-8cf7-2b9a55011df9 for instance 70c1714b-c11b-4c88-b300-239afe1f5ff8`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `While synchronizing instance power states, found 1 instances in the database and 0 instances on the hypervisor.`
+Log template: `While synchronizing instance power states, found <*> instances in the database and <*> instances on the hypervisor.`
+Log message: `[instance: 127e769a-4fe6-4548-93b1-513ac51e0452] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: ae3a1b5d-eec1-45bb-b76a-c59d83b1471f] VM Stopped (Lifecycle Event)`
+Log template: `[instance: <*>] VM Stopped (Lifecycle Event)`
+`[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Creating image`

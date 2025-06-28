@@ -1,0 +1,11 @@
+Log message: `avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `m.simba.taobao.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:26`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `hpd.baidu.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `xin.4399.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `rm.api.weibo.com:80 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+`news.sina.com.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`

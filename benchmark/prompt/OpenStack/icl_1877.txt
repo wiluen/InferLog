@@ -1,0 +1,11 @@
+Log message: `Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `10.11.21.132,10.11.10.1 "GET /openstack/2013-10-17/meta_data.json HTTP/1.1" status: 200 len: 967 time: 0.0009539`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `Final resource view: name=cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us phys_ram=64172MB used_ram=2560MB phys_disk=15GB used_disk=20GB total_vcpus=16 used_vcpus=1 pci_stats=[]`
+Log template: `Final resource view: name=<*> phys_ram=<*> used_ram=<*> phys_disk=<*> used_disk=<*> total_vcpus=<*> used_vcpus=<*> pci_stats=[]`
+Log message: `image 0673dd71-34c5-4fbb-86c4-40623fbe45b4 at (/var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742): in use: on this node 1 local, 0 on other nodes sharing this instance storage`
+Log template: `image <*> at (<*>): in use: on this node <*> local, <*> on other nodes sharing this instance storage`
+Log message: `Removing base or swap file: /var/lib/nova/instances/_base/a489c868f0c37da93b76227c91bb03908ac0e742`
+Log template: `Removing base or swap file: <*>`
+`Creating event network-vif-plugged:98dbd0a6-013e-4cd9-9986-fa32e5d6dd32 for instance ae3a1b5d-eec1-45bb-b76a-c59d83b1471f`

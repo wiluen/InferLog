@@ -1,0 +1,11 @@
+Log message: `session opened for user root by LOGIN(uid=0)`
+Log template: `session opened for user <*> by LOGIN(uid=<*>)`
+Log message: `Intel machine check reporting enabled on CPU#0.`
+Log template: `Intel machine check reporting enabled on <*>.`
+Log message: `CPU: L1 I cache: 16K, L1 D cache: 16K`
+Log template: `CPU: <*> I cache: <*>, <*> D cache: <*>`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+`Detected 731.219 MHz processor.`

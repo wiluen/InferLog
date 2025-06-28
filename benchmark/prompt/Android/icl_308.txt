@@ -1,0 +1,11 @@
+Log message: `isMusicActive...`
+Log template: `isMusicActive...`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `handleTimeUpdate`
+Log template: `handleTimeUpdate`
+Log message: `ready=true,policy=3,wakefulness=1,wksummary=0x0,uasummary=0x1,bootcompleted=true,boostinprogress=false,waitmodeenable=false,mode=false,manual=38,auto=-1,adj=0.0userId=0`
+Log template: `ready=<*>,policy=<*>,wakefulness=<*>,wksummary=<*>,uasummary=<*>,bootcompleted=<*>,boostinprogress=<*>,waitmodeenable=<*>,mode=<*>,manual=<*>,auto=<*>,adj=<*>.0userId=<*>`
+Log message: `HBM brightnessIn =38`
+Log template: `HBM brightnessIn =<*>`
+`getLastAudibleStreamVolume  treamType: 5`

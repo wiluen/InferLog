@@ -1,0 +1,11 @@
+Log message: `2017-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.`
+Log template: `<*> ksfetch[<*>] [lvl=<*>] KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `Page bounds {{0, 0} {400, 400}}`
+Log template: `Page bounds {{<*>, <*>} {<*>, <*>}}`
+Log message: `Location icon should now be in state 'Inactive'`
+Log template: `Location icon should now be in state 'Inactive'`
+`2017-07-06 00:30:37.064 ksfetch[36439/0x7fff79824000] [lvl=2] main() Fetcher is exiting.`

@@ -1,0 +1,11 @@
+Log message: `job_1445144423722_0020Job Transitioned from NEW to INITED`
+Log template: `<*> Transitioned from NEW to INITED`
+Log message: `Adding job token for job_1445144423722_0020 to jobTokenSecretManager`
+Log template: `Adding job token for <*> to jobTokenSecretManager`
+Log message: `Input size for job job_1445144423722_0020 = 1256521728. Number of splits = 10`
+Log template: `Input size for job <*> = <*>. Number of splits = <*>`
+Log message: `JOB_CREATE job_1445144423722_0020`
+Log template: `JOB_CREATE <*>`
+Log message: `Number of reduces for job job_1445144423722_0020 = 1`
+Log template: `Number of reduces for job <*> = <*>`
+`Number of reduces for job job_1445144423722_0020 = 1`

@@ -1,0 +1,11 @@
+Log message: `Starting ts_fixup: succeeded`
+Log template: `Starting ts_fixup: succeeded`
+Log message: `Now running on #29#'s privileges.`
+Log template: `Now running on <*>'s privileges.`
+Log message: `xinetd startup succeeded`
+Log template: `xinetd startup succeeded`
+Log message: `passed.`
+Log template: `passed.`
+Log message: `succeeded`
+Log template: `succeeded`
+`succeeded`

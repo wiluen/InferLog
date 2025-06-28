@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 83.116.207.11 (aml-sfh-3310b.adsl.wanadoo.nl) at Sun Jul 17 06:14:36 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `connection from 217.187.83.139 () at Sun Jul 10 03:55:15 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:03:00 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:17 2005`
+Log template: `connection from <*> (<*>) at <*>`
+`connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 14:02:49 2005`

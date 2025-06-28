@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+Log message: `HighMem zone: 0 pages, LIFO batch:1`
+Log template: `HighMem zone: <*> pages, LIFO batch:<*>`
+Log message: `126MB LOWMEM available.`
+Log template: `<*> LOWMEM available.`
+Log message: `0MB HIGHMEM available.`
+Log template: `<*> HIGHMEM available.`
+`0MB HIGHMEM available.`

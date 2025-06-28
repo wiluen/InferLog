@@ -1,0 +1,11 @@
+Log message: `SQM: Requesting upload of all unsent reports.`
+Log template: `SQM: Requesting upload of all unsent reports.`
+Log message: `SQM: Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*> - E_FAIL]`
+Log message: `SQM: Failed to start standard sample upload. [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Failed to start standard sample upload. [HRESULT = <*> - E_FAIL]`
+Log message: `SQM: Queued 0 file(s) for upload with pattern: C:\Windows\servicing\sqm\*_all.sqm, flags: 0x6`
+Log template: `SQM: Queued <*> file(s) for upload with pattern: <*>, flags: <*>`
+Log message: `SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Failed to start upload with file pattern: <*>, flags: <*> [HRESULT = <*> - E_FAIL]`
+`SQM: Failed to start upload with file pattern: C:\Windows\servicing\sqm\*_std.sqm, flags: 0x2 [HRESULT = 0x80004005 - E_FAIL]`

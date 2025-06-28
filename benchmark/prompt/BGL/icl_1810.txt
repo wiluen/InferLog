@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /bgl/apps/scaletest/stability/MDCASK/WORK/65576/inferno: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: LOGIN chdir(/g/g0/spelce1/Linpack_SWL) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: pollControlDescriptors: Detected the debugger died.`
+Log template: `ciod: pollControlDescriptors: Detected the debugger died.`
+Log message: `ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+`ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory`

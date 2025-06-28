@@ -1,0 +1,11 @@
+Log message: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log template: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log message: `Got an XPC error: Connection invalid`
+Log template: `Got an XPC error: Connection invalid`
+Log message: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log template: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log message: `Path not allowed in target domain: type = pid, path = /System/Library/StagedFrameworks/Safari/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.History.xpc/Contents/MacOS/com.apple.Safari.History error = 147: The specified service did not ship in the requestor's bundle, origin = /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc`
+Log template: `Path not allowed in target domain: type = pid, path = <*> error = <*>: The specified service did not ship in the requestor's bundle, origin = <*>`
+Log message: `[11:34:44.290] itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2092`
+Log template: `[<*>] itemasync_CopyProperty signalled err=<*> (kFigBaseObjectError_Invalidated) (invalidated) at <*> line <*>`
+`[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`

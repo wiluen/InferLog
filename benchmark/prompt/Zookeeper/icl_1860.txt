@@ -1,0 +1,11 @@
+Log message: `Getting a snapshot from leader`
+Log template: `Getting a snapshot from leader`
+Log message: `minSessionTimeout set to -1`
+Log template: `minSessionTimeout set to <*>`
+Log message: `maxSessionTimeout set to -1`
+Log template: `maxSessionTimeout set to <*>`
+Log message: `autopurge.purgeInterval set to 0`
+Log template: `autopurge.purgeInterval set to <*>`
+Log message: `Revalidating client: 0x14f05578bd80018`
+Log template: `Revalidating client: <*>`
+`autopurge.snapRetainCount set to 3`

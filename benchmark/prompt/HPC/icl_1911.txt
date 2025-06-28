@@ -1,0 +1,11 @@
+Log message: `ClusterFileSystem: ServerFileSystem domain root_domain is no longer served by node node-128`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain cluster_var_backup is no longer served by node node-224`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain sc_cluster_backup is no longer served by node node-0`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain root1_domain_backup is no longer served by node node-96`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+`ClusterFileSystem: ServerFileSystem domain cluster_root_backup is no longer served by node node-96`

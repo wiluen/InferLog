@@ -1,0 +1,11 @@
+Log message: `bulkSaveDetailHiHealthData() size = 4,totalTime = 30`
+Log template: `bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>`
+Log message: `onReceive action: android.intent.action.SCREEN_ON`
+Log template: `onReceive action: android.intent.action.SCREEN_ON`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0`
+Log template: `checkFirstSyncByType no such data in db ,type is <*> deviceCode is <*>`
+Log message: `needAutoSync autoSyncSwitch is open`
+Log template: `needAutoSync autoSyncSwitch is open`
+`startSync hiSyncOption = HiSyncOption{syncAction=1, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1`

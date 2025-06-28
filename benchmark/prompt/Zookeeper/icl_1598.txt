@@ -1,0 +1,11 @@
+Log message: `Received connection request /10.10.34.12:56057`
+Log template: `Received connection request <*>`
+Log message: `Interrupted while waiting for message on queue`
+Log template: `Interrupted while waiting for message on queue`
+Log message: `Sending DIFF`
+Log template: `Sending DIFF`
+Log message: `Received connection request /10.10.34.11:45440`
+Log template: `Received connection request <*>`
+Log message: `Send worker leaving thread`
+Log template: `Send worker leaving thread`
+`Send worker leaving thread`

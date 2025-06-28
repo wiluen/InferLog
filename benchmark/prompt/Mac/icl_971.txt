@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log template: `ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `objc[35391]: Class TSUAtomicLRUCache is implemented in both /Library/QuickLook/iWork.qlgenerator/Contents/MacOS/iWork and /System/Library/PrivateFrameworks/OfficeImport.framework/Versions/A/OfficeImport. One of the two will be used. Which one is undefined.`
+Log template: `objc[<*>]: Class TSUAtomicLRUCache is implemented in both <*> and <*> One of the two will be used. Which one is undefined.`
+`Cocoa scripting error for '0x007c000c': four character codes must be four characters long.`

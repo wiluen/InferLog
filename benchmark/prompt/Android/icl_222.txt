@@ -1,0 +1,11 @@
+Log message: `START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.example.android.notepad/.NotePadActivity bnds=[8,820][184,1011]} from uid 10057 on display 0`
+Log template: `START u0 {act=<*> cat=[<*>] flg=<*> cmp=<*> bnds=<*>} from uid <*> on display <*>`
+Log message: `Application requested orientation -1, got rotation 0 which has compatible metrics`
+Log template: `Application requested orientation <*>, got rotation <*> which has compatible metrics`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `getDevicesForStream  streamType: 3`
+Log template: `getDevicesForStream streamType: <*>`
+`cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =122`

@@ -1,0 +1,11 @@
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+Log message: `Got an XPC error: Connection invalid`
+Log template: `Got an XPC error: Connection invalid`
+Log message: `ARPT: 683604.474196: IOPMPowerSource Information: onSleep,  SleepType: Standby,  'ExternalConnected': No, 'TimeRemaining': 578,`
+Log template: `ARPT: <*>: IOPMPowerSource Information: onSleep, SleepType: Standby, 'ExternalConnected': No, 'TimeRemaining': <*>,`
+Log message: `in6_unlink_ifa: IPv6 address 0x77c9114551ab23ab has no prefix`
+Log template: `<*>: IPv6 address <*> has no prefix`
+`[IOBluetoothFamily][staticBluetoothTransportShowsUp] -- Received Bluetooth Controller register service notification -- 0x7000`

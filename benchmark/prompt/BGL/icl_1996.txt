@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /p/gb1/stella/UMT2K/1369/umt2k_DD: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Error loading /bgl/apps/SWL/stability/MDCASK/WORK/1383/inferno: invalid or missing program image, Permission denied`
+Log template: `ciod: Error loading <*>: invalid or missing program image, Permission denied`
+Log message: `ciod: Missing or invalid fields on line 1 of node map file /home/auselton/bgl/mapfiles/bgl.128mps.f64.map`
+Log template: `ciod: Missing or invalid fields on line <*> of node map file <*>`
+Log message: `ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160`
+Log template: `ciod: Error loading <*>: program image too big, <*> > <*>`
+`ciod: Error loading /g/g24/buber/Yunsic/BlueGene/partad.develf/taddriver.32.exe: program image too big, 361544528 > 266076160`

@@ -1,0 +1,11 @@
+Log message: `insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = 4,errorMessage = ERR_DATA_INSERT`
+Log template: `insertHiHealthData() bulkSaveDetailHiHealthData fail errorCode = <*>,errorMessage = ERR_DATA_INSERT`
+Log message: `new date =20171223, type=40005,330.0,old=330.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `uploadStaticsToDB failed message=true`
+Log template: `uploadStaticsToDB failed message=<*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `getTodayTotalDetailSteps = 1514045400000##0##549659##8661##16256##34160765`
+Log template: `getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>`
+`deleteHealthNotification()`

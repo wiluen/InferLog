@@ -1,0 +1,11 @@
+Log message: `Finished task 0.0 in stage 9.0 (TID 360). 2239 bytes result sent to driver`
+Log template: `Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver`
+Log message: `Finished task 0.0 in stage 11.0 (TID 450). 2667 bytes result sent to driver`
+Log template: `Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver`
+Log message: `Finished task 26.0 in stage 26.0 (TID 1226). 2705 bytes result sent to driver`
+Log template: `Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver`
+Log message: `Finished task 0.0 in stage 23.0 (TID 926). 2211 bytes result sent to driver`
+Log template: `Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver`
+Log message: `Finished task 2.0 in stage 28.0 (TID 1282). 2087 bytes result sent to driver`
+Log template: `Finished task <*> in stage <*> (TID <*>). <*> bytes result sent to driver`
+`Finished task 3.0 in stage 24.0 (TID 1012). 2364 bytes result sent to driver`

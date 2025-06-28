@@ -1,0 +1,11 @@
+Log message: `Got assigned task 1`
+Log template: `Got assigned task <*>`
+Log message: `Starting remoting`
+Log template: `Starting remoting`
+Log message: `Successfully registered with driver`
+Log template: `Successfully registered with driver`
+Log message: `Server created on 40984`
+Log template: `Server created on <*>`
+Log message: `Slf4jLogger started`
+Log template: `Slf4jLogger started`
+`Slf4jLogger started`

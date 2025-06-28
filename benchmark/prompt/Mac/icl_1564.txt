@@ -1,0 +1,11 @@
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)`
+Log template: `mDNS_RegisterInterface: Frequent transitions for interface en0 (<*>)`
+Log message: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log template: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log message: `USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3`
+Log template: `USBMSC Identifier (non-unique): <*>`
+`IO80211AWDLPeerManager::setAwdlOperatingMode Setting the AWDL operation mode from AUTO to SUSPENDED`

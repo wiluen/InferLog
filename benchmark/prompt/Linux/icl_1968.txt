@@ -1,0 +1,11 @@
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `ACPI: Interpreter disabled.`
+Log template: `ACPI: Interpreter disabled.`
+Log message: `PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1`
+Log template: `PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>`
+Log message: `ACPI disabled because your bios is from 2000 and too old`
+Log template: `ACPI disabled because your bios is from <*> and too old`
+Log message: `ACPI: Subsystem revision 20040326`
+Log template: `ACPI: Subsystem revision <*>`
+`ACPI: Subsystem revision 20040326`

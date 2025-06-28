@@ -1,0 +1,11 @@
+Log message: `Received disconnect from 187.141.143.180: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `Invalid user monitor from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for invalid user anonymous from 103.99.0.122 port 54051 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Failed password for invalid user test from 52.80.34.196 port 36060 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `input_userauth_request: invalid user deploy [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+`Invalid user support from 103.99.0.122`

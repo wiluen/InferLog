@@ -1,0 +1,11 @@
+Log message: `Web app /mapreduce started at 62267`
+Log template: `Web app <*> started at <*>`
+Log message: `Starting Socket Reader #1 for port 62270`
+Log template: `Starting Socket Reader #<*> for port <*>`
+Log message: `Starting Socket Reader #1 for port 62260`
+Log template: `Starting Socket Reader #<*> for port <*>`
+Log message: `jetty-6.1.26`
+Log template: `jetty-<*>`
+Log message: `Jetty bound to port 62267`
+Log template: `Jetty bound to port <*>`
+`Jetty bound to port 62267`

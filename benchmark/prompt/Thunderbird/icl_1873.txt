@@ -1,0 +1,11 @@
+Log message: `PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)`
+Log message: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.`
+Log message: `PCI Root Bridge [PCI0] (00:00)`
+Log template: `PCI <*> Bridge [PCI0] (<*>)`
+Log message: `Probing PCI hardware (bus 00)`
+Log template: `Probing PCI hardware (bus <*>)`
+Log message: `PCI Hot Plug PCI Core version: 0.5`
+Log template: `PCI Hot Plug PCI Core version: <*>`
+`PCI Hot Plug PCI Core version: 0.5`

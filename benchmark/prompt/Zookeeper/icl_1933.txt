@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.34:56149`
+Log template: `Accepted socket connection from <*>`
+Log message: `Notification time out: 60000`
+Log template: `Notification time out: <*>`
+Log message: `Accepted socket connection from /10.10.34.39:51758`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.23:51828`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.25:44785`
+Log template: `Accepted socket connection from <*>`
+`Accepted socket connection from /10.10.34.25:44785`

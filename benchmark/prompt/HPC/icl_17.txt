@@ -1,0 +1,11 @@
+Log message: `wait  (command 2347)`
+Log template: `wait (command <*>)`
+Log message: `wait  (command 2270)`
+Log template: `wait (command <*>)`
+Log message: `wait  (command 2449)`
+Log template: `wait (command <*>)`
+Log message: `wait  (command 2057)`
+Log template: `wait (command <*>)`
+Log message: `wait  (command 2354)`
+Log template: `wait (command <*>)`
+`wait  (command 2189)`

@@ -1,0 +1,11 @@
+Log message: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`
+Log template: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>`
+Log message: `ARPT: 699244.827573: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq 2935131210, Ack 3049709979, Win size 278`
+Log template: `ARPT: <*>: wl0: wl_update_tcpkeep_seq: Updated seq/ack/win from UserClient Seq <*>, Ack <*>, Win size <*>`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `08:21:18.004 : Discoverable mode changed to Off`
+Log template: `<*> : Discoverable mode changed to Off`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+`[11:58:36.563] itemasync_CopyProperty signalled err=-12785 (kFigBaseObjectError_Invalidated) (invalidated) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/Player/FigPlayer_Async.c line 2092`

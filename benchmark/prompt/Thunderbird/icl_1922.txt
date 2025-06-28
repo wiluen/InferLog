@@ -1,0 +1,11 @@
+Log message: `Now running on #29#'s privileges.`
+Log template: `Now running on <*>'s privileges.`
+Log message: `syslog-ng startup succeeded`
+Log template: `syslog-ng startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `xinetd startup succeeded`
+Log template: `xinetd startup succeeded`
+Log message: `rpc.statd startup succeeded`
+Log template: `rpc.statd startup succeeded`
+`rpc.statd startup succeeded`

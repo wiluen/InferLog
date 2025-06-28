@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3764`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3745`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3786`
+Log template: `onStandStepChanged <*>`
+Log message: `calculateCaloriesWithCache totalCalories=130052`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `REPORT : 7154 5107 153238 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`onStandStepChanged 3712`

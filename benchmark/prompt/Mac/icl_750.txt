@@ -1,0 +1,11 @@
+Log message: `<IMMacNotificationCenterManager: 0x7ff1b2e00ba0>: Updating enabled: YES   (Topics: ( "com.apple.private.alloy.icloudpairing", "com.apple.private.alloy.continuity.encryption", "com.apple.private.alloy.continuity.activity", "com.apple.ess", "com.apple.private.ids", "com.apple.private.alloy.phonecontinuity", "com.apple.madrid", "com.apple.private.ac", "com.apple.private.alloy.phone.auth", "com.apple.private.alloy.keychainsync", "com.apple.private.alloy.fmf", "com.apple.private.alloy.sms", "com.apple.private.alloy.screensharing", "com.apple.private.alloy.maps", "com.apple.private.alloy.thumper.keys", "com.apple.private.alloy.continuity.tethering" ))`
+Log template: `<IMMacNotificationCenterManager: <*>: Updating enabled: YES (Topics: (<*>))`
+Log message: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log template: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log message: `ARPT: 683173.929950: ARPT: Wake Reason: Wake on Scan offload`
+Log template: `ARPT: <*>: ARPT: Wake Reason: Wake on Scan offload`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2`
+Log template: `<*>-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>`
+`__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2`

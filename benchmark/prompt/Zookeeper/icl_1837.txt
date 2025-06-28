@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.11:40061`
+Log template: `Accepted socket connection from <*>`
+Log message: `Server environment:java.home=/usr/lib/jvm/java-7-openjdk-amd64/jre`
+Log template: `Server environment:<*>`
+Log message: `Server environment:os.name=Linux`
+Log template: `Server environment:<*>`
+Log message: `Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running`
+Log template: `Exception causing close of session <*> due to java.io.IOException: ZooKeeperServer not running`
+Log message: `Processed session termination for sessionid: 0x14ede63a5a7003a`
+Log template: `Processed session termination for sessionid: <*>`
+`Server environment:user.dir=/`

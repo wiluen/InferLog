@@ -1,0 +1,11 @@
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `CCFile::captureLogRun Skipping current file Dir file [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng, Current File [2017-07-05_16,05,05.078442]-io80211Family-008.pcapng`
+Log template: `CCFile::captureLogRun Skipping current file Dir file [<*>,<*>,<*>]-<*>, Current File [<*>,<*>,<*>]-<*>`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Previous sleep cause: 5`
+Log template: `Previous sleep cause: <*>`
+Log message: `Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`
+Log template: `Sandbox: <*>(<*>) deny(<*>) file-read-data <*>`
+`hibernate_rebuild completed - took 10042450943433 msecs`

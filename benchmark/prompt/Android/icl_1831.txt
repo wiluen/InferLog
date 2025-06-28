@@ -1,0 +1,11 @@
+Log message: `setSpeakerphoneOn  on: true`
+Log template: `setSpeakerphoneOn on: <*>`
+Log message: `ActivityRecord info: ActivityInfo{d1c8e63 com.tencent.mobileqq.activity.SplashActivity}, euid: 0`
+Log template: `ActivityRecord info: ActivityInfo{<*> <*>}, euid: <*>`
+Log message: `Destroying surface Surface(name=SurfaceView - com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity) called by com.android.server.wm.WindowStateAnimator.destroyDeferredSurfaceLocked:942 com.android.server.wm.WindowManagerService.performDeferredDestroyWindow:3407 com.android.server.wm.Session.performDeferredDestroy:225 android.view.IWindowSession$Stub.onTransact:398 com.android.server.wm.Session.onTransact:136 android.os.Binder.execTransact:565 <bottom of call stack> <bottom of call stack>`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `updateLightsLocked,turn off notificationLight`
+Log template: `updateLightsLocked,turn off notificationLight`
+Log message: `updateDimmedActivatedHideSensitive overlap:true`
+Log template: `updateDimmedActivatedHideSensitive overlap:<*>`
+`java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token`

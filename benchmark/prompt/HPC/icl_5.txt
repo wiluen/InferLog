@@ -1,0 +1,11 @@
+Log message: `ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-0`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `Component State Change: Component \042SCSI-WWID:01000010:6005-08b4-0001-00c6-0006-3000-003d-0000\042 is in the unavailable state (HWID=1973)`
+Log template: `Component State Change: Component <*> is in the unavailable state (HWID=<*>)`
+Log message: `Component State Change: Component \042alt0\042 is in the unavailable state (HWID=5089)`
+Log template: `Component State Change: Component <*> is in the unavailable state (HWID=<*>)`
+`Component State Change: Component \042alt0\042 is in the unavailable state (HWID=3891)`

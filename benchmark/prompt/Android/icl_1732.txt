@@ -1,0 +1,11 @@
+Log message: `onReceive, action:android.intent.action.BATTERY_CHANGED`
+Log template: `onReceive, action:<*>`
+Log message: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }`
+Log template: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `state.clipTopAmount:197, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `sending alarm Alarm{aa90550 type 3 when 509142332 PendingIntent{1749923: PendingIntentRecord{9600e20 android broadcastIntent}}},repeatInterval = 0,listenerTag =time_tick`
+Log template: `sending alarm Alarm{<*> type <*> when <*> PendingIntent{<*>: PendingIntentRecord{<*> android broadcastIntent}}},repeatInterval = <*>,listenerTag =time_tick`
+Log message: `logNotificationVisibilityChanges runInThread over`
+Log template: `logNotificationVisibilityChanges runInThread over`
+`updateNotificationShade: total=1, active=1`

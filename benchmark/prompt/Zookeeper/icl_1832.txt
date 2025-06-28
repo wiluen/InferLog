@@ -1,0 +1,11 @@
+Log message: `Established session 0x34edfaa9c220002 with negotiated timeout 10000 for client /10.10.34.11:53000`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x24ede63a01b002a with negotiated timeout 20000 for client /10.10.34.11:54338`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x34ede65503f002d with negotiated timeout 20000 for client /10.10.34.11:51041`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Closed socket connection for client /10.10.34.11:50940 which had sessionid 0x14ed93111f20099`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Established session 0x14ed93111f20079 with negotiated timeout 20000 for client /10.10.34.11:49800`

@@ -1,0 +1,11 @@
+Log message: `setBasicStandardSteps basicStandardStep=3786 restartSteps=0`
+Log template: `setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>`
+Log message: `setTodayTotalDetailSteps=1514042880000##7214##549659##8661##16256##31588757`
+Log template: `setTodayTotalDetailSteps=<*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `calculateCaloriesWithCache totalCalories=0`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `getDiffTotalSteps= 1513958400215##0`
+Log template: `getDiffTotalSteps= <*>##<*>`
+Log message: `setDiffTotalSteps=0`
+Log template: `setDiffTotalSteps=<*>`
+`setDiffTotalSteps=0`

@@ -1,0 +1,11 @@
+Log message: `calculateCaloriesWithCache totalCalories=130052`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `startTimer start autoSync`
+Log template: `startTimer start autoSync`
+Log message: `onStandStepChanged 3742`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3745`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3751`
+Log template: `onStandStepChanged <*>`
+`onStandStepChanged 3746`

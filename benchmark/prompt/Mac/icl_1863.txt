@@ -1,0 +1,11 @@
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `ARPT: 739295.354731: wl0: Roamed or switched channel, reason #4, bssid f8:4f:57:3b:ea:b2, last RSSI -77`
+Log template: `ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI <*>`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+Log message: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+Log template: `[HID] [MT] MTActuatorManagement::getActuatorRef Calling MTActuatorOpen() outside of MTTrackpadHIDManager.`
+Log message: `tcp_connection_destination_perform_socket_connect 21152 connectx to 203.205.147.206:8080@0 failed: [51] Network is unreachable`
+Log template: `tcp_connection_destination_perform_socket_connect <*> connectx to <*>@<*> failed: [<*>] Network is unreachable`
+`Internal name did not resolve to internal address!`

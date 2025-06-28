@@ -1,0 +1,11 @@
+Log message: `0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.`
+Log template: `<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.`
+Log message: `critical input interrupt (unit=0x0b bit=0x0a): warning for torus z+ wire, suppressing further interrupts of same type`
+Log template: `critical input interrupt (unit=<*> bit=<*>): warning for torus z+ wire, suppressing further interrupts of same type`
+Log message: `critical input interrupt (unit=0x0b bit=0x17): warning for tree C1 wire, suppressing further interrupts of same type`
+Log template: `critical input interrupt (unit=<*> bit=<*>): warning for tree C1 wire, suppressing further interrupts of same type`
+Log message: `critical input interrupt enable...0`
+Log template: `critical input interrupt enable...<*>`
+Log message: `720 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.`
+Log template: `<*> total interrupts. <*> critical input interrupts. <*> microseconds total spent on critical input interrupts, <*> microseconds max time in a critical input interrupt.`
+`10738 total interrupts. 0 critical input interrupts. 0 microseconds total spent on critical input interrupts, 0 microseconds max time in a critical input interrupt.`

@@ -1,0 +1,11 @@
+Log message: `schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>`
+Log template: `schedule invalidation <DYTransport <*>, error: lost transport connection (<*>)>`
+Log message: `hibernate_rebuild started`
+Log template: `hibernate_rebuild started`
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `jemmytest`
+Log template: `jemmytest`
+`tcp_connection_handle_connect_conditions_bad 24150 failed: 3 - No network route`

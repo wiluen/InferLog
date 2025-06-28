@@ -1,0 +1,11 @@
+Log message: `onExtend:1514038756000 6 0 4`
+Log template: `onExtend:<*> <*> <*> <*>`
+Log message: `onStandStepChanged 3726`
+Log template: `onStandStepChanged <*>`
+Log message: `onStandStepChanged 3712`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7198 5139 154181 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7193 5135 154074 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7191 5134 154031 240`

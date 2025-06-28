@@ -1,0 +1,11 @@
+Log message: `Invalid user zhangyan from 183.62.140.253`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user matlab [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user chen from 202.100.179.208`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user cisco [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `input_userauth_request: invalid user magnos [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+`pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=187.141.143.180  user=ftp`

@@ -1,0 +1,11 @@
+Log message: `could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0`
+Log template: `could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>`
+Log message: `DB Error: 1 "no such table: tb_c2cMsg_2909288299"`
+Log template: `DB Error: <*> "no such table: <*>"`
+Log message: `IOHibernatePollerOpen(0)`
+Log template: `IOHibernatePollerOpen(<*>)`
+Log message: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`
+Log template: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>`
+Log message: `en0: channel changed to 6`
+Log template: `en0: channel changed to <*>`
+`USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3`

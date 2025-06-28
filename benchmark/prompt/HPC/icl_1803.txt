@@ -1,0 +1,11 @@
+Log message: `ClusterFileSystem: ServerFileSystem domain root30_domain is no longer served by node node-0`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain root28_domain is no longer served by node node-219`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-11`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `clusterAddMember  (command 1902)`
+Log template: `clusterAddMember (command <*>)`
+Log message: `clusterAddMember  (command 1900)`
+Log template: `clusterAddMember (command <*>)`
+`clusterAddMember  (command 1900)`

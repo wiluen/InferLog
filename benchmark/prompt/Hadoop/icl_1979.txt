@@ -1,0 +1,11 @@
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d`
+Log template: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@<*>`
+`Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d`

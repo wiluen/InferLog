@@ -1,0 +1,11 @@
+Log message: `Closed socket connection for client /10.10.34.11:40581 which had sessionid 0x34ed9ac1c1e0093`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.20:49010 which had sessionid 0x24ede63a01b000e`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.12:59284 which had sessionid 0x34ed9ac1c1e0059`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.13:42060 which had sessionid 0x34edfaa9c22002d`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.11:41160 which had sessionid 0x34ed9ac1c1e00a9`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Closed socket connection for client /10.10.34.11:41160 which had sessionid 0x34ed9ac1c1e00a9`

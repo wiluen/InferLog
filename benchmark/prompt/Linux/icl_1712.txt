@@ -1,0 +1,11 @@
+Log message: `connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=ip-216-69-169-168.ip.secureserver.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `DMI 2.3 present.`
+Log template: `DMI <*> present.`
+Log message: `notify question section contains no SOA`
+Log template: `notify question section contains no SOA`
+`notify question section contains no SOA`

@@ -1,0 +1,11 @@
+Log message: `00000008 CSI Store 4991456 (0x00000000004c29e0) initialized`
+Log template: `<*> CSI Store <*> (<*>) initialized`
+Log message: `00000008@2016/9/28:16:00:46.635 PopulateComponentFamiliesKey - Begin`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> PopulateComponentFamiliesKey - Begin`
+Log message: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log template: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log message: `0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7`
+Log template: `<*> ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=<*> applyflags=<*>`
+Log message: `00000001@2016/9/28:16:00:46.160 WcpInitialize (wcp.dll version 0.0.0.6) called (stack @0x7fed875eb5d @0x7fee5c39b6d @0x7fee5c0358f @0xffeee97c @0xffeed799 @0xffeedb2f)`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> WcpInitialize (wcp.dll version <*>) called (stack @<*>)`
+`Reboot mark refs: 0`

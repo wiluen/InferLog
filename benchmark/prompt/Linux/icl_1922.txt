@@ -1,0 +1,11 @@
+Log message: `Total HugeTLB memory allocated, 0`
+Log template: `Total HugeTLB memory allocated, <*>`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `HighMem zone: 0 pages, LIFO batch:1`
+Log template: `HighMem zone: <*> pages, LIFO batch:<*>`
+Log message: `Normal zone: 28334 pages, LIFO batch:6`
+Log template: `Normal zone: <*> pages, LIFO batch:<*>`
+Log message: `DMA zone: 4096 pages, LIFO batch:1`
+Log template: `DMA zone: <*> pages, LIFO batch:<*>`
+`DMA zone: 4096 pages, LIFO batch:1`

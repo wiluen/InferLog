@@ -1,0 +1,11 @@
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x10804000 cmp=com.android.systemui/.recents.RecentsActivity bnds=[264,444][920,908] }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> bnds=<*> }`
+Log message: `cancelNotificationLocked called,tell the app,reason = 8`
+Log template: `cancelNotificationLocked called,tell the app,reason = <*>`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `onNotificationExpansionChanged called`
+Log template: `onNotificationExpansionChanged called`
+Log message: `getRingerMode...`
+Log template: `getRingerMode...`
+`notifyUiVisibilityChanged:vis=0x40000500, SystemUiVisibility=0x40000500`

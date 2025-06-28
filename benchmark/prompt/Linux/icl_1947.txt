@@ -1,0 +1,11 @@
+Log message: `Intel machine check reporting enabled on CPU#0.`
+Log template: `Intel machine check reporting enabled on <*>.`
+Log message: `connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+Log message: `Failure registering capabilities with the kernel`
+Log template: `Failure registering capabilities with the kernel`
+`Failure registering capabilities with the kernel`

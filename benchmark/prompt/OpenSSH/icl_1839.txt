@@ -1,0 +1,11 @@
+Log message: `Failed password for invalid user dff from 183.62.140.253 port 33902 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Invalid user 0 from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for invalid user default from 5.188.10.180 port 41538 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Received disconnect from 60.2.12.12: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `Failed none for invalid user 0 from 5.188.10.180 port 49811 ssh2`
+Log template: `Failed none for invalid user <*> from <*> port <*> ssh2`
+`Invalid user 0 from 5.188.10.180`

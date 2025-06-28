@@ -1,0 +1,11 @@
+Log message: `Reading included configuration file: /etc/xinetd.d/krb5-telnet [file=/etc/xinetd.d/krb5-telnet] [line=13]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1`
+Log message: `Reading included configuration file: /etc/xinetd.d/tftp [file=/etc/xinetd.d/tftp] [line=13]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Reading included configuration file: /etc/xinetd.d/time [file=/etc/xinetd.d/time] [line=18]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr`
+Log template: `<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>`
+`root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr`

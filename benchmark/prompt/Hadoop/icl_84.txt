@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.19247705`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.5343203`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `getResources() for application_1445144423722_0020: ask=4 release= 0 newContainers=0 finishedContainers=0 resourcelimit=<memory:0, vCores:-27> knownNMs=4`
+Log template: `getResources() for <*>: ask=<*> release= <*> newContainers=<*> finishedContainers=<*> resourcelimit=<memory:<*>, vCores:<*> knownNMs=<*>`
+Log message: `Resolved MININT-FNANLI5.fareast.corp.microsoft.com to /default-rack`
+Log template: `Resolved <*> to <*>`
+Log message: `Recalculating schedule, headroom=<memory:3072, vCores:-24>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+`TaskAttempt: [attempt_1445144423722_0020_m_000002_0] using containerId: [container_1445144423722_0020_01_000004 on NM: [MININT-FNANLI5.fareast.corp.microsoft.com:52368]`

@@ -1,0 +1,11 @@
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `release:lock=233570404, flg=0x0, tag="View Lock", name=com.android.systemui", ws=null, uid=10037, pid=2227`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `The change in focus caused us to need to do a layout end`
+Log template: `The change in focus caused us to need to do a layout end`
+Log message: `rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED`
+Log template: `rotationForOrientationLw(orient=<*>, last=<*>); user=<*> USER_ROTATION_LOCKED`
+`rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED`

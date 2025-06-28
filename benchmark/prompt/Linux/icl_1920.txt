@@ -1,0 +1,11 @@
+Log message: `sdpd startup succeeded`
+Log template: `sdpd startup succeeded`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=n219076184117.netvigator.com  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+`klogd startup succeeded`

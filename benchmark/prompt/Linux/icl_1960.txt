@@ -1,0 +1,11 @@
+Log message: `Linux Plug and Play Support v0.97 (c) Adam Belay`
+Log template: `Linux Plug and Play Support <*> (c) Adam Belay`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `portmap startup succeeded`
+Log template: `portmap startup succeeded`
+Log message: `Enabling fast FPU save and restore... done.`
+Log template: `Enabling fast FPU save and restore... done.`
+Log message: `Enabling unmasked SIMD FPU exception support... done.`
+Log template: `Enabling unmasked SIMD FPU exception support... done.`
+`Enabling unmasked SIMD FPU exception support... done.`

@@ -1,0 +1,11 @@
+Log message: `New election. My id =  1, proposed zxid=0x700000000`
+Log template: `New election. My id = <*>, proposed zxid=<*>`
+Log message: `Server environment:host.name=mesos-master-1`
+Log template: `Server environment:<*>`
+Log message: `Received connection request /10.10.34.11:45440`
+Log template: `Received connection request <*>`
+Log message: `Send worker leaving thread`
+Log template: `Send worker leaving thread`
+Log message: `Sending DIFF`
+Log template: `Sending DIFF`
+`Sending DIFF`

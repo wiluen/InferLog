@@ -1,0 +1,11 @@
+Log message: `HPET (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd81c`
+Log template: `<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>`
+Log message: `MADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd724`
+Log template: `<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>`
+Log message: `FADT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd6b0`
+Log template: `<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>`
+Log message: `DSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000e) @ 0x0000000000000000`
+Log template: `<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>`
+Log message: `RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664`
+Log template: `<*> (v001 DELL PE BKC <*> MSFT <*>) @ <*>`
+`RSDT (v001 DELL PE BKC 0x00000001 MSFT 0x0100000a) @ 0x00000000000fd664`

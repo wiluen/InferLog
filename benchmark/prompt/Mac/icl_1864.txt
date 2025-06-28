@@ -1,0 +1,11 @@
+Log message: `__73-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value 2`
+Log template: `<*>-[NetworkAnalyticsEngine observeValueForKeyPath:ofObject:change:context:]_block_invoke unexpected switch value <*>`
+Log message: `CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats`
+Log template: `CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>`
+Log message: `RTC: PowerByCalendarDate setting ignored`
+Log template: `RTC: PowerByCalendarDate setting ignored`
+Log message: `Failed to stop a scan - central is not powered on: 4`
+Log template: `Failed to stop a scan - central is not powered on: <*>`
+Log message: `ARPT: 683173.929950: ARPT: Wake Reason: Wake on Scan offload`
+Log template: `ARPT: <*>: ARPT: Wake Reason: Wake on Scan offload`
+`Service exited with abnormal code: 1`

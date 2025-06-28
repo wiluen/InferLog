@@ -1,0 +1,11 @@
+Log message: `asking for cache data failed`
+Log template: `asking for cache data failed`
+Log message: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases`
+Log template: `DHCPDISCOVER from <*> via eth1: network A_net: no free leases`
+Log message: `RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)`
+Log template: `RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)`
+Log message: `connection lost: 'Connection closed.'`
+Log template: `connection lost: 'Connection closed.'`
+Log message: `unable to qualify my own domain name (eadmin1) -- using short name`
+Log template: `unable to qualify my own domain name (<*>) -- using short name`
+`data_thread() got not answer from any [Thunderbird_C8] datasource`

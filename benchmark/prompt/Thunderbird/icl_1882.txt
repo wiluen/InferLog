@@ -1,0 +1,11 @@
+Log message: `Initializing.`
+Log template: `Initializing.`
+Log message: `Started working: 1 available service`
+Log template: `Started working: <*> available service`
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+`Using configuration type 1`

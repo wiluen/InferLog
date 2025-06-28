@@ -1,0 +1,11 @@
+Log message: `On node 0 totalpages: 32430`
+Log template: `On node <*> totalpages: <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c9063558.virtua.com.br`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `creating device node '/udev/vcsa2'`
+Log template: `creating device node '<*>'`
+Log message: `removing device node '/udev/vcs2'`
+Log template: `removing device node '<*>'`
+Log message: `creating device node '/udev/vcs2'`
+Log template: `creating device node '<*>'`
+`removing device node '/udev/vcs2'`

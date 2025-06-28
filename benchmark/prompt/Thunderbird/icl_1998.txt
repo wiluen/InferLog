@@ -1,0 +1,11 @@
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `Mounting NFS filesystems: succeeded`
+Log template: `Mounting NFS filesystems: succeeded`
+Log message: `syslog-ng version 1.6.7 starting`
+Log template: `syslog-ng version <*> starting`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `xinetd Version 2.3.13 started with libwrap loadavg options compiled in.`
+Log template: `xinetd Version <*> started with libwrap loadavg options compiled in.`
+`xinetd Version 2.3.13 started with libwrap loadavg options compiled in.`

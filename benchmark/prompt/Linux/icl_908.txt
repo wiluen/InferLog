@@ -1,0 +1,11 @@
+Log message: `connection from 211.107.232.1 () at Sun Jul 24 13:46:34 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=p15105218.pureserver.info  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 208.62.55.75 () at Wed Jun 29 10:48:08 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 81.171.220.226 () at Sat Jul  9 12:59:45 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.167.68.59 () at Sat Jul  9 12:16:52 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 211.57.88.250 () at Sat Jul  9 11:35:59 2005`

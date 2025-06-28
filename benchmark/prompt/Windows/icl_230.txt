@@ -1,0 +1,11 @@
+Log message: `Read out cached package applicability for package: Microsoft-Windows-PlatformUpdate-Win7-SRV08R2-Package-TopLevel~31bf3856ad364e35~amd64~~7.1.7601.16492, ApplicableState: 112, CurrentState:112`
+Log template: `Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>`
+Log message: `Read out cached package applicability for package: Microsoft-Windows-Embedded-EmbeddedLockdown-Package-TopLevel~31bf3856ad364e35~amd64~~7.1.7601.16511, ApplicableState: 112, CurrentState:0`
+Log template: `Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>`
+Log message: `Session: 30546173_4286853838 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]`
+Log template: `Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]`
+Log message: `Failed to get next element [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]`
+Log template: `Failed to get next element [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]`
+`Warning: Unrecognized packageExtended attribute.`

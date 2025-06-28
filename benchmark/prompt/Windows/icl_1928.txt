@@ -1,0 +1,11 @@
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Expecting attribute name [HRESULT = 0x800f080d - CBS_E_MANIFEST_INVALID_ITEM]`
+Log template: `Expecting attribute name [HRESULT = <*> - CBS_E_MANIFEST_INVALID_ITEM]`
+Log message: `Session: 11152_142416105 initialized by client SPP.`
+Log template: `Session: <*> initialized by client SPP.`
+`Offline image is: read-only`

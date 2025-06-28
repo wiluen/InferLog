@@ -1,0 +1,11 @@
+Log message: `program interrupt: imprecise exception......0`
+Log template: `program interrupt: imprecise exception......<*>`
+Log message: `program interrupt: privileged instruction...0`
+Log template: `program interrupt: privileged instruction...<*>`
+Log message: `program interrupt: illegal instruction......1`
+Log template: `program interrupt: illegal instruction......<*>`
+Log message: `program interrupt`
+Log template: `program interrupt`
+Log message: `program interrupt: unimplemented operation..0`
+Log template: `program interrupt: unimplemented operation..<*>`
+`program interrupt: unimplemented operation..0`

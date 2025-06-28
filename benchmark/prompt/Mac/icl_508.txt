@@ -1,0 +1,11 @@
+Log message: `ARPT: 784486.498066: wlc_dump_aggfifo:`
+Log template: `ARPT: <*>: wlc_dump_aggfifo:`
+Log message: `DB Path: /Users/xpc/Library/Containers/com.tencent.qq/Data/Documents/contents/916639562/QQ.db`
+Log template: `DB Path: <*>`
+Log message: `ASSERTION FAILED: dvcAddrRef != ((void *)0) -[DriverServices getDeviceAddress:] line: 2789`
+Log template: `ASSERTION FAILED: dvcAddrRef != ((void *)<*>) -[DriverServices getDeviceAddress:] line: <*>`
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+Log message: `en0: manual intervention required!`
+Log template: `en0: manual intervention required!`
+`CCFile::captureLogRun Skipping current file Dir file [2017-07-03_16,25,27.859687]-CCIOReporter-038.xml, Current File [2017-07-03_16,25,27.859687]-CCIOReporter-038.xml`

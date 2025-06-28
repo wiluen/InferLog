@@ -1,0 +1,11 @@
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+Log message: `17:13:03.545 : Starting AirDrop server for user 501 on wake`
+Log template: `<*> : Starting AirDrop server for user <*> on wake`
+Log message: `Failed to stop a scan - central is not powered on: 4`
+Log template: `Failed to stop a scan - central is not powered on: <*>`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+Log message: `08:21:18.004 : Discoverable mode changed to Off`
+Log template: `<*> : Discoverable mode changed to Off`
+`[20:55:46.310] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92`

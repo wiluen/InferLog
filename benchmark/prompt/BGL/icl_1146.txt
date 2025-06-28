@@ -1,0 +1,11 @@
+Log message: `ciod: generated 64 core files for program /home/spelce1/HPCC_IBM/Urgent/COP/64K/opt_co_dc.rts`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 108 core files for program /home/spelce1/HPCC_IBM/Urgent/VNM/32K/vnm.rts`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+`ciod: generated 64 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm`

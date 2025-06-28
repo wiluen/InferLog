@@ -1,0 +1,11 @@
+Log message: `Deleting block blk_-2445347158368483245 file /mnt/hadoop/dfs/data/current/subdir30/blk_-2445347158368483245`
+Log template: `Deleting block <*> file <*>`
+Log message: `Deleting block blk_-8588908000680498 file /mnt/hadoop/dfs/data/current/subdir21/blk_-8588908000680498`
+Log template: `Deleting block <*> file <*>`
+Log message: `Deleting block blk_-8167717961644709843 file /mnt/hadoop/dfs/data/current/blk_-8167717961644709843`
+Log template: `Deleting block <*> file <*>`
+Log message: `Deleting block blk_7985460426680885040 file /mnt/hadoop/dfs/data/current/blk_7985460426680885040`
+Log template: `Deleting block <*> file <*>`
+Log message: `Deleting block blk_-1368324087589035770 file /mnt/hadoop/dfs/data/current/blk_-1368324087589035770`
+Log template: `Deleting block <*> file <*>`
+`Deleting block blk_-1368324087589035770 file /mnt/hadoop/dfs/data/current/blk_-1368324087589035770`

@@ -1,0 +1,11 @@
+Log message: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log template: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log message: `Running task 81.0 in stage 24.0 (TID 1136)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:247928+7292`
+Log template: `Input split: <*>`
+Log message: `attempt_201706092018_0024_m_000002_998: Committed`
+Log template: `<*>: Committed`
+Log message: `Saved output of task 'attempt_201706092018_0024_m_000121_1146' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121`
+Log template: `Saved output of task '<*>' to <*>`
+`Saved output of task 'attempt_201706092018_0025_m_000000_1166' to hdfs://10.10.34.11:9000/pjhe/test/2/_temporary/0/task_201706092018_0025_m_000000`

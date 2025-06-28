@@ -1,0 +1,11 @@
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `Disk quotas dquot_6.5.1`
+Log template: `Disk quotas <*>`
+Log message: `MegaRAID Model: LD 0 RAID1 139G Rev: 516A`
+Log template: `MegaRAID Model: LD <*> RAID1 <*> Rev: <*>`
+Log message: `md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27`
+Log template: `md driver <*> MAX_MD_DEVS=<*>, MD_SB_DISKS=<*>`
+`md driver 0.90.0 MAX_MD_DEVS=256, MD_SB_DISKS=27`

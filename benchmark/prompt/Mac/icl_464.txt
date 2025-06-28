@@ -1,0 +1,11 @@
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+Log message: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by 300ms  ****`
+Log template: `**** [BroadcomBluetoothHostController][SetupController] -- Delay HCI Reset by <*> ****`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `2017-07-07 10:54:41.296 ksfetch[37925/0x7fff79824000] [lvl=2] KSHelperReceiveAllData() KSHelperTool read 1926 bytes from stdin.`
+Log template: `<*> ksfetch[<*>] [lvl=<*>] KSHelperReceiveAllData() KSHelperTool read <*> bytes from stdin.`
+Log message: `-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.`
+Log template: `<*>-deviceDeltaY is deprecated for NSScrollWheel. Please use -scrollingDeltaY.`
+`<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 4812 bytes @ 358800 took 1.053312 secs. to complete, 5 reads >= 1 sec.`

@@ -1,0 +1,11 @@
+Log message: `ciod: Received signal 15, code=0, errno=0, address=0x0000044a`
+Log template: `ciod: Received signal <*>, code=<*>, errno=<*>, address=<*>`
+Log message: `ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff`
+Log template: `ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>`
+Log message: `1 torus receiver y+ input pipe error(s) (dcr 0x02ee) detected and corrected`
+Log template: `<*> torus receiver y+ input pipe error(s) (dcr <*>) detected and corrected`
+Log message: `rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007`
+Log template: `rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>`
+Log message: `Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00ce22e8 e6200003 00000002 00000000) PSR0=20021f01 PSR1=00000000 PRXF=00000002 PIXF=00000007`
+Log template: `Error receiving packet on tree network, expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>`
+`Error receiving packet on tree network, expecting type 57 instead of type 3 (softheader=00589370 90990003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007`

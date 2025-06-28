@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+Log message: `PCI Interrupt Link [LNKE] (IRQs 3 4 5 6 7 10 11 12) *0, disabled.`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>, disabled.`
+Log message: `PCI Interrupt Link [LNKA] (IRQs 3 4 5 6 7 10 11 12) *14`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>) <*>`
+Log message: `PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)`
+`PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`

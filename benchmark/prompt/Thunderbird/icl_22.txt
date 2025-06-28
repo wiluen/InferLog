@@ -1,0 +1,11 @@
+Log message: `Reading included configuration file: /etc/xinetd.d/daytime-udp [file=/etc/xinetd.d/daytime-udp] [line=15]`
+Log template: `Reading included configuration file: <*> [file=<*>] [line=<*>]`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `(root) CMD (run-parts /etc/cron.hourly)`
+Log template: `(<*>) CMD (run-parts <*>)`
+Log message: `session closed for user root`
+Log template: `session closed for user <*>`
+Log message: `session opened for user root by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+`session opened for user root by (uid=0)`

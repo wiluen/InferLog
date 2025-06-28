@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.29:39387`
+Log template: `Accepted socket connection from <*>`
+Log message: `Server environment:java.vendor=Oracle Corporation`
+Log template: `Server environment:<*>`
+Log message: `Closed socket connection for client /10.10.34.12:33342 which had sessionid 0x34f0557885e0002`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.12:56372 which had sessionid 0x34ede65503f0030`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.28:37304 which had sessionid 0x24ed9311942004f`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Closed socket connection for client /10.10.34.28:37304 which had sessionid 0x24ed9311942004f`

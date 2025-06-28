@@ -1,0 +1,11 @@
+Log message: `insertHiHealthData() end totalTime = 94`
+Log template: `insertHiHealthData() end totalTime = <*>`
+Log message: `new date =20171223, type=40044,420.0,old=420.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40011,6314.0,old=6137.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40013,410.0,old=410.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40021,135245.88,old=131454.53999999995`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+`new date =20171223, type=40005,330.0,old=330.0`

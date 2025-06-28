@@ -1,0 +1,11 @@
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `Animating brightness: target=38, rate=200`
+Log template: `Animating brightness: target=<*>, rate=<*>`
+Log message: `*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** register callback for <*>@<*>`
+Log message: `getNeighboringCellInfo calling app is com.amap.android.ams`
+Log template: `getNeighboringCellInfo calling app is <*>`
+Log message: `getCellLocation is blocked by permission manager uid:10111 pid:28601`
+Log template: `getCellLocation is blocked by permission manager uid:<*> pid:<*>`
+`shouldBlockLocation  ret:true`

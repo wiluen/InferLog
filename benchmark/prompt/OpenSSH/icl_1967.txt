@@ -1,0 +1,11 @@
+Log message: `Invalid user  0101 from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `input_userauth_request: invalid user matlab [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user 1234 from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user pgadmin from 112.95.230.3`
+Log template: `Invalid user <*> from <*>`
+Log message: `pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=ec2-52-80-34-196.cn-north-1.compute.amazonaws.com.cn`
+Log template: `pam_unix(sshd:auth): authentication failure; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>`
+`Disconnecting: Too many authentication failures for admin [preauth]`

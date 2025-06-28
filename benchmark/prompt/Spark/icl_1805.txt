@@ -1,0 +1,11 @@
+Log message: `Trying to register BlockManager`
+Log template: `Trying to register BlockManager`
+Log message: `Started reading broadcast variable 24`
+Log template: `Started reading broadcast variable <*>`
+Log message: `Slf4jLogger started`
+Log template: `Slf4jLogger started`
+Log message: `Successfully registered with driver`
+Log template: `Successfully registered with driver`
+Log message: `Starting remoting`
+Log template: `Starting remoting`
+`Starting remoting`

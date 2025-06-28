@@ -1,0 +1,11 @@
+Log message: `START u0 {flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras)} from uid 10112 on display 0`
+Log template: `START u0 {flg=<*> cmp=<*> (has extras)} from uid <*> on display <*>`
+Log message: `getRingerMode...`
+Log template: `getRingerMode...`
+Log message: `onNotificationExpansionChanged called`
+Log template: `onNotificationExpansionChanged called`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `cancelNotificationLocked called,tell the app,reason = 8`
+Log template: `cancelNotificationLocked called,tell the app,reason = <*>`
+`setSystemUiVisibility vis=c0000700 mask=ffffffff oldVal=708 newVal=c0000700 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)`

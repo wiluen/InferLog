@@ -1,0 +1,11 @@
+Log message: `c.trello.com:443 close, 568 bytes sent, 156 bytes received, lifetime 00:12`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `clients6.google.com:443 close, 3504 bytes (3.42 KB) sent, 7037 bytes (6.87 KB) received, lifetime 06:52`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `3.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `googleads.g.doubleclick.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:12`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `d.agkn.com:443 close, 324 bytes sent, 2764 bytes (2.69 KB) received, lifetime 00:12`
+Log template: `<*> close, <*> bytes sent, <*> bytes (<*> KB) received, lifetime <*>`
+`securepubads.g.doubleclick.net:443 close, 476 bytes sent, 4417 bytes (4.31 KB) received, lifetime 00:33`

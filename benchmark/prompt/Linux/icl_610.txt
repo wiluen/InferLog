@@ -1,0 +1,11 @@
+Log message: `cupsd startup succeeded`
+Log template: `cupsd startup succeeded`
+Log message: `ROOT LOGIN ON tty2`
+Log template: `ROOT LOGIN ON <*>`
+Log message: `ALERT exited abnormally with [1]`
+Log template: `ALERT exited abnormally with [<*>]`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `User unknown timed out after 900 seconds at Sat Jun 18 02:23:10 2005`
+Log template: `User unknown timed out after <*> seconds at <*>`
+`session opened for user test by (uid=509)`

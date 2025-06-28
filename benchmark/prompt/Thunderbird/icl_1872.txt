@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `Trace cache: 12K uops, L1 D cache: 16K`
+Log template: `Trace cache: <*> uops, L1 D cache: <*>`
+Log message: `L2 cache: 2048K`
+Log template: `L2 cache: <*>`
+Log message: `Hash tables configured (established 262144 bind 65536)`
+Log template: `Hash tables configured (established <*> bind <*>)`
+Log message: `routing cache hash table of 65536 buckets, 1024Kbytes`
+Log template: `routing cache hash table of <*> buckets, <*>`
+`routing cache hash table of 65536 buckets, 1024Kbytes`

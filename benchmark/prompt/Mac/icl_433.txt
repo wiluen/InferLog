@@ -1,0 +1,11 @@
+Log message: `after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8`
+Log template: `after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>&espv=<*>&ie=UTF-<*>`
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log template: `Wake reason: EC.SleepTimer (SleepTimer)`
+Log message: `Cocoa scripting error for '0x00b8fffe': four character codes must be four characters long.`
+Log template: `Cocoa scripting error for '<*>': four character codes must be four characters long.`
+`Central manager is not powered on`

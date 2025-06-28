@@ -1,0 +1,11 @@
+Log message: `Ending TrustedInstaller initialization.`
+Log template: `Ending TrustedInstaller initialization.`
+Log message: `Starting the TrustedInstaller main loop.`
+Log template: `Starting the TrustedInstaller main loop.`
+Log message: `00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0x116fa70`
+Log template: `<*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>) (flags = <*>, progress = <*>, phase = <*>, pdwDisposition = @<*>`
+Log message: `NonStart: Success, startup processing not required as expected.`
+Log template: `NonStart: Success, startup processing not required as expected.`
+Log message: `TrustedInstaller service starts successfully.`
+Log template: `TrustedInstaller service starts successfully.`
+`TrustedInstaller service starts successfully.`

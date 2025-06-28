@@ -1,0 +1,11 @@
+Log message: `root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr`
+Log template: `<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>`
+Log message: `DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPOFFER on <*> to <*> via eth1`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1`
+`jA9J1WFE024258: from=root, size=1597080, class=0, nrcpts=1, msgid=<200511091901.jA9J1WFE024258@dadmin1>, relay=#7#@localhost`

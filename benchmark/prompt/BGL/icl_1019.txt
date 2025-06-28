@@ -1,0 +1,11 @@
+Log message: `floating pt ex mode 1 enable......0`
+Log template: `floating pt ex mode <*> enable......<*>`
+Log message: `floating point instr. enabled.....1`
+Log template: `floating point instr. enabled.....<*>`
+Log message: `62500 floating point alignment exceptions`
+Log template: `<*> floating point alignment exceptions`
+Log message: `54004554 floating point alignment exceptions`
+Log template: `<*> floating point alignment exceptions`
+Log message: `15 floating point alignment exceptions`
+Log template: `<*> floating point alignment exceptions`
+`5 floating point alignment exceptions`

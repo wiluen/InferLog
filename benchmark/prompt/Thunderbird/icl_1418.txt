@@ -1,0 +1,11 @@
+Log message: `DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPACK on <*> to <*> via eth1`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `synchronized to LOCAL(0), stratum 10`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to #3#, stratum 1`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to 10.100.22.250, stratum 3`
+Log template: `synchronized to <*>, stratum <*>`
+`synchronized to 10.100.28.250, stratum 3`

@@ -1,0 +1,11 @@
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `arp_client_transmit(en0) failed, Network is down (50)`
+Log template: `arp_client_transmit(<*>) failed, Network is down (<*>)`
+Log message: `setting hostname to "authorMacBook-Pro.local"`
+Log template: `setting hostname to "<*>"`
+`setting hostname to "authorMacBook-Pro.local"`

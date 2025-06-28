@@ -1,0 +1,11 @@
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `QQ(10018) deny mach-lookup com.apple.networking.captivenetworksupport`
+Log template: `<*>(<*>) deny mach-lookup com.apple.networking.captivenetworksupport`
+Log message: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '4023' is not a valid type name.`
+Log template: `.sdef warning for argument '' of command 'can continue previous list' in suite 'Microsoft Word Suite': '<*>' is not a valid type name.`
+Log message: `com.apple.Addres(34830) deny network-outbound /private/var/run/mDNSResponder`
+Log template: `<*>(<*>) deny network-outbound <*>`
+Log message: `VDCAssistant:  Found a camera (0x1430000005ac8290) , but was not able to start it up (0x0 -- (os/kern) successful)`
+Log template: `VDCAssistant: Found a camera (<*>) , but was not able to start it up (<*> -- (os/kern) successful)`
+`-[NETClientConnection effectiveBundleID] using process name CalendarAgent as bundle ID (this is expected for daemons without bundle ID`

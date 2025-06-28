@@ -1,0 +1,11 @@
+Log message: `Jetty bound to port 62267`
+Log template: `Jetty bound to port <*>`
+Log message: `IPC Server listener on 62260: starting`
+Log template: `IPC Server listener on <*>: starting`
+Log message: `IPC Server listener on 62270: starting`
+Log template: `IPC Server listener on <*>: starting`
+Log message: `Starting Socket Reader #1 for port 62260`
+Log template: `Starting Socket Reader #<*> for port <*>`
+Log message: `Starting Socket Reader #1 for port 62270`
+Log template: `Starting Socket Reader #<*> for port <*>`
+`Starting Socket Reader #1 for port 62270`

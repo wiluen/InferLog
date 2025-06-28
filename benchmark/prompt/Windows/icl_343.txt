@@ -1,0 +1,11 @@
+Log message: `Read out cached package applicability for package: Package_for_KB2835174~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 0, CurrentState:0`
+Log template: `Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>`
+Log message: `Session: 30546174_187017 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_3334232888 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_2953481110 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Warning: Unrecognized packageExtended attribute.`
+Log template: `Warning: Unrecognized packageExtended attribute.`
+`Session: 30546173_4294174257 initialized by client WindowsUpdateAgent.`

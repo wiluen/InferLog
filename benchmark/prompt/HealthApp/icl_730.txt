@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3712`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7189 5132 153988 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7193 5135 154074 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `stepSyncOrNot appSynTimes is 0`
+Log template: `stepSyncOrNot appSynTimes is <*>`
+Log message: `REPORT : 7198 5139 154181 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7187 5131 153945 240`

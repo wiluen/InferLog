@@ -1,0 +1,11 @@
+Log message: `Server created on 40984`
+Log template: `Server created on <*>`
+Log message: `Found block rdd_11_0 locally`
+Log template: `Found block <*> locally`
+Log message: `Successfully registered with driver`
+Log template: `Successfully registered with driver`
+Log message: `Registered BlockManager`
+Log template: `Registered BlockManager`
+Log message: `Trying to register BlockManager`
+Log template: `Trying to register BlockManager`
+`Trying to register BlockManager`

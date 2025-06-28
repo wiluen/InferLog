@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=d211-116-254-214.rev.krline.net`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `session opened for user news by (uid=0)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `removing device node '/udev/vcsa2'`
+Log template: `removing device node '<*>'`
+Log message: `cupsd startup succeeded`
+Log template: `cupsd startup succeeded`
+Log message: `connection from 24.54.76.216 (24-54-76-216.bflony.adelphia.net) at Fri Jun 17 07:07:00 2005`
+Log template: `connection from <*> (<*>) at <*>`
+`session closed for user news`

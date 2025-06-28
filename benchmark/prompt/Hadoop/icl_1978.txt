@@ -1,0 +1,11 @@
+Log message: `attempt_1445144423722_0020_m_000001_0 TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED`
+Log template: `<*> TaskAttempt Transitioned from FAIL_TASK_CLEANUP to FAILED`
+Log message: `Shuffle port returned by ContainerManager for attempt_1445144423722_0020_m_000009_0 : 13562`
+Log template: `Shuffle port returned by ContainerManager for <*> : <*>`
+Log message: `Processing the event EventType: CONTAINER_REMOTE_CLEANUP for container container_1445144423722_0020_01_000004 taskAttempt attempt_1445144423722_0020_m_000002_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `Processing the event EventType: JOB_SETUP`
+Log template: `Processing the event EventType: JOB_SETUP`
+Log message: `Processing the event EventType: TASK_ABORT`
+Log template: `Processing the event EventType: TASK_ABORT`
+`Processing the event EventType: TASK_ABORT`

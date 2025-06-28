@@ -1,0 +1,11 @@
+Log message: `gmetad startup succeeded`
+Log template: `gmetad startup succeeded`
+Log message: `RRD_update (/var/lib/ganglia/rrds/D Nodes/dn731/pkts_out.rrd): illegal attempt to update using time 1131559854 when last update time is 1131559854 (minimum one second step)`
+Log template: `RRD_update (<*>): illegal attempt to update using time <*> when last update time is <*> (minimum one second step)`
+Log message: `assuming drive cache: write through`
+Log template: `assuming drive cache: write through`
+Log message: `Wait for ready failed before probe !`
+Log template: `Wait for ready failed before probe !`
+Log message: `asking for cache data failed`
+Log template: `asking for cache data failed`
+`asking for cache data failed`

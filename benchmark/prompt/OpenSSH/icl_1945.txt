@@ -1,0 +1,11 @@
+Log message: `Invalid user abc from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Received disconnect from 60.2.12.12: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `input_userauth_request: invalid user butter [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `input_userauth_request: invalid user cheng [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user cyrus from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+`Invalid user jay from 187.141.143.180`

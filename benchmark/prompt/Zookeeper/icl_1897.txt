@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.11:48701`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.40:39952`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.11:41732`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.11:51260`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.21:51245`
+Log template: `Accepted socket connection from <*>`
+`Accepted socket connection from /10.10.34.21:51245`

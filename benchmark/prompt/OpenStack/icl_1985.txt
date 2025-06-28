@@ -1,0 +1,11 @@
+Log message: `[instance: 78dc1847-8848-49cc-933e-9239b12c9dcf] VM Resumed (Lifecycle Event)`
+Log template: `[instance: <*>] VM Resumed (Lifecycle Event)`
+Log message: `10.11.21.123,10.11.10.1 "GET /openstack/2012-08-10/meta_data.json HTTP/1.1" status: 200 len: 264 time: 0.2205780`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: bf8c824d-f099-4433-a41e-e3da7578262e] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total vcpu: 16 VCPU, used: 0.00 VCPU`
+Log template: `[instance: <*>] Total vcpu: <*> VCPU, used: <*> VCPU`
+`[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total vcpu: 16 VCPU, used: 0.00 VCPU`

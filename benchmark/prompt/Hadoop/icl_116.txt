@@ -1,0 +1,11 @@
+Log message: `Done acknowledgement from attempt_1445144423722_0020_m_000003_0`
+Log template: `Done acknowledgement from <*>`
+Log message: `task_1445144423722_0020_m_000003 Task Transitioned from RUNNING to SUCCEEDED`
+Log template: `<*> Task Transitioned from RUNNING to SUCCEEDED`
+Log message: `Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:28345`
+Log template: `Opening proxy : <*>`
+Log message: `JVM with ID: jvm_1445144423722_0020_m_000009 given task: attempt_1445144423722_0020_m_000007_0`
+Log template: `JVM with ID: <*> given task: <*>`
+`JVM with ID : jvm_1445144423722_0020_m_000004 asked for a task`

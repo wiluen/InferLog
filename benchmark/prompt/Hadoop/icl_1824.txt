@@ -1,0 +1,11 @@
+Log message: `attempt_1445144423722_0020_m_000001_1 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `attempt_1445144423722_0020_r_000000_0 TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log template: `<*> TaskAttempt Transitioned from NEW to UNASSIGNED`
+Log message: `job_1445144423722_0020Job Transitioned from SETUP to RUNNING`
+Log template: `<*> Transitioned from SETUP to RUNNING`
+Log message: `job_1445144423722_0020Job Transitioned from INITED to SETUP`
+Log template: `<*> Transitioned from INITED to SETUP`
+Log message: `job_1445144423722_0020Job Transitioned from NEW to INITED`
+Log template: `<*> Transitioned from NEW to INITED`
+`job_1445144423722_0020Job Transitioned from NEW to INITED`

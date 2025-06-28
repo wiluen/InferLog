@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Direct-Access ANSI SCSI revision: 02`
+Log template: `Direct-Access ANSI SCSI revision: <*>`
+Log message: `Processor ANSI SCSI revision: 02`
+Log template: `Processor ANSI SCSI revision: <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Subsystem revision 20040816`
+Log template: `Subsystem revision <*>`
+`Subsystem revision 20040816`

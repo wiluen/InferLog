@@ -1,0 +1,11 @@
+Log message: `Started reading broadcast variable 14`
+Log template: `Started reading broadcast variable <*>`
+Log message: `Started reading broadcast variable 20`
+Log template: `Started reading broadcast variable <*>`
+Log message: `Started reading broadcast variable 24`
+Log template: `Started reading broadcast variable <*>`
+Log message: `Started reading broadcast variable 30`
+Log template: `Started reading broadcast variable <*>`
+Log message: `Started reading broadcast variable 32`
+Log template: `Started reading broadcast variable <*>`
+`Started reading broadcast variable 31`

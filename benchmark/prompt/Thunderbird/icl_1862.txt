@@ -1,0 +1,11 @@
+Log message: `PCI Interrupt Link [LNKB] (IRQs 3 4 5 6 7 10 *11 12)`
+Log template: `PCI Interrupt Link [<*>] (IRQs <*> <*> <*> <*> <*> <*> <*> <*>)`
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+Log message: `IOAPIC (id[0x0a] address[0xfec83000] gsi_base[64])`
+Log template: `IOAPIC (id[<*>] address[<*>] gsi_base[<*>])`
+Log message: `Using ACPI for IRQ routing`
+Log template: `Using ACPI for IRQ routing`
+Log message: `Using IOAPIC for interrupt routing`
+Log template: `Using IOAPIC for interrupt routing`
+`Using IOAPIC for interrupt routing`

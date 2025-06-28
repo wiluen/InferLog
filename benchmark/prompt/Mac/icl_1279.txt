@@ -1,0 +1,11 @@
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `INIT -- Host controller is published`
+Log template: `INIT -- Host controller is published`
+Log message: `Setting BTCoex Config: enable_2G:1, profile_2g:0, enable_5G:1, profile_5G:0`
+Log template: `Setting BTCoex Config: <*>, <*>, <*>, <*>`
+Log message: `ASL Sender Statistics`
+Log template: `ASL Sender Statistics`
+Log message: `Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`
+Log template: `Sandbox: <*>(<*>) deny(<*>) ipc-posix-shm-read-data CFPBS:<*>:`
+`[com.apple.calendar.store.log.caldav.queue] [Adding [<CalDAVAccountRefreshQueueableOperation: 0x7fa11d67f3b0; Sequence: 0>] to failed operations.]`

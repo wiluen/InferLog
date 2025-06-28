@@ -1,0 +1,11 @@
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Intel machine check reporting enabled on CPU#0.`
+Log template: `Intel machine check reporting enabled on <*>.`
+Log message: `Intel machine check architecture supported.`
+Log template: `Intel machine check architecture supported.`
+`Intel machine check architecture supported.`

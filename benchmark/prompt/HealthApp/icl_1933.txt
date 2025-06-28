@@ -1,0 +1,11 @@
+Log message: `setDiffTotalSteps=0`
+Log template: `setDiffTotalSteps=<*>`
+Log message: `checkInsertStatus stepSum or calorieSum is enough`
+Log template: `checkInsertStatus stepSum or calorieSum is enough`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+`InsertCallBack() onSuccess  type = 0 data=true`

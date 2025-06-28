@@ -1,0 +1,11 @@
+Log message: `kernel time sync disabled 0041`
+Log template: `kernel time sync disabled <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `synchronized to LOCAL(0), stratum 10`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to #3#, stratum 1`
+Log template: `synchronized to <*>, stratum <*>`
+Log message: `synchronized to 10.100.22.250, stratum 3`
+Log template: `synchronized to <*>, stratum <*>`
+`synchronized to 10.100.10.250, stratum 3`

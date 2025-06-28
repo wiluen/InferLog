@@ -1,0 +1,11 @@
+Log message: `removing telnet`
+Log template: `removing <*>`
+Log message: `removing eklogin`
+Log template: `removing <*>`
+Log message: `removing chargen`
+Log template: `removing <*>`
+Log message: `removing klogin`
+Log template: `removing <*>`
+Log message: `removing ntalk`
+Log template: `removing <*>`
+`removing ntalk`

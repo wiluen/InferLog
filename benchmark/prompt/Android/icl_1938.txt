@@ -1,0 +1,11 @@
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { act=com.android.contacts.action.CHOOSE_SUB dat=tel:xxxxxxxxxxx flg=0x10808000 cmp=com.android.contacts/.ChooseSubActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { act=<*> dat=<*> flg=<*> cmp=<*> (has extras) }`
+Log message: `Destroying surface Surface(name=InputMethod) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementInner:517 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacementLoop:291 com.android.server.wm.WindowSurfacePlacer.performSurfacePlacement:233 com.android.server.wm.WindowManagerService$H.handleMessage:8670 android.os.Handler.dispatchMessage:105`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `removeNotificationChildren`
+Log template: `removeNotificationChildren`
+Log message: `notifyUiVisibilityChanged:vis=0x708, SystemUiVisibility=0x708`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `addNotification key=0|com.tencent.mobileqq|121|null|10111`
+Log template: `addNotification key=<*>|<*>|<*>|<*>|<*>`
+`Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService`

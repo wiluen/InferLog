@@ -1,0 +1,11 @@
+Log message: `Got assigned task 0`
+Log template: `Got assigned task <*>`
+Log message: `Created local directory at /opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4`
+Log template: `Created local directory at <*>`
+Log message: `Changing modify acls to: yarn,curi`
+Log template: `Changing modify acls to: <*>`
+Log message: `Changing view acls to: yarn,curi`
+Log template: `Changing view acls to: <*>`
+Log message: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+Log template: `SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`
+`SecurityManager: authentication disabled; ui acls disabled; users with view permissions: Set(yarn, curi); users with modify permissions: Set(yarn, curi)`

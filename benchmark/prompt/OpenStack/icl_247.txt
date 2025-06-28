@@ -1,0 +1,11 @@
+Log message: `[instance: fecdd5a9-3ca0-4c82-9336-63b7774f738e] Terminating instance`
+Log template: `[instance: <*>] Terminating instance`
+Log message: `Running instance usage audit for host cp-1.slowvm1.tcloud-pg0.utah.cloudlab.us from 2017-05-16 05:00:00 to 2017-05-16 06:00:00. 87 instances.`
+Log template: `Running instance usage audit for host <*> from <*> to <*>. <*> instances.`
+Log message: `[instance: af5f7392-f7d4-4298-b647-c98924c64aa1] Took 20.35 seconds to spawn the instance on the hypervisor.`
+Log template: `[instance: <*>] Took <*> seconds to spawn the instance on the hypervisor.`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 19.79 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+Log message: `Creating event network-vif-plugged:a444c98d-73cb-4ef8-b9c8-dbc1c4a7bd5c for instance d96a117b-0193-4549-bdcc-63b917273d1d`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+`Creating event network-vif-plugged:b26c4935-6377-4e96-9ba1-ec6985d42d5d for instance 78dc1847-8848-49cc-933e-9239b12c9dcf`

@@ -1,0 +1,11 @@
+Log message: `beacon.tingyun.com:80 close, 42307 bytes (41.3 KB) sent, 279 bytes received, lifetime 01:00`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes received, lifetime <*>`
+Log message: `timg.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:10`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `sestat.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:11`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `c.csdnimg.cn:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `s1.img4399.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:21`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`bdimg.share.baidu.com:80 close, 0 bytes sent, 0 bytes received, lifetime 00:19`

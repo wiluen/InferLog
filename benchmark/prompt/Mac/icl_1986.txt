@@ -1,0 +1,11 @@
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+Log message: `ARPT: 626126.086205: wl0: setup_keepalive: interval 900, retry_interval 30, retry_count 10`
+Log template: `ARPT: <*>: wl0: setup_keepalive: interval <*>, retry_interval <*>, retry_count <*>`
+Log message: `en0: channel changed to 6`
+Log template: `en0: channel changed to <*>`
+Log message: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`
+Log template: `<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec <*>`
+`<<<< MediaValidator >>>> mv_LookupCodecSupport: Unrecognized codec 1`

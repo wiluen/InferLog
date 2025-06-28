@@ -1,0 +1,11 @@
+Log message: `iar 00106448 dear 0246dacc`
+Log template: `iar <*> dear <*>`
+Log message: `iar 001064fc dear 0245b64c`
+Log template: `iar <*> dear <*>`
+Log message: `data address: 0x00000002`
+Log template: `data address: <*>`
+Log message: `instruction address space.........0`
+Log template: `instruction address space.........<*>`
+Log message: `instruction address: 0x00004ed8`
+Log template: `instruction address: <*>`
+`instruction address: 0x00004ed8`

@@ -1,0 +1,11 @@
+Log message: `fatal: Write failed: Connection reset by peer [preauth]`
+Log template: `fatal: Write failed: Connection reset by peer [preauth]`
+Log message: `Failed password for root from 183.62.140.253 port 35525 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Did not receive identification string from 123.235.32.19`
+Log template: `Did not receive identification string from <*>`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=106.5.5.195  user=root`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*> user=<*>`
+Log message: `Did not receive identification string from 177.79.82.136`
+Log template: `Did not receive identification string from <*>`
+`Failed password for root from 123.235.32.19 port 50950 ssh2`

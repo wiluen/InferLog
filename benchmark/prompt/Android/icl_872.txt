@@ -1,0 +1,11 @@
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>`
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+`stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false`

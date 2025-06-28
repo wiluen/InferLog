@@ -1,0 +1,11 @@
+Log message: `New election. My id =  1, proposed zxid=0x700000000`
+Log template: `New election. My id = <*>, proposed zxid=<*>`
+Log message: `shutdown of request processor complete`
+Log template: `shutdown of request processor complete`
+Log message: `Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115`
+Log template: `Client attempting to renew session <*> at <*>`
+Log message: `Accepted socket connection from /10.10.34.30:38562`
+Log template: `Accepted socket connection from <*>`
+Log message: `******* GOODBYE /10.10.34.12:59060 ********`
+Log template: `******* GOODBYE <*> ********`
+`Unexpected exception causing shutdown while sock still open`

@@ -1,0 +1,11 @@
+Log message: `Session: 30546174_179737287 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `00000009@2016/9/27:20:40:53.744 CSI Transaction @0x47e9e0 initialized for deployment engine {d16d444c-56d8-11d5-882d-0080c847b195} with flags 00000002 and client id [10]"TI6.0_0:0/"`
+Log template: `<*>@<*>/<*>/<*>:<*>:<*>:<*> CSI Transaction @<*> initialized for deployment engine {<*>} with flags <*> and client id [<*>]"<*>/"`
+Log message: `Session: 30546174_172076849 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Reboot mark refs incremented to: 1`
+Log template: `Reboot mark refs incremented to: <*>`
+Log message: `Session: 30546174_170026732 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Session: 30546174_165696484 initialized by client WindowsUpdateAgent.`

@@ -1,0 +1,11 @@
+Log message: `Received connection request /10.10.34.11:48000`
+Log template: `Received connection request <*>`
+Log message: `Interrupted while waiting for message on queue`
+Log template: `Interrupted while waiting for message on queue`
+Log message: `******* GOODBYE /10.10.34.12:59060 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `Accepted socket connection from /10.10.34.30:38562`
+Log template: `Accepted socket connection from <*>`
+Log message: `Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115`
+Log template: `Client attempting to renew session <*> at <*>`
+`caught end of stream exception`

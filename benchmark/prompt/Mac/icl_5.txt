@@ -1,0 +1,11 @@
+Log message: `PMStats: Hibernate read took 197 ms`
+Log template: `PMStats: Hibernate read took <*> ms`
+Log message: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log template: `network_reachability_changed : network is not reachable, netbiosd is shutting down`
+Log message: `USBMSC Identifier (non-unique): 000000000820 0x5ac 0x8406 0x820, 3`
+Log template: `USBMSC Identifier (non-unique): <*>`
+Log message: `mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)`
+Log template: `mDNS_RegisterInterface: Frequent transitions for interface en0 (<*>)`
+Log message: `11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>`
+Log template: `<*> : BTLE discovered device with hash <*>`
+`mDNS_DeregisterInterface: Frequent transitions for interface awdl0 (FE80:0000:0000:0000:D8A5:90FF:FEF5:7FFF)`

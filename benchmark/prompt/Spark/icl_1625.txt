@@ -1,0 +1,11 @@
+Log message: `Running task 5.0 in stage 28.0 (TID 1285)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Running task 163.0 in stage 24.0 (TID 1158)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Running task 81.0 in stage 24.0 (TID 1136)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Running task 27.0 in stage 28.0 (TID 1307)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+Log message: `Running task 10.0 in stage 29.0 (TID 1330)`
+Log template: `Running task <*> in stage <*> (TID <*>)`
+`Running task 38.0 in stage 28.0 (TID 1318)`

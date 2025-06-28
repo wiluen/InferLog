@@ -1,0 +1,11 @@
+Log message: `IRQ0 used by override.`
+Log template: `<*> used by override.`
+Log message: `LAPIC (acpi_id[0x03] lapic_id[0x01] enabled)`
+Log template: `LAPIC (acpi_id[<*>] lapic_id[<*>] enabled)`
+Log message: `PCI Interrupt Routing Table [\_SB_.PCI0._PRT]`
+Log template: `PCI Interrupt Routing Table [<*>]`
+Log message: `Using IOAPIC for interrupt routing`
+Log template: `Using IOAPIC for interrupt routing`
+Log message: `Using ACPI for IRQ routing`
+Log template: `Using ACPI for IRQ routing`
+`Using ACPI for IRQ routing`

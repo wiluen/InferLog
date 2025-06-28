@@ -1,0 +1,11 @@
+Log message: `boot  (command 3413)`
+Log template: `boot (command <*>)`
+Log message: `wait  (command 2682)`
+Log template: `wait (command <*>)`
+Log message: `boot  (command 3473)`
+Log template: `boot (command <*>)`
+Log message: `Command has completed successfully`
+Log template: `Command has completed successfully`
+Log message: `Failed subcommands 3406`
+Log template: `Failed subcommands <*>`
+`Failed subcommands 3406`

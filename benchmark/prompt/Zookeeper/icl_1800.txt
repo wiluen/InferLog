@@ -1,0 +1,11 @@
+Log message: `Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `Expiring session 0x24edfaa87170010, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `Expiring session 0x24ed931194200ad, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `My election bind port: 0.0.0.0/0.0.0.0:3888`
+Log template: `My election bind port: <*>/<*>`
+Log message: `Notification time out: 3200`
+Log template: `Notification time out: <*>`
+`Notification time out: 3200`

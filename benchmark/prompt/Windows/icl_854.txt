@@ -1,0 +1,11 @@
+Log message: `Starting TrustedInstaller initialization.`
+Log template: `Starting TrustedInstaller initialization.`
+Log message: `Idle processing thread terminated normally`
+Log template: `Idle processing thread terminated normally`
+Log message: `00000005 Creating NT transaction (seq 1), objectname [6]"(null)"`
+Log template: `<*> Creating NT transaction (seq <*>), objectname [<*>]"(<*>)"`
+Log message: `Ending the TrustedInstaller main loop.`
+Log template: `Ending the TrustedInstaller main loop.`
+Log message: `00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214`
+Log template: `<*> Created NT transaction (seq <*>) result <*>, handle @<*>`
+`00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x218`

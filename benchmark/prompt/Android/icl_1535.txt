@@ -1,0 +1,11 @@
+Log message: `getMode...`
+Log template: `getMode...`
+Log message: `setLightsOn(true)`
+Log template: `setLightsOn(<*>)`
+Log message: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=false`
+Log template: `stopWifiDisplayScanLocked record.mWifiDisplayScanRequested=<*>`
+Log message: `Releasing suspend blocker "PowerManagerService.WakeLocks".`
+Log template: `Releasing suspend blocker "PowerManagerService.WakeLocks".`
+Log message: `getStreamVolume  treamType: 5`
+Log template: `getStreamVolume treamType: <*>`
+`acquire lock=155645244, flags=0x1, tag="AudioMix", name=audioserver, ws=null, uid=1041, pid=0`

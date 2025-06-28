@@ -1,0 +1,11 @@
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `ANONYMOUS FTP LOGIN FROM 84.102.20.2,  (anonymous)`
+Log template: `ANONYMOUS FTP LOGIN FROM <*>, (anonymous)`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `mtrr: v2.0 (20020519)`
+Log template: `mtrr: <*> (<*>)`
+`mtrr: v2.0 (20020519)`

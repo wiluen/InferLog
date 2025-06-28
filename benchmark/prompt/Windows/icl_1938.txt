@@ -1,0 +1,11 @@
+Log message: `0000000b CSI Store 3065408 (0x00000000002ec640) initialized`
+Log template: `<*> CSI Store <*> (<*>) initialized`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/COMPONENTS`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Users/default/ntuser.dat`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/DEFAULT`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/system32/smi/store/Machine/schema.dat`
+Log template: `Unloading offline registry hive: <*>`
+`Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM`

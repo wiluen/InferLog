@@ -1,0 +1,11 @@
+Log message: `en0: 802.11d country code set to 'X3'.`
+Log template: `en0: <*> country code set to '<*>'.`
+Log message: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log template: `CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`
+Log message: `ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223`
+Log template: `ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>`
+Log message: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+Log template: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+Log message: `[21:17:07.529] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92`
+Log template: `[<*>] FigAgglomeratorSetObjectForKey signalled err=<*> (kFigStringConformerError_ParamErr) (<*> key) at <*> line <*>`
+`Bluetooth -- LE is supported - Disable LE meta event`

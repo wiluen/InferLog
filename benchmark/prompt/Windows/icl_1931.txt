@@ -1,0 +1,11 @@
+Log message: `Session: 30546354_3205955551 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Starting TrustedInstaller initialization.`
+Log template: `Starting TrustedInstaller initialization.`
+Log message: `00000007@2016/9/28:16:00:46.260 CSI perf trace:`
+Log template: `<*> CSI perf trace:`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SOFTWARE`
+Log template: `Unloading offline registry hive: <*>`
+Log message: `Unloading offline registry hive: {bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SYSTEM`
+Log template: `Unloading offline registry hive: <*>`
+`00000009@2016/9/28:16:01:03.072 PopulateComponentFamiliesKey - End`

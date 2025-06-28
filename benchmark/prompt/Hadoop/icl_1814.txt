@@ -1,0 +1,11 @@
+Log message: `queue: default`
+Log template: `queue: default`
+Log message: `Recalculating schedule, headroom=<memory:8192, vCores:-19>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+Log message: `Recalculating schedule, headroom=<memory:5120, vCores:-22>`
+Log template: `Recalculating schedule, headroom=<memory:<*>, vCores:<*>`
+Log message: `task_1445144423722_0020_m_000005 Task Transitioned from NEW to SCHEDULED`
+Log template: `<*> Task Transitioned from NEW to SCHEDULED`
+Log message: `Default file system [hdfs://msra-sa-41:9000]`
+Log template: `Default file system [<*>]`
+`Default file system [hdfs://msra-sa-41:9000]`

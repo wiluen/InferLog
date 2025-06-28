@@ -1,0 +1,11 @@
+Log message: `Thread Thread[eventHandlingThread,5,main] threw an Exception.`
+Log template: `Thread Thread[eventHandlingThread,<*>,main] threw an Exception.`
+Log message: `ERROR IN CONTACTING RM.`
+Log template: `ERROR IN CONTACTING RM.`
+Log message: `We launched 1 speculations.  Sleeping 15000 milliseconds.`
+Log template: `We launched <*> speculations. Sleeping <*> milliseconds.`
+Log message: `OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter`
+Log template: `OutputCommitter is org.apache.hadoop.mapreduce.lib.output.FileOutputCommitter`
+Log message: `OutputCommitter set in config null`
+Log template: `OutputCommitter set in config <*>`
+`OutputCommitter set in config null`

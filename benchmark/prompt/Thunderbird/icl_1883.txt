@@ -1,0 +1,11 @@
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `jA9J1WFE024258: to=root, ctladdr=root (0/0), delay=00:00:03, xdelay=00:00:00, mailer=relay, pri=1627080, relay=[127.0.0.1] [127.0.0.1], dsn=4.0.0, stat=Deferred: Connection refused by [127.0.0.1]`
+Log template: `<*>: to=<*>, ctladdr=<*> (0/0), delay=<*>, xdelay=<*>, mailer=relay, pri=<*>, relay=[<*>] [<*>], dsn=<*>, stat=Deferred: Connection refused by [<*>]`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Mounted root (ext2 filesystem).`
+Log template: `Mounted <*> (ext2 filesystem).`
+Log message: `Compressed image found at block 0`
+Log template: `Compressed image found at block <*>`
+`Compressed image found at block 0`

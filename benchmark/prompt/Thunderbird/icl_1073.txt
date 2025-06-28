@@ -1,0 +1,11 @@
+Log message: `Starting ts_fixup: succeeded`
+Log template: `Starting ts_fixup: succeeded`
+Log message: `root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr`
+Log template: `<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `(root) CMD (run-parts /etc/cron.hourly)`
+Log template: `(<*>) CMD (run-parts <*>)`
+Log message: `(root) CMD (/projects/tbird/temps/get_temps c)`
+Log template: `(<*>) CMD (<*> <*>)`
+`(root) CMD (/projects/tbird/temps/get_temps b)`

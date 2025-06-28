@@ -1,0 +1,11 @@
+Log message: `www.weibo.com:80 close, 2741 bytes (2.67 KB) sent, 4016 bytes (3.92 KB) received, lifetime 00:08`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `wn.pos.baidu.com:443 close, 0 bytes sent, 0 bytes received, lifetime 00:48`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `accounts.google.com:443 close, 2834 bytes (2.76 KB) sent, 1881 bytes (1.83 KB) received, lifetime 04:05`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `csdnimg.cn:80 error : A connection request was canceled before the completion.`
+Log template: `<*> error : A connection request was canceled before the completion.`
+`avatar.csdn.net:80 close, 0 bytes sent, 0 bytes received, lifetime 00:30`

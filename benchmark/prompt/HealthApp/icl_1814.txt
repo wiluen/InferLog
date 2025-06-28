@@ -1,0 +1,11 @@
+Log message: `tryToReloadTodayBasicSteps1514044800223|3786|0|0`
+Log template: `<*>|<*>|<*>|<*>`
+Log message: `flush sensor data`
+Log template: `flush sensor data`
+Log message: `onStandStepChanged 3590`
+Log template: `onStandStepChanged <*>`
+Log message: `REPORT : 7007 5002 150089 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `REPORT : 7018 5010 150325 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`screen status unknown,think screen on`

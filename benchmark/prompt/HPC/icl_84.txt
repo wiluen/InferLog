@@ -1,0 +1,11 @@
+Log message: `ClusterFileSystem: ServerFileSystem domain storage1422 is no longer served by node node-245`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain storage534 is no longer served by node node-18`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: ServerFileSystem domain storage211 is no longer served by node node-4`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `ClusterFileSystem: There is no server for ServerFileSystem domain storage832`
+Log template: `ClusterFileSystem: There is no server for ServerFileSystem domain <*>`
+Log message: `ClusterFileSystem: There is no server for ServerFileSystem domain storage1534`
+Log template: `ClusterFileSystem: There is no server for ServerFileSystem domain <*>`
+`ClusterFileSystem: There is no server for ServerFileSystem domain storage234`

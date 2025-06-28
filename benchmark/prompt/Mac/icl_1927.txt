@@ -1,0 +1,11 @@
+Log message: `schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>`
+Log template: `schedule invalidation <DYTransport <*>, error: lost transport connection (<*>)>`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of 21335 bytes @ 5481561 took 0.501237 sec. to complete, 16 reads >= 0.5 sec.`
+Log template: `<<<< FigByteStream >>>> FigByteStreamStatsLogOneRead: ByteStream read of <*> bytes @ <*> took <*> to complete, <*> reads >= <*> sec.`
+Log message: `no sleep images for WillPowerOffWithImages`
+Log template: `no sleep images for WillPowerOffWithImages`
+Log message: `hibernate_machine_init: state 2, image pages 446175, sum was d4e6c0b2, imageSize 0x2aea6000, image1Size 0x215a4000, conflictCount 5848, nextFree 5887`
+Log template: `hibernate_machine_init: state <*>, image pages <*>, sum was <*>, imageSize <*>, image1Size <*>, conflictCount <*>, nextFree <*>`
+`Daemon connection invalidated!`

@@ -1,0 +1,11 @@
+Log message: `connection from 221.4.102.93 () at Thu Jul  7 23:09:45 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `mtrr: v2.0 (20020519)`
+Log template: `mtrr: <*> (<*>)`
+Log message: `On node 0 totalpages: 32430`
+Log template: `On node <*> totalpages: <*>`
+Log message: `connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Sat Jun 18 02:08:11 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `mapped 4G/4G trampoline to ffff3000.`
+Log template: `mapped <*> trampoline to <*>.`
+`mapped 4G/4G trampoline to ffff3000.`

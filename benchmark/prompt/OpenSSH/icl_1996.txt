@@ -1,0 +1,11 @@
+Log message: `Invalid user test9 from 52.80.34.196`
+Log template: `Invalid user <*> from <*>`
+Log message: `Failed password for uucp from 103.207.39.16 port 42435 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for invalid user admin from 119.4.203.64 port 2191 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `reverse mapping checking getaddrinfo for 195-154-37-122.rev.poneytelecom.eu [195.154.37.122] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log template: `reverse mapping checking getaddrinfo for <*> [<*>] failed - POSSIBLE BREAK-IN ATTEMPT!`
+Log message: `Failed password for root from 103.99.0.122 port 63012 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`fatal: Write failed: Connection reset by peer [preauth]`

@@ -1,0 +1,11 @@
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `succeeded`
+Log template: `succeeded`
+Log message: `4.1.0-ioctl (2003-12-10) initialised: #36#@#37#`
+Log template: `<*>-ioctl (<*>) initialised: <*>`
+Log message: `Initializing.`
+Log template: `Initializing.`
+Log message: `initialized`
+Log template: `initialized`
+`initialized`

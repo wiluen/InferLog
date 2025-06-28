@@ -1,0 +1,11 @@
+Log message: `closing`
+Log template: `closing`
+Log message: `not-responding`
+Log template: `not-responding`
+Log message: `normal`
+Log template: `normal`
+Log message: `starting`
+Log template: `starting`
+Log message: `running`
+Log template: `running`
+`running`

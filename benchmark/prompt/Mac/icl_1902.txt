@@ -1,0 +1,11 @@
+Log message: `tcp_connection_destination_handle_tls_close_notify 111 closing socket due to TLS CLOSE_NOTIFY alert`
+Log template: `tcp_connection_destination_handle_tls_close_notify <*> closing socket due to TLS CLOSE_NOTIFY alert`
+Log message: `no sleep images for WillPowerOffWithImages`
+Log template: `no sleep images for WillPowerOffWithImages`
+Log message: `Bluetooth -- LE is supported - Disable LE meta event`
+Log template: `Bluetooth -- LE is supported - Disable LE meta event`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+`[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.`

@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.34:56149`
+Log template: `Accepted socket connection from <*>`
+Log message: `Closed socket connection for client /10.10.34.12:45682 which had sessionid 0x14ed93111f200cd`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Accepted socket connection from /10.10.34.11:48701`
+Log template: `Accepted socket connection from <*>`
+Log message: `Accepted socket connection from /10.10.34.18:40006`
+Log template: `Accepted socket connection from <*>`
+Log message: `Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)`
+Log template: `Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LEADING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)`
+`Accepted socket connection from /10.10.34.11:40061`

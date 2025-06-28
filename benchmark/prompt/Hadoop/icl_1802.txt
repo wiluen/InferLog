@@ -1,0 +1,11 @@
+Log message: `Launching attempt_1445144423722_0020_m_000003_0`
+Log template: `Launching <*>`
+Log message: `Got allocated containers 2`
+Log template: `Got allocated containers <*>`
+Log message: `After Scheduling: PendingReds:1 ScheduledMaps:0 ScheduledReds:0 AssignedMaps:10 AssignedReds:0 CompletedMaps:0 CompletedReds:0 ContAlloc:11 ContRel:1 HostLocal:7 RackLocal:3`
+Log template: `After Scheduling: PendingReds:<*> ScheduledMaps:<*> ScheduledReds:<*> AssignedMaps:<*> AssignedReds:<*> CompletedMaps:<*> CompletedReds:<*> ContAlloc:<*> ContRel:<*> HostLocal:<*> RackLocal:<*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.10501281`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)`
+Log template: `Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: <*> cluster_timestamp: <*> } attemptId: <*> } keyId: <*>)`
+`Kind: YARN_AM_RM_TOKEN, Service: , Ident: (appAttemptId { application_id { id: 20 cluster_timestamp: 1445144423722 } attemptId: 1 } keyId: -127633188)`

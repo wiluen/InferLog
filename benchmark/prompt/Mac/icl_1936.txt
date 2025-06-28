@@ -1,0 +1,11 @@
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `en0: channel changed to 6`
+Log template: `en0: channel changed to <*>`
+Log message: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****`
+Log template: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****`
+Log message: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log template: `-[NetworkAnalyticsEngine _writeJournalRecord:fromCellFingerprint:key:atLOI:ofKind:lqm:isFaulty:] Hashing of the primary key failed. Dropping the journal record.`
+Log message: `could discard act 74490 inact 9782 purgeable 34145 spec 56242 cleaned 0`
+Log template: `could discard act <*> inact <*> purgeable <*> spec <*> cleaned <*>`
+`hostControllerOnline - Number of Paired devices = 1, List of Paired devices = ( "84-41-67-32-db-e1" )`

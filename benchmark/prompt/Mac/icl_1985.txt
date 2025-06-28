@@ -1,0 +1,11 @@
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `17:26:44.228 : Scanning mode Contacts Only`
+Log template: `<*> : Scanning mode Contacts Only`
+Log message: `no sleep images for WillPowerOffWithImages`
+Log template: `no sleep images for WillPowerOffWithImages`
+Log message: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- 0x8800 ****`
+Log template: `**** [BroadcomBluetoothHostControllerUSBTransport][start] -- Completed (matched on Device) -- <*> ****`
+Log message: `schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>`
+Log template: `schedule invalidation <DYTransport <*>, error: lost transport connection (<*>)>`
+`schedule invalidation <DYTransport 0x7f89e8c00520, error: lost transport connection (31)>`

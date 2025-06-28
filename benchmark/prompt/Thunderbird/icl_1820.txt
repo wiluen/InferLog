@@ -1,0 +1,11 @@
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `[ib_sm_sweep.c:1455]: No topology change`
+Log template: `[ib_sm_sweep.c:<*>]: No topology change`
+Log message: `kernel time sync enabled 0001`
+Log template: `kernel time sync enabled <*>`
+Log message: `data_thread() got not answer from any [Thunderbird_B1] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+`kernel time sync disabled 0041`

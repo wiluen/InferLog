@@ -1,0 +1,11 @@
+Log message: `Link error on broadcast tree Interconnect-1T00:00:3:6`
+Log template: `Link error on broadcast tree Interconnect-<*>:<*>:<*>:<*>`
+Log message: `ambient=30`
+Log template: `ambient=<*>`
+Log message: `normal`
+Log template: `normal`
+Log message: `Link error`
+Log template: `Link error`
+Log message: `power/control problem`
+Log template: `power/control problem`
+`power/control problem`

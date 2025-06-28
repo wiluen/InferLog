@@ -1,0 +1,11 @@
+Log message: `*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** unregister callback for <*>@<*>`
+Log message: `acquire lock=86152250, flags=0x1, tag="handleAudioEvent", name=android, ws=null, uid=1000, pid=1702`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `removeNotification:0|com.tencent.mobileqq|121|null|10111`
+Log template: `removeNotification:<*>|<*>|<*>|<*>|<*>`
+Log message: `notifyUiVisibilityChanged:vis=0x40000000, SystemUiVisibility=0x40000000`
+Log template: `notifyUiVisibilityChanged:vis=<*>, SystemUiVisibility=<*>`
+Log message: `shouldBlockLocation  ret:true`
+Log template: `shouldBlockLocation ret:<*>`
+`START u0 {act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.tencent.mobileqq/.activity.SplashActivity bnds=[360,820][536,1011]} from uid 10057 on display 0`

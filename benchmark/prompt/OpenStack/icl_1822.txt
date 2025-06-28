@@ -1,0 +1,11 @@
+Log message: `[instance: 70c1714b-c11b-4c88-b300-239afe1f5ff8] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Terminating instance`
+Log template: `[instance: <*>] Terminating instance`
+Log message: `[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] Took 0.45 seconds to deallocate network for instance.`
+Log template: `[instance: <*>] Took <*> seconds to deallocate network for instance.`
+Log message: `[instance: a015cf14-84bb-4156-a48d-7c4824ac7a9d] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] vcpu limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] vcpu limit not specified, defaulting to unlimited`
+`[instance: 96abccce-8d1f-4e07-b6d1-4b2ab87e23b4] Took 0.52 seconds to deallocate network for instance.`

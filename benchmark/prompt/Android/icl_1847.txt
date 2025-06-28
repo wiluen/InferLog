@@ -1,0 +1,11 @@
+Log message: `getCellLocation is blocked by permission manager uid:10111 pid:28601`
+Log template: `getCellLocation is blocked by permission manager uid:<*> pid:<*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `Animating brightness: target=38, rate=200`
+Log template: `Animating brightness: target=<*>, rate=<*>`
+Log message: `flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`
+Log template: `flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>`
+Log message: `*** register callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** register callback for <*>@<*>`
+`onTrackingStopped: true`

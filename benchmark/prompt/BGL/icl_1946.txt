@@ -1,0 +1,11 @@
+Log message: `5 torus receiver z+ input pipe error(s) (dcr 0x02f0) detected and corrected`
+Log template: `<*> torus receiver z+ input pipe error(s) (dcr <*>) detected and corrected`
+Log message: `2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds`
+Log template: `<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1`
+Log template: `<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>`
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+Log message: `total of 12 ddr error(s) detected and corrected`
+Log template: `total of <*> ddr error(s) detected and corrected`
+`total of 12 ddr error(s) detected and corrected`

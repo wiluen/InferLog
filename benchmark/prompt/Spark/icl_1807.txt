@@ -1,0 +1,11 @@
+Log message: `Server created on 40984`
+Log template: `Server created on <*>`
+Log message: `Starting executor ID 5 on host mesos-slave-07`
+Log template: `Starting executor ID <*> on host <*>`
+Log message: `Remoting started; listening on addresses :[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]`
+Log template: `Remoting started; listening on addresses :[<*>]`
+Log message: `Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port 40984.`
+Log template: `Successfully started service 'org.apache.spark.network.netty.NettyBlockTransferService' on port <*>.`
+Log message: `Successfully started service 'sparkExecutorActorSystem' on port 55904.`
+Log template: `Successfully started service 'sparkExecutorActorSystem' on port <*>.`
+`Successfully started service 'sparkExecutorActorSystem' on port 55904.`

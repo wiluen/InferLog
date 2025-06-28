@@ -1,0 +1,11 @@
+Log message: `Session: 30546354_3274949497 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Reboot mark refs incremented to: 1`
+Log template: `Reboot mark refs incremented to: <*>`
+Log message: `Session: 30546354_3047216471 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_3292510501 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546354_3189934634 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Session: 30546354_3074888054 initialized by client WindowsUpdateAgent.`

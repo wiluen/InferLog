@@ -1,0 +1,11 @@
+Log message: `the url = http://baike.baidu.com/item/%E8%93%9D%E9%87%87%E5%92%8C/462624?fr=aladdin`
+Log template: `the url = <*>`
+Log message: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)`
+Log template: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)`
+Log message: `CoreAnimation: timed out fence 5fe83`
+Log template: `CoreAnimation: timed out fence <*>`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `Error in CoreDragRemoveTrackingHandler: -1856`
+Log template: `Error in CoreDragRemoveTrackingHandler: <*>`
+`Error in CoreDragRemoveReceiveHandler: -1856`

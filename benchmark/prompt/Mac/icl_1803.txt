@@ -1,0 +1,11 @@
+Log message: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+Log template: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+Log message: `booter start at 1251 ms smc 0 ms, [18, 0, 0] total 367 ms, dsply 0, 0 ms, tramp 1080 ms`
+Log template: `booter start at <*> ms smc <*> ms, [<*>, <*>, <*>] total <*> ms, dsply <*>, <*> ms, tramp <*> ms`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `PMStats: Hibernate read took 197 ms`
+Log template: `PMStats: Hibernate read took <*> ms`
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+`network_reachability_changed : network is not reachable, netbiosd is shutting down`

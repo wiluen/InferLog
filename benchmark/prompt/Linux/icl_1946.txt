@@ -1,0 +1,11 @@
+Log message: `selinux_register_security:  Registering secondary module capability`
+Log template: `<*>: Registering secondary module capability`
+Log message: `connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul  3 10:05:25 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+Log message: `Failure registering capabilities with the kernel`
+Log template: `Failure registering capabilities with the kernel`
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+`There is already a security framework initialized, register_security failed.`

@@ -1,0 +1,11 @@
+Log message: `after trim url = https://www.google.com/_/chrome/newtab?rlz=1C5CHFA_enHK732HK732&espv=2&ie=UTF-8`
+Log template: `after trim url = https://www.google.com/_/chrome/newtab?rlz=<*>&espv=<*>&ie=UTF-<*>`
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+Log message: `ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223`
+Log template: `ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>`
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `11:46:19.229 : Finished generating hashes`
+Log template: `<*> : Finished generating hashes`
+`Location icon should now be in state 'Active'`

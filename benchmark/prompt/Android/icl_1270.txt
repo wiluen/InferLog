@@ -1,0 +1,11 @@
+Log message: `Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]`
+Log template: `Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]`
+Log message: `removeNotification:0|com.tencent.mobileqq|121|null|10111`
+Log template: `removeNotification:<*>|<*>|<*>|<*>|<*>`
+Log message: `release:lock=237091223, flg=0x0, tag="WiredAccessoryManager", name=android", ws=null, uid=1000, pid=1702`
+Log template: `release:lock=<*>, flg=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }`
+Log template: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `The change in focus caused us to need to do a layout begin`
+Log template: `The change in focus caused us to need to do a layout begin`
+`ActivityRecord info: ActivityInfo{71e60ba com.tencent.mobileqq.activity.SplashActivity}, euid: 0`

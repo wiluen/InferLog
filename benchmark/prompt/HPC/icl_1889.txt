@@ -1,0 +1,11 @@
+Log message: `Targeting domains:node-D2 and nodes:node-[64-95] child of command 3488`
+Log template: `Targeting domains:<*> and nodes:node-[<*>-<*>] child of command <*>`
+Log message: `Targeting domains:node-D7 and nodes:node-[224\ 228\ 232]`
+Log template: `Targeting domains:<*> nodes:<*>`
+Log message: `Targeting domains:node-D2 and nodes:node-84`
+Log template: `Targeting domains:<*> nodes:<*>`
+Log message: `Targeting domains:node-D[0\ 5] and nodes:node-[27\ 191]`
+Log template: `Targeting domains:<*> nodes:<*>`
+Log message: `Targeting domains:node-D0 and nodes:node-0`
+Log template: `Targeting domains:<*> nodes:<*>`
+`Targeting domains:node-D0 and nodes:node-0`

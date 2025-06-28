@@ -1,0 +1,11 @@
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `11:49:29.473 : BTLE scanner Powered On`
+Log template: `<*> : BTLE scanner Powered On`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `setting hostname to "authorMacBook-Pro.local"`
+Log template: `setting hostname to "<*>"`
+Log message: `arp_client_transmit(en0) failed, Network is down (50)`
+Log template: `arp_client_transmit(<*>) failed, Network is down (<*>)`
+`setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`

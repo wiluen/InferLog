@@ -1,0 +1,11 @@
+Log message: `bulkSaveDetailHiHealthData() size = 20,totalTime = 34`
+Log template: `bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>`
+Log message: `tryToRecordAsBasicStepData bWrite true`
+Log template: `tryToRecordAsBasicStepData bWrite <*>`
+Log message: `ifCanSync not! no cloud version`
+Log template: `ifCanSync not! no cloud version`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `registersensorsuccess: true`
+Log template: `registersensorsuccess: <*>`
+`registersensorsuccess: true`

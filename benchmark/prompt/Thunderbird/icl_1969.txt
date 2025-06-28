@@ -1,0 +1,11 @@
+Log message: `connection from "#28#"`
+Log template: `connection from <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `[ib_sm_sweep.c:1482]: No configuration change required`
+Log template: `[ib_sm_sweep.c:<*>]: No configuration change required`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `Server listening on :: port 22.`
+Log template: `Server listening on :: port <*>.`
+`Server listening on :: port 22.`

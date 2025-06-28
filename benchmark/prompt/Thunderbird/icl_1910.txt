@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `4.1.0-ioctl (2003-12-10) initialised: #36#@#37#`
+Log template: `<*>-ioctl (<*>) initialised: <*>`
+Log message: `Registering netfilter hooks`
+Log template: `Registering netfilter hooks`
+Log message: `Unregistering netfilter hooks`
+Log template: `Unregistering netfilter hooks`
+Log message: `(C) 2000-2002 Netfilter core team`
+Log template: `(C) <*>-<*> Netfilter core team`
+`(C) 2000-2002 Netfilter core team`

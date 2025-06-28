@@ -1,0 +1,11 @@
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `guaranteed instruction cache block touch.0`
+Log template: `guaranteed instruction cache block touch.<*>`
+Log message: `guaranteed data cache block touch........1`
+Log template: `guaranteed data cache block touch........<*>`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+Log message: `machine check: i-fetch......................0`
+Log template: `machine check: i-fetch......................<*>`
+`machine check: i-fetch......................0`

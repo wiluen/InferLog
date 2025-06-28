@@ -1,0 +1,11 @@
+Log message: `Physical Processor ID: 3`
+Log template: `Physical Processor ID: <*>`
+Log message: `Detected 3591.360 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `(supports S0 S4 S5)`
+Log template: `(supports <*>)`
+Log message: `Physical Processor ID: 0`
+Log template: `Physical Processor ID: <*>`
+Log message: `Processor [CPU2] (supports C1)`
+Log template: `Processor [<*>] (supports C1)`
+`Processor [CPU1] (supports C1)`

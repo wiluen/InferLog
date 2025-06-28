@@ -1,0 +1,11 @@
+Log message: `input_userauth_request: invalid user cisco [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `input_userauth_request: invalid user default [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Connection closed by 212.47.254.145 [preauth]`
+Log template: `Connection closed by <*> [preauth]`
+Log message: `Received disconnect from 119.137.62.142: 11: disconnected by user`
+Log template: `Received disconnect from <*>: <*>: disconnected by user`
+Log message: `Failed password for root from 60.2.12.12 port 63646 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+`pam_unix(sshd:session): session closed for user fztu`

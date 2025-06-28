@@ -1,0 +1,11 @@
+Log message: `root=LABEL=/ initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin console=tty0 console=ttyS0,19200 fastboot BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr`
+Log template: `<*>=LABEL=/ initrd=<*> console=<*> console=<*>,<*> fastboot BOOT_IMAGE=<*>`
+Log message: `registered new driver usbfs`
+Log template: `registered new driver usbfs`
+Log message: `Starting in permissive mode`
+Log template: `Starting in permissive mode`
+Log message: `fw version:[516A] bios version:[H418]`
+Log template: `fw version:[<*>] bios version:[<*>]`
+Log message: `Power Button (FF) [PWRF]`
+Log template: `Power Button (FF) [PWRF]`
+`Power Button (FF) [PWRF]`

@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=65.166.159.14`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `Real Time Clock Driver v1.12`
+Log template: `Real Time Clock Driver <*>`
+`Real Time Clock Driver v1.12`

@@ -1,0 +1,11 @@
+Log message: `Session: 30546354_3072677928 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Idle processing thread terminated normally`
+Log template: `Idle processing thread terminated normally`
+Log message: `Loading offline registry hive: SAM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+Log message: `00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90`
+Log template: `<*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>) (flags = <*>, progress = <*>, phase = <*>, pdwDisposition = @<*>`
+Log message: `Reboot mark refs: 0`
+Log template: `Reboot mark refs: <*>`
+`0000000c ICSITransaction::Commit calling IStorePendingTransaction::Apply - coldpatching=FALSE applyflags=7`

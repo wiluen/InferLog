@@ -1,0 +1,11 @@
+Log message: `Processing the event EventType: TASK_ABORT`
+Log template: `Processing the event EventType: TASK_ABORT`
+Log message: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d`
+Log template: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@<*>`
+Log message: `job_1445144423722_0020Job Transitioned from SETUP to RUNNING`
+Log template: `<*> Transitioned from SETUP to RUNNING`
+Log message: `Processing the event EventType: JOB_SETUP`
+Log template: `Processing the event EventType: JOB_SETUP`
+Log message: `Emitting job history data to the timeline server is not enabled`
+Log template: `Emitting job history data to the timeline server is not enabled`
+`Emitting job history data to the timeline server is not enabled`

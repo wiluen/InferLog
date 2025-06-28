@@ -1,0 +1,11 @@
+Log message: `Session: 30546174_107523157 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_171536818 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Session: 30546174_89322115 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Read out cached package applicability for package: Package_for_KB3030377~31bf3856ad364e35~amd64~~6.1.1.2, ApplicableState: 112, CurrentState:112`
+Log template: `Read out cached package applicability for package: <*>, ApplicableState: <*>, CurrentState:<*>`
+Log message: `Session: 30546174_180217314 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+`Read out cached package applicability for package: Package_for_KB2742599~31bf3856ad364e35~amd64~~6.1.1.0, ApplicableState: 112, CurrentState:112`

@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=`
+Log message: `connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 207.30.238.8 (host8.topspot.net) at Sun Jul 17 12:30:59 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `session closed for user cyrus`
+Log template: `session closed for user <*>`
+`authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=220-135-151-1.hinet-ip.hinet.net  user=root`

@@ -1,0 +1,11 @@
+Log message: `SELinux: Registering netfilter hooks`
+Log template: `SELinux: Registering netfilter hooks`
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+Log message: `SELinux: Starting in permissive mode`
+Log template: `SELinux: Starting in permissive mode`
+Log message: `SELinux: Initializing.`
+Log template: `SELinux: Initializing.`
+Log message: `selinux_register_security:  Registering secondary module capability`
+Log template: `<*>: Registering secondary module capability`
+`selinux_register_security:  Registering secondary module capability`

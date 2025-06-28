@@ -1,0 +1,11 @@
+Log message: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=1035 "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+Log template: `SOSAccountThisDeviceCanSyncWithCircle sync with device failure: Error Domain=com.apple.security.sos.error Code=<*> "Account identity not set" UserInfo={NSDescription=Account identity not set}`
+Log message: `Session 102106 destroyed`
+Log template: `Session <*> destroyed`
+Log message: `no application identifier provided, can't use provisioning profiles [pid=37563]`
+Log template: `no application identifier provided, can't use provisioning profiles [pid=<*>]`
+Log message: `bitmap_size 0x7f0fc, previewSize 0x4028, writing 485676 pages @ 0x97144`
+Log template: `bitmap_size <*>, previewSize <*>, writing <*> pages @ <*>`
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+`11:07:29.673 : Purged contact hashes`

@@ -1,0 +1,11 @@
+Log message: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=0`
+Log template: `stopWifiDisplayScanLocked mWifiDisplayScanRequestCount=<*>`
+Log message: `onExpandingFinished`
+Log template: `onExpandingFinished`
+Log message: `logNotificationVisibilityChanges runInThread start`
+Log template: `logNotificationVisibilityChanges runInThread start`
+Log message: `makeExpandedInvisible: mExpandedVisible=true`
+Log template: `makeExpandedInvisible: mExpandedVisible=<*>`
+Log message: `Sending non-protected broadcast com.android.systemui.statusbar.visible.change from system 2227:com.android.systemui/u0a37 pkg com.android.systemui`
+Log template: `Sending non-protected broadcast <*> from system <*> pkg <*>`
+`state.clipTopAmount:69, i:0`

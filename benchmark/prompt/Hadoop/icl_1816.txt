@@ -1,0 +1,11 @@
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.TaskAttemptEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$TaskAttemptEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.jobhistory.EventType for class org.apache.hadoop.mapreduce.jobhistory.JobHistoryEventHandler`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobEventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobEventDispatcher`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobFinishEvent$Type for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobFinishEventHandler`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+`Registering class org.apache.hadoop.mapreduce.v2.app.job.event.JobFinishEvent$Type for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$JobFinishEventHandler`

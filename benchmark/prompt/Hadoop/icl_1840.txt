@@ -1,0 +1,11 @@
+Log message: `Starting Socket Reader #1 for port 62270`
+Log template: `Starting Socket Reader #<*> for port <*>`
+Log message: `Starting Socket Reader #1 for port 62260`
+Log template: `Starting Socket Reader #<*> for port <*>`
+Log message: `maxTaskFailuresPerNode is 3`
+Log template: `maxTaskFailuresPerNode is <*>`
+Log message: `Jetty bound to port 62267`
+Log template: `Jetty bound to port <*>`
+Log message: `jetty-6.1.26`
+Log template: `jetty-<*>`
+`jetty-6.1.26`

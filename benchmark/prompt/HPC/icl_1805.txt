@@ -1,0 +1,11 @@
+Log message: `boot  (command 1978)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 1911)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 1910)`
+Log template: `boot (command <*>)`
+Log message: `bootGenvmunix  (command 4185)`
+Log template: `bootGenvmunix (command <*>)`
+Log message: `bootGenvmunix  (command 1903)`
+Log template: `bootGenvmunix (command <*>)`
+`bootGenvmunix  (command 1903)`

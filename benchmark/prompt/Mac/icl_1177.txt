@@ -1,0 +1,11 @@
+Log message: `setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`
+Log template: `setting hostname to "<*>"`
+Log message: `ARPT: 661549.802297: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log template: `ARPT: <*>: wl0: leaveModulePoweredForOffloads: Wi-Fi will stay on.`
+Log message: `AirPort: Link Down on en0. Reason 8 (Disassociated because station leaving).`
+Log template: `AirPort: Link Down on en0. Reason <*> (Disassociated because station leaving).`
+Log message: `send_datagram_available_ping: pid 445 failed to act on a ping it dequeued before timing out.`
+Log template: `send_datagram_available_ping: pid <*> failed to act on a ping it dequeued before timing out.`
+Log message: `SecOSStatusWith error:[-50] Error Domain=NSOSStatusErrorDomain Code=-50 "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}`
+Log template: `SecOSStatusWith error:[<*>] Error Domain=NSOSStatusErrorDomain Code=<*> "query missing class name" (paramErr: error in user parameter list) UserInfo={NSDescription=query missing class name}`
+`en0: 802.11d country code set to 'X3'.`

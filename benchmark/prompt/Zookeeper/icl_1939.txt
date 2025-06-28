@@ -1,0 +1,11 @@
+Log message: `Expiring session 0x14edfaa86f6002a, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `Expiring session 0x14f3fdae8ba0017, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `LOOKING`
+Log template: `LOOKING`
+Log message: `minSessionTimeout set to -1`
+Log template: `minSessionTimeout set to <*>`
+Log message: `maxSessionTimeout set to -1`
+Log template: `maxSessionTimeout set to <*>`
+`maxSessionTimeout set to -1`

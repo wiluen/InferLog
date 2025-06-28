@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `mVisiblity.getValue is false`
+Log template: `mVisiblity.getValue is <*>`
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `cancelNotification,index:0`
+Log template: `cancelNotification,index:<*>`
+Log message: `cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227`
+Log template: `cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>`
+`[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`

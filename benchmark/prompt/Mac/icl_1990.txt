@@ -1,0 +1,11 @@
+Log message: `Sandbox: SpotlightNetHelp(352) deny(1) ipc-posix-shm-read-data CFPBS:186A7:`
+Log template: `Sandbox: <*>(<*>) deny(<*>) ipc-posix-shm-read-data CFPBS:<*>:`
+Log message: `PM response took 1988 ms (54, powerd)`
+Log template: `PM response took <*> ms (<*>, powerd)`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+Log message: `CoreAnimation: timed out fence 5fe83`
+Log template: `CoreAnimation: timed out fence <*>`
+Log message: `21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`
+Log template: `<*> ERROR: <*>: timed out after <*> (<*>); mMajorChangePending=<*>`
+`21:58:33.765 ERROR:    177: timed out after 15.000s (0 0); mMajorChangePending=0`

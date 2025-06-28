@@ -1,0 +1,11 @@
+Log message: `Thermal pressure state: 0 Memory pressure state: 0`
+Log template: `Thermal pressure state: <*> Memory pressure state: <*>`
+Log message: `in6_unlink_ifa: IPv6 address 0x77c9114551ab23ab has no prefix`
+Log template: `<*>: IPv6 address <*> has no prefix`
+Log message: `jemmytest`
+Log template: `jemmytest`
+Log message: `[21:17:07.529] FigAgglomeratorSetObjectForKey signalled err=-16020 (kFigStringConformerError_ParamErr) (NULL key) at /Library/Caches/com.apple.xbs/Sources/CoreMedia/CoreMedia-1731.15.207/Prototypes/LegibleOutput/FigAgglomerator.c line 92`
+Log template: `[<*>] FigAgglomeratorSetObjectForKey signalled err=<*> (kFigStringConformerError_ParamErr) (<*> key) at <*> line <*>`
+Log message: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+Log template: `[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`
+`[BluetoothHIDDeviceController]ERROR: Could not find the disconnected object`

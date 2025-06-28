@@ -1,0 +1,11 @@
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `Unknown cmd fd(5) cmd(80081272){00} arg(ffffda44) on /dev/sda`
+Log template: `Unknown cmd fd(<*>) cmd(<*>){<*>} arg(<*>) on <*>`
+Log message: `DHCPOFFER on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPOFFER on <*> to <*> via eth1`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1`
+`jA9JBWEr014256: from=root, size=1593894, class=0, nrcpts=1, msgid=<200511091911.jA9JBWEr014256@badmin1>, relay=#7#@localhost`

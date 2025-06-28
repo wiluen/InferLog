@@ -1,0 +1,11 @@
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+Log message: `tryToRecordAsBasicStepData bWrite true`
+Log template: `tryToRecordAsBasicStepData bWrite <*>`
+Log message: `checkInsertStatus stepSum or calorieSum is enough`
+Log template: `checkInsertStatus stepSum or calorieSum is enough`
+Log message: `checkInsertStatus stepStatSum or calorieStatSum is enough`
+Log template: `checkInsertStatus stepStatSum or calorieStatSum is enough`
+`uploadStaticsToDB failed message=true`

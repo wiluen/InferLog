@@ -1,0 +1,11 @@
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `Linux agpgart interface v0.100 (c) Dave Jones`
+Log template: `Linux agpgart interface <*> (c) Dave Jones`
+Log message: `Kernel command line: ro root=LABEL=/ rhgb quiet`
+Log template: `Kernel command line: ro root=<*>=<*> rhgb quiet`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004`
+Log template: `Linux version <*> (<*>) (gcc version <*> <*> (Red Hat Linux <*>)) <*> <*> <*> <*> <*> EDT <*>`
+`Linux version 2.6.5-1.358 (bhcompile@bugs.build.redhat.com) (gcc version 3.3.3 20040412 (Red Hat Linux 3.3.3-7)) #1 Sat May 8 09:04:50 EDT 2004`

@@ -1,0 +1,11 @@
+Log message: `SQM: Warning: Failed to upload all unsent reports. [HRESULT = 0x80004005 - E_FAIL]`
+Log template: `SQM: Warning: Failed to upload all unsent reports. [HRESULT = <*> - E_FAIL]`
+Log message: `Session: 30546173_4286853838 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `Failed to internally open package. [HRESULT = 0x800f0805 - CBS_E_INVALID_PACKAGE]`
+Log template: `Failed to internally open package. [HRESULT = <*> - CBS_E_INVALID_PACKAGE]`
+Log message: `Session: 30546173_4268042763 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `0000000b Store coherency cookie matches last scavenge cookie, skipping scavenge.`
+Log template: `<*> Store coherency cookie matches last scavenge cookie, skipping scavenge.`
+`Failed to create backup log cab. [HRESULT = 0x80070001 - ERROR_INVALID_FUNCTION]`

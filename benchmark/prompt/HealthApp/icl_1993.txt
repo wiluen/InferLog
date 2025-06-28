@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3755`
+Log template: `onStandStepChanged <*>`
+Log message: `initEnviroument`
+Log template: `initEnviroument`
+Log message: `next day:steps0mLastReport7214`
+Log template: `next day:<*>`
+Log message: `getTodayTotalDetailSteps = 1514045400000##0##549659##8661##16256##34160765`
+Log template: `getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `deleteHealthNotification()`
+Log template: `deleteHealthNotification()`
+`closeNotification...`

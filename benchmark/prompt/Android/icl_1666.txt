@@ -1,0 +1,11 @@
+Log message: `acquire lock=86152250, flags=0x1, tag="handleAudioEvent", name=android, ws=null, uid=1000, pid=1702`
+Log template: `acquire lock=<*>, flags=<*>, tag="<*>", name=<*>, ws=<*>, uid=<*>, pid=<*>`
+Log message: `*** unregister callback for com.android.systemui.statusbar.policy.KeyguardMonitor@712d093`
+Log template: `*** unregister callback for <*>@<*>`
+Log message: `cancelNotificationWithTag pid 28601,uid = 10111,tag = null,pkg =com.tencent.mobileqq,id =140`
+Log template: `cancelNotificationWithTag pid <*>,uid = <*>,tag = <*>,pkg =<*>,id =<*>`
+Log message: `Destroying surface Surface(name=com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.MainTabActivity) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.destroyOrSaveSurface:2201 com.android.server.wm.AppWindowToken.destroySurfaces:374 com.android.server.wm.AppWindowToken.notifyAppStopped:400 com.android.server.wm.WindowManagerService.notifyAppStopped:4869 com.android.server.am.ActivityStack.activityStoppedLocked:1393 com.android.server.am.ActivityManagerService.activityStopped:7690`
+Log template: `Destroying surface Surface(name=<*>) called by <*>`
+Log message: `Start dump, calling from : pid=12782, uid=1000`
+Log template: `Start dump, calling from : pid=<*>, uid=<*>`
+`Skipping, withExcluded: false, tr.intent:Intent { flg=0x10800000 cmp=com.tencent.qqmusic/.business.lockscreen.LockScreenActivity (has extras) }`

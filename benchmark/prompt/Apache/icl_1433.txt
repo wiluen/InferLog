@@ -1,0 +1,11 @@
+Log message: `jk2_init() Found child 5405 in scoreboard slot 9`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 6400 in scoreboard slot 7`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Can't find child 1567 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+Log message: `jk2_init() Found child 2880 in scoreboard slot 8`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 5901 in scoreboard slot 9`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+`jk2_init() Found child 5900 in scoreboard slot 8`

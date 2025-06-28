@@ -1,0 +1,11 @@
+Log message: `DHCPREQUEST for 10.100.4.251 (10.100.0.250) from 00:11:43:e3:ba:c3 via eth1: unknown lease 10.100.4.251.`
+Log template: `DHCPREQUEST for <*> (<*>) from <*> via eth1: unknown lease <*>.`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `[ib_sm_sweep.c:1831]: ********************** NEW SWEEP ********************`
+Log template: `[ib_sm_sweep.c:<*>]: ********************** NEW SWEEP ********************`
+Log message: `data_thread() got not answer from any [Thunderbird_A5] datasource`
+Log template: `data_thread() got not answer from any [<*>] datasource`
+Log message: `Local disconnected: Connection closed.`
+Log template: `Local disconnected: Connection closed.`
+`[ib_sm_sweep.c:1482]: No configuration change required`

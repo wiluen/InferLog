@@ -1,0 +1,11 @@
+Log message: `Detected 731.219 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Dquot-cache hash table entries: 1024 (order 0, 4096 bytes)`
+Log template: `Dquot-cache hash table entries: <*> (order <*>, <*> bytes)`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+Log message: `CPU: L1 I cache: 16K, L1 D cache: 16K`
+Log template: `CPU: <*> I cache: <*>, <*> D cache: <*>`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+`CPU: L2 cache: 256K`

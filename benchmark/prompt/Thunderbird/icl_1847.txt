@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `apic_id 9, version 32, address 0xfec80000, GSI 32-55`
+Log template: `apic_id <*>, version <*>, address <*>, GSI <*>`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+`Local APIC address 0xfee00000`

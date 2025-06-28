@@ -1,0 +1,11 @@
+Log message: `cleanUpApplicationRecord -- 23484`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `logNotificationVisibilityChanges runInThread over`
+Log template: `logNotificationVisibilityChanges runInThread over`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `cancelNotification,cancelNotificationLocked,callingUid = 10037,callingPid = 2227`
+Log template: `cancelNotification,cancelNotificationLocked,callingUid = <*>,callingPid = <*>`
+Log message: `cancelNotification,index:0`
+Log template: `cancelNotification,index:<*>`
+`[PhoneIntfMgr] getDataEnabled: subId=1 phoneId=1`

@@ -1,0 +1,11 @@
+Log message: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log template: `[HID] [MT] AppleMultitouchDevice::willTerminate entered`
+Log message: `Cocoa scripting error for '0x00b8fffe': four character codes must be four characters long.`
+Log template: `Cocoa scripting error for '<*>': four character codes must be four characters long.`
+Log message: `ARPT: 671958.142550: wl0: setup_keepalive: Local port: 49791, Remote port: 5223`
+Log template: `ARPT: <*>: wl0: setup_keepalive: Local port: <*>, Remote port: <*>`
+Log message: `hibernate_newruntime_map time: 0 ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled 0`
+Log template: `hibernate_newruntime_map time: <*> ms, IOPolledFilePollersOpen(), ml_get_interrupts_enabled <*>`
+Log message: `Telling CSI to go low power.`
+Log template: `Telling CSI to go low power.`
+`Telling CSI to go low power.`

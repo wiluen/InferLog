@@ -1,0 +1,11 @@
+Log message: `attempt_1445144423722_0020_m_000003_0 TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP`
+Log template: `<*> TaskAttempt Transitioned from RUNNING to SUCCESS_CONTAINER_CLEANUP`
+Log message: `nodeBlacklistingEnabled:true`
+Log template: `nodeBlacklistingEnabled:<*>`
+Log message: `JVM with ID: jvm_1445144423722_0020_m_000009 given task: attempt_1445144423722_0020_m_000007_0`
+Log template: `JVM with ID: <*> given task: <*>`
+Log message: `Opening proxy : MSRA-SA-39.fareast.corp.microsoft.com:28345`
+Log template: `Opening proxy : <*>`
+Log message: `Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog`
+Log template: `Logging to <*>(org.mortbay.log) via <*>`
+`Logging to org.slf4j.impl.Log4jLoggerAdapter(org.mortbay.log) via org.mortbay.log.Slf4jLog`

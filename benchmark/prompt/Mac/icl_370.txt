@@ -1,0 +1,11 @@
+Log message: `Session 102106 destroyed`
+Log template: `Session <*> destroyed`
+Log message: `IOThunderboltSwitch<0>(0x0)::listenerCallback - Thunderbolt HPD packet for route = 0x0 port = 12 unplug = 0`
+Log template: `<*>(<*>)::listenerCallback - Thunderbolt HPD packet for route = <*> port = <*> unplug = <*>`
+Log message: `AppleThunderboltNHIType2::waitForOk2Go2Sx - intel_rp = 1 dlla_reporting_supported = 0`
+Log template: `<*>::<*> - intel_rp = <*> dlla_reporting_supported = <*>`
+Log message: `bitmap_size 0x7f0fc, previewSize 0x4028, writing 485676 pages @ 0x97144`
+Log template: `bitmap_size <*>, previewSize <*>, writing <*> pages @ <*>`
+Log message: `Saw change in network reachability (isReachable=2)`
+Log template: `Saw change in network reachability (isReachable=<*>)`
+`06:57:52.002 : Purged contact hashes`

@@ -1,0 +1,11 @@
+Log message: `Node card VPD check: U11 node in processor card slot J17 do not match. VPD ecid 04D97DB7937BFFFF05071B7054DA, found 04D081A3892FFFFF0D0B1C505AF3`
+Log template: `Node card VPD check: <*> node in processor card slot <*> do not match. VPD ecid <*>, found <*>`
+Log message: `ciod: pollControlDescriptors: Detected the debugger died.`
+Log template: `ciod: pollControlDescriptors: Detected the debugger died.`
+Log message: `ciod: LOGIN chdir(/p/gb2/glosli/8M_5000K/t800) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: LOGIN chdir(/bgl/apps/SWL/performance/MINIBEN///2005.09.20-18.06.01) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `iar 003a90fc dear 00b35db8`
+Log template: `iar <*> dear <*>`
+`ciod: LOGIN chdir(/home/germann2/BGL-demo) failed: No such file or directory`

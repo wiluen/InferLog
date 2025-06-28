@@ -1,0 +1,11 @@
+Log message: `updateChargingLocked: charging=false`
+Log template: `updateChargingLocked: charging=<*>`
+Log message: `ApStaDisabledState what=155652`
+Log template: `ApStaDisabledState what=<*>`
+Log message: `onReceive, action:android.intent.action.BATTERY_CHANGED`
+Log template: `onReceive, action:<*>`
+Log message: `ChargingSpeed  Wattage: -1 ST: 5000000 --> 7500000`
+Log template: `ChargingSpeed Wattage: <*> ST: <*> --> <*>`
+Log message: `DefaultState what=155652`
+Log template: `DefaultState what=<*>`
+`ACTION_BATTERY_CHANGED pluggedType: 0`

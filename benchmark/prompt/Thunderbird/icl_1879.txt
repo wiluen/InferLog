@@ -1,0 +1,11 @@
+Log message: `colour VGA+ 80x25`
+Log template: `colour VGA+ <*>`
+Log message: `connection from "#28#"`
+Log template: `connection from <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `PCI Root Bridge [PCI0] (00:00)`
+Log template: `PCI <*> Bridge [PCI0] (<*>)`
+Log message: `Transparent bridge - 0000:00:1e.0`
+Log template: `Transparent bridge - <*>`
+`Transparent bridge - 0000:00:1e.0`

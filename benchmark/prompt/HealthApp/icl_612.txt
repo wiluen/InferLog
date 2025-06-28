@@ -1,0 +1,11 @@
+Log message: `getTodayBasicStandardSteps= 1514044800223##3786##0`
+Log template: `getTodayBasicStandardSteps= <*>##<*>##<*>`
+Log message: `theDayChanged 1514044800216`
+Log template: `theDayChanged <*>`
+Log message: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log template: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log message: `tryToReloadTodayBasicSteps1514044800223|3786|0|0`
+Log template: `<*>|<*>|<*>|<*>`
+Log message: `getAppContext() isAppValid health or wear, packageName = com.huawei.health`
+Log template: `getAppContext() isAppValid health or wear, packageName = <*>`
+`upLoadOneMinuteDataToEngine time=25233976,0,1,0,20002`

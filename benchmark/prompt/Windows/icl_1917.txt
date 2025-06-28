@@ -1,0 +1,11 @@
+Log message: `Session: 30546354_3205955551 initialized by client WindowsUpdateAgent.`
+Log template: `Session: <*> initialized by client WindowsUpdateAgent.`
+Log message: `0000000e Created NT transaction (seq 2) result 0x00000000, handle @0xb8`
+Log template: `<*> Created NT transaction (seq <*>) result <*>, handle @<*>`
+Log message: `Reboot mark refs: 0`
+Log template: `Reboot mark refs: <*>`
+Log message: `00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0xb6fd90`
+Log template: `<*> IAdvancedInstallerAwareStore_ResolvePendingTransactions (call <*>) (flags = <*>, progress = <*>, phase = <*>, pdwDisposition = @<*>`
+Log message: `Loading offline registry hive: SAM, into registry key '{bf1a281b-ad7b-4476-ac95-f47682990ce7}GLOBALROOT/Device/HarddiskVolumeShadowCopy2/Windows/System32/config/SAM' from path '\\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy2\Windows\System32\config\SAM'.`
+Log template: `Loading offline registry hive: <*>, into registry key '<*>' from path '<*>'.`
+`00000004 IAdvancedInstallerAwareStore_ResolvePendingTransactions (call 1) (flags = 00000004, progress = NULL, phase = 0, pdwDisposition = @0x116fa70`

@@ -1,0 +1,11 @@
+Log message: `(root) CMD (run-parts /etc/cron.hourly)`
+Log template: `(<*>) CMD (run-parts <*>)`
+Log message: `passed.`
+Log template: `passed.`
+Log message: `Disabled at runtime.`
+Log template: `Disabled at runtime.`
+Log message: `autorun ...`
+Log template: `autorun ...`
+Log message: `... autorun DONE.`
+Log template: `... autorun DONE.`
+`... autorun DONE.`

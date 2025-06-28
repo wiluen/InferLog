@@ -1,0 +1,11 @@
+Log message: `******* GOODBYE /10.10.34.12:59203 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `******* GOODBYE /10.10.34.11:52502 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `Connection broken for id 188978561024, my id = 2, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `******* GOODBYE /10.10.34.13:57458 ********`
+Log template: `******* GOODBYE <*> ********`
+Log message: `******* GOODBYE /10.10.34.11:52844 ********`
+Log template: `******* GOODBYE <*> ********`
+`******* GOODBYE /10.10.34.13:57502 ********`

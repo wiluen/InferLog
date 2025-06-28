@@ -1,0 +1,11 @@
+Log message: `AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us`
+Log template: `<*>::prePCIWake - power up complete - took <*> us`
+Log message: `RTC: PowerByCalendarDate setting ignored`
+Log template: `RTC: PowerByCalendarDate setting ignored`
+Log message: `setting hostname to "calvisitor-10-105-163-9.calvisitor.1918.berkeley.edu"`
+Log template: `setting hostname to "<*>"`
+Log message: `hibernate_machine_init pagesDone 455920 sum2 81cafc41, time: 185 ms, disk(0x20000) 847 Mb/s, comp bytes: 47288320 time: 32 ms 1369 Mb/s, crypt bytes: 158441472 time: 38 ms 3973 Mb/s`
+Log template: `hibernate_machine_init pagesDone <*> sum2 <*>, time: <*> ms, disk(<*>) <*> Mb/s, comp bytes: <*> time: <*> ms <*> Mb/s, crypt bytes: <*> time: <*> ms <*> Mb/s`
+Log message: `11:20:51.293 : BTLE discovered device with hash <01faa200 00000000 0000>`
+Log template: `<*> : BTLE discovered device with hash <*>`
+`mDNS_DeregisterInterface: Frequent transitions for interface en0 (10.105.162.32)`

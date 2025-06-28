@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=`
+Log message: `connection from 216.12.111.241 () at Thu Jul 21 09:04:41 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 210.223.97.117 () at Wed Jun 29 14:44:35 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 84.102.20.2 () at Sun Jul 24 02:38:22 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.107.232.1 () at Fri Jul 15 23:42:44 2005`
+Log template: `connection from <*> () at <*>`
+`authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=c51471f2c.cable.wanadoo.nl  user=root`

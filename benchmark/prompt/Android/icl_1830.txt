@@ -1,0 +1,11 @@
+Log message: `updateChargingLocked: charging=false`
+Log template: `updateChargingLocked: charging=<*>`
+Log message: `ApStaDisabledState what=155652`
+Log template: `ApStaDisabledState what=<*>`
+Log message: `Taking screenshot from Surface with crop:[Rect(0, 48 - 720, 1208)], width:[432], height:[696], minLayer:[21080], maxLayer:[21085], inRotation:[false], rot:[0]`
+Log template: `Taking screenshot from Surface with crop:[Rect(<*>, <*> - <*>, <*>)], width:[<*>], height:[<*>], minLayer:[<*>], maxLayer:[<*>], inRotation:[<*>], rot:[<*>]`
+Log message: `updateDimmedActivatedHideSensitive overlap:true`
+Log template: `updateDimmedActivatedHideSensitive overlap:<*>`
+Log message: `updateLightsLocked,turn off notificationLight`
+Log template: `updateLightsLocked,turn off notificationLight`
+`Bad activity token: android.os.BinderProxy@2bd79ce`

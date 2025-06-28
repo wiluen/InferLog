@@ -1,0 +1,11 @@
+Log message: `registered new driver usbhid`
+Log template: `registered new driver usbhid`
+Log message: `Processor ANSI SCSI revision: 02`
+Log template: `Processor ANSI SCSI revision: <*>`
+Log message: `scanning scsi channel 1 [virtual] for logical drives`
+Log template: `scanning scsi channel <*> [virtual] for logical drives`
+Log message: `MegaRAID Model: LD 0 RAID1 139G Rev: 516A`
+Log template: `MegaRAID Model: LD <*> RAID1 <*> Rev: <*>`
+Log message: `LSI Logic MegaRAID driver`
+Log template: `LSI Logic MegaRAID driver`
+`LSI Logic MegaRAID driver`

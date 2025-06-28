@@ -1,0 +1,11 @@
+Log message: `rts internal error`
+Log template: `rts internal error`
+Log message: `ciod: generated 1 core files for program /bgl/apps/swl-prep/ibm-swl/functional/sppm_chkpt/run/sppm`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: cpu 0 at treeaddr 438 sent unrecognized message 0xffffffff`
+Log template: `ciod: cpu <*> at treeaddr <*> sent unrecognized message <*>`
+Log message: `rts: bad message header: expecting type 57 instead of type 3 (softheader=00131db8 81aa0003 00000002 00000000) PSR0=00001f01 PSR1=00000000 PRXF=00000002 PIXF=00000007`
+Log template: `rts: bad message header: expecting type <*> instead of type <*> (softheader=<*> <*> <*> <*>) PSR0=<*> PSR1=<*> PRXF=<*> PIXF=<*>`
+Log message: `rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015`
+Log template: `rts: kernel terminated for reason <*>: bad message header: invalid cpu, type=<*>, cpu=<*>, index=<*>, total=<*>`
+`rts: kernel terminated for reason 1001rts: bad message header: invalid cpu, type=42315, cpu=105, index=1207960804, total=2691015`

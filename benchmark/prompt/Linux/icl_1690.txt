@@ -1,0 +1,11 @@
+Log message: `connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 212.65.68.82 () at Sat Jul 16 08:14:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.167.68.59 () at Sat Jun 25 19:25:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 67.95.49.172 () at Fri Jul 22 19:29:10 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 206.47.209.10 () at Mon Jul 25 06:39:18 2005`

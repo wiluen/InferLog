@@ -1,0 +1,11 @@
+Log message: `Invalid user default from 5.188.10.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user anonymous from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user api from 185.190.58.151`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user user from 103.99.0.122`
+Log template: `Invalid user <*> from <*>`
+Log message: `PAM 5 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=119.4.203.64`
+Log template: `PAM <*> more authentication failures; logname= uid=<*> euid=<*> tty=ssh ruser= rhost=<*>`
+`Failed password for invalid user admin from 103.99.0.122 port 50011 ssh2`

@@ -1,0 +1,11 @@
+Log message: `PCI: Using configuration type 1`
+Log template: `PCI: Using configuration type <*>`
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+Log message: `connection from 202.82.200.188 () at Fri Jul  1 07:57:30 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `DMI 2.3 present.`
+Log template: `DMI <*> present.`
+`DMI 2.3 present.`

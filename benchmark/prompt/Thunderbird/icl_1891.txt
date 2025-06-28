@@ -1,0 +1,11 @@
+Log message: `PE/PV Model: 1x2 SCSI BP Rev: 1.0`
+Log template: `PE/PV Model: <*> SCSI BP Rev: <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `Subsystem revision 20040816`
+Log template: `Subsystem revision <*>`
+Log message: `Direct-Access ANSI SCSI revision: 02`
+Log template: `Direct-Access ANSI SCSI revision: <*>`
+Log message: `Processor ANSI SCSI revision: 02`
+Log template: `Processor ANSI SCSI revision: <*>`
+`Processor ANSI SCSI revision: 02`

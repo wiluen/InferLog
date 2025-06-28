@@ -1,0 +1,11 @@
+Log message: `Accepted socket connection from /10.10.34.34:56149`
+Log template: `Accepted socket connection from <*>`
+Log message: `Have smaller server identifier, so dropping the connection: (2, 1)`
+Log template: `Have smaller server identifier, so dropping the connection: (<*>, <*>)`
+Log message: `Closed socket connection for client /10.10.34.11:49557 which had sessionid 0x14ed93111f20048`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Accepted socket connection from /10.10.34.23:51828`
+Log template: `Accepted socket connection from <*>`
+Log message: `Notification time out: 60000`
+Log template: `Notification time out: <*>`
+`Accepted socket connection from /10.10.34.12:36358`

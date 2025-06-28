@@ -1,0 +1,11 @@
+Log message: `Creating event network-vif-plugged:98dbd0a6-013e-4cd9-9986-fa32e5d6dd32 for instance ae3a1b5d-eec1-45bb-b76a-c59d83b1471f`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] Total memory: 64172 MB, used: 512.00 MB`
+Log template: `[instance: <*>] Total memory: <*> MB, used: <*> MB`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] disk limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] disk limit not specified, defaulting to unlimited`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] vcpu limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] vcpu limit not specified, defaulting to unlimited`
+`[instance: 95960536-049b-41f6-9049-05fc479b6a7c] Total memory: 64172 MB, used: 512.00 MB`

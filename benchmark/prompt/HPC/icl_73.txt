@@ -1,0 +1,11 @@
+Log message: `boot  (command 2406)`
+Log template: `boot (command <*>)`
+Log message: `halt  (command 2221)`
+Log template: `halt (command <*>)`
+Log message: `boot (command 2092) Error: HALT asserted\  cannot continue`
+Log template: `boot (command <*>) Error: HALT asserted\ cannot continue`
+Log message: `Command has been aborted`
+Log template: `Command has been aborted`
+Log message: `Command has completed successfully`
+Log template: `Command has completed successfully`
+`Command has completed successfully`

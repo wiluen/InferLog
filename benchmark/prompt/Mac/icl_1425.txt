@@ -1,0 +1,11 @@
+Log message: `INIT -- Host controller is published`
+Log template: `INIT -- Host controller is published`
+Log message: `AppleThunderboltNHIType2::prePCIWake - power up complete - took 5 us`
+Log template: `<*>::prePCIWake - power up complete - took <*> us`
+Log message: `Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable`
+Log template: `Failed to connect (view) outlet from (NSApplication) to (NSColorPickerGridView): missing setter or instance variable`
+Log message: `handle_will_sleep_auth_and_shield_windows: Reordering authw 0x7fa823a04400(2004) (lock state: 3)`
+Log template: `handle_will_sleep_auth_and_shield_windows: Reordering authw <*>(<*>) (lock state: <*>)`
+Log message: `Captive: [CNInfoNetworkActive:1748] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)`
+Log template: `Captive: [CNInfoNetworkActive:<*>] en0: SSID 'CalVisitor' making interface primary (cache indicates network not captive)`
+`CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data`

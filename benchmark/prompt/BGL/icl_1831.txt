@@ -1,0 +1,11 @@
+Log message: `machine check: i-fetch......................0`
+Log template: `machine check: i-fetch......................<*>`
+Log message: `debug interrupt enable............0`
+Log template: `debug interrupt enable............<*>`
+Log message: `debug wait enable.................0`
+Log template: `debug wait enable.................<*>`
+Log message: `wait state enable.................0`
+Log template: `wait state enable.................<*>`
+Log message: `machine check enable..............0`
+Log template: `machine check enable..............<*>`
+`machine check enable..............0`

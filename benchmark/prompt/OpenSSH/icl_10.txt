@@ -1,0 +1,11 @@
+Log message: `Received disconnect from 60.2.12.12: 11: Bye Bye [preauth]`
+Log template: `Received disconnect from <*>: <*>: Bye Bye [preauth]`
+Log message: `Disconnecting: Too many authentication failures for admin [preauth]`
+Log template: `Disconnecting: Too many authentication failures for <*> [preauth]`
+Log message: `message repeated 5 times: [ Failed password for root from 106.5.5.195 port 50719 ssh2]`
+Log template: `message repeated <*> times: [ Failed password for <*> from <*> port <*>]`
+Log message: `Invalid user abc from 187.141.143.180`
+Log template: `Invalid user <*> from <*>`
+Log message: `Invalid user webmaster from 173.234.31.186`
+Log template: `Invalid user <*> from <*>`
+`Invalid user webmaster from 173.234.31.186`

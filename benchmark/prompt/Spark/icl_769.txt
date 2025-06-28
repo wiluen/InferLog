@@ -1,0 +1,11 @@
+Log message: `Got assigned task 0`
+Log template: `Got assigned task <*>`
+Log message: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log template: `mapred.task.id is deprecated. Instead, use mapreduce.task.attempt.id`
+Log message: `File Output Committer Algorithm version is 1`
+Log template: `File Output Committer Algorithm version is <*>`
+Log message: `Saved output of task 'attempt_201706092018_0024_m_000121_1146' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121`
+Log template: `Saved output of task '<*>' to <*>`
+Log message: `attempt_201706092018_0024_m_000002_998: Committed`
+Log template: `<*>: Committed`
+`attempt_201706092018_0024_m_000042_1127: Committed`

@@ -1,0 +1,11 @@
+Log message: `[PhoneIntfMgr] getDataEnabled: subId=1 retVal=true`
+Log template: `[PhoneIntfMgr] getDataEnabled: subId=<*> retVal=<*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `cleanUpApplicationRecord -- 12236`
+Log template: `cleanUpApplicationRecord -- <*>`
+Log message: `enqueueNotificationInternal: pkg=com.tencent.mm id=4097 notification=Notification(pri=1 contentView=null vibrate=[] sound=null tick defaults=0x0 flags=0x101 color=0x00000000 category=msg vis=PRIVATE)`
+Log template: `enqueueNotificationInternal: pkg=<*> id=<*> notification=Notification(pri=<*> contentView=<*> vibrate=[<*>] sound=<*> tick defaults=<*> flags=<*> color=<*> category=msg vis=PRIVATE)`
+Log message: `shouldBlockLocation running ...`
+Log template: `shouldBlockLocation running ...`
+`handleTimeUpdate`

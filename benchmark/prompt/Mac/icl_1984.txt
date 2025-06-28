@@ -1,0 +1,11 @@
+Log message: `Could not get event name for stream/token: com.apple.xpc.activity/4505: 132: Request for stale data`
+Log template: `Could not get event name for stream/token: com.apple.xpc.activity/<*>: <*>: Request for stale data`
+Log message: `[Accounts] Current connection, <NSXPCConnection: 0x7fda74805bf0> connection from pid 487, doesn't have account access.`
+Log template: `[Accounts] Current connection, <NSXPCConnection: <*> connection from pid <*>, doesn't have account access.`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, -9806)`
+Log template: `NSURLSession/NSURLConnection HTTP load failed (kCFStreamErrorDomainSSL, <*>)`
+Log message: `[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail`
+Log template: `[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-<*>.log>, it will probably fail`
+`[QL] No sandbox token for request <QLThumbnailRequest vmware-usbarb-25037.log>, it will probably fail`

@@ -1,0 +1,11 @@
+Log message: `battery changed pluggedType: 0`
+Log template: `battery changed pluggedType: <*>`
+Log message: `RefreshBatteryInfo isBatteryLow: 23`
+Log template: `RefreshBatteryInfo isBatteryLow: <*>`
+Log message: `java.lang.ClassCastException: android.os.BinderProxy cannot be cast to com.android.server.am.ActivityRecord$Token`
+Log template: `<*>: <*> cannot be cast to <*>$Token`
+Log message: `onExpandingStarted`
+Log template: `onExpandingStarted`
+Log message: `isSimPinSecure mSimDatas is null or empty`
+Log template: `isSimPinSecure mSimDatas is <*> or empty`
+`onTouchEvent::1, x=296.0, y=327.0`

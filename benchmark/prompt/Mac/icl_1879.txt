@@ -1,0 +1,11 @@
+Log message: `Got an XPC error: Connection invalid`
+Log template: `Got an XPC error: Connection invalid`
+Log message: `Sandbox: com.apple.WebKit(9854) deny(1) file-read-data /private/etc/hosts`
+Log template: `Sandbox: <*>(<*>) deny(<*>) file-read-data <*>`
+Log message: `setting hostname to "authorMacBook-Pro.local"`
+Log template: `setting hostname to "<*>"`
+Log message: `Host controller terminated`
+Log template: `Host controller terminated`
+Log message: `hibernate_teardown: wired_pages 544767, free_pages 3578340, active_pages 40000, inactive_pages 0, speculative_pages 0, cleaned_pages 0, compressor_pages 112`
+Log template: `hibernate_teardown: wired_pages <*>, free_pages <*>, active_pages <*>, inactive_pages <*>, speculative_pages <*>, cleaned_pages <*>, compressor_pages <*>`
+`INIT -- Host controller is published`

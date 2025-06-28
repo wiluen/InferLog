@@ -1,0 +1,11 @@
+Log message: `1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1`
+Log template: `<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>`
+Log message: `data address: 0x00000002`
+Log template: `data address: <*>`
+Log message: `problem state (0=sup,1=usr).......0`
+Log template: `problem state (<*>=sup,<*>=usr).......<*>`
+Log message: `fraction rounded.........................0`
+Log template: `fraction rounded.........................<*>`
+Log message: `minus normalized number..................0`
+Log template: `minus normalized number..................<*>`
+`minus normalized number..................0`

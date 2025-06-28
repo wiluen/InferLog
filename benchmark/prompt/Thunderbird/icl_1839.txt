@@ -1,0 +1,11 @@
+Log message: `i8042 AUX port at 0x60,0x64 irq 12`
+Log template: `<*> AUX port at <*>,<*> irq <*>`
+Log message: `probe new device 0x1028:0x0013:0x1028:0x016c: bus 2:slot 14:func 0`
+Log template: `probe new device <*>: bus <*>:slot <*>:func <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> high level)`
+Log message: `INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)`
+Log template: `INT_SRC_OVR (bus <*> bus_irq <*> global_irq <*> dfl dfl)`
+`INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)`

@@ -1,0 +1,11 @@
+Log message: `audit(1122475266.4294965305:0): initialized`
+Log template: `audit(<*>): initialized`
+Log message: `There is already a security framework initialized, register_security failed.`
+Log template: `There is already a security framework initialized, <*>.`
+Log message: `sdpd v1.5 started`
+Log template: `sdpd <*> started`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `Security Scaffold v1.0.0 initialized`
+Log template: `Security Scaffold <*> initialized`
+`Security Scaffold v1.0.0 initialized`

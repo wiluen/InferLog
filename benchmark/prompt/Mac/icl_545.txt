@@ -1,0 +1,11 @@
+Log message: `Received Capture Event`
+Log template: `Received Capture Event`
+Log message: `hibernate_teardown_pmap_structs done: last_valid_compact_indx 315096`
+Log template: `hibernate_teardown_pmap_structs done: last_valid_compact_indx <*>`
+Log message: `Previous sleep cause: 5`
+Log template: `Previous sleep cause: <*>`
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `Unrecognized attribute value: t:AbchPersonItemType`
+Log template: `Unrecognized attribute value: t:AbchPersonItemType`
+`Thermal pressure state: 0 Memory pressure state: 0`

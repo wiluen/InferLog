@@ -1,0 +1,11 @@
+Log message: `adding path spec: /mapreduce/*`
+Log template: `adding path spec: <*>`
+Log message: `Web app /mapreduce started at 62267`
+Log template: `Web app <*> started at <*>`
+Log message: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@7317849d`
+Log template: `Error writing History Event: org.apache.hadoop.mapreduce.jobhistory.TaskAttemptUnsuccessfulCompletionEvent@<*>`
+Log message: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log template: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log message: `Http request log for http.requests.mapreduce is not defined`
+Log template: `Http request log for http.requests.mapreduce is not defined`
+`Http request log for http.requests.mapreduce is not defined`

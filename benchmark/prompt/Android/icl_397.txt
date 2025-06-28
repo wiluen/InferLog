@@ -1,0 +1,11 @@
+Log message: `DefaultState what=155652`
+Log template: `DefaultState what=<*>`
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `Skipping, withExcluded: false, tr.intent:Intent { flg=0x18800000 cmp=com.tencent.mm/.plugin.base.stub.WXEntryActivity (has extras) }`
+Log template: `Skipping, withExcluded: <*>, tr.intent:Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `cleanUpApplicationRecordLocked, reset pid: 23484, euid: 0`
+Log template: `cleanUpApplicationRecordLocked, reset pid: <*>, euid: <*>`
+Log message: `applyOptionsLocked: Unknown animationType=0`
+Log template: `applyOptionsLocked: Unknown animationType=<*>`
+`playSoundEffect   effectType: 0`

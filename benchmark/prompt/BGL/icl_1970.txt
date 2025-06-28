@@ -1,0 +1,11 @@
+Log message: `ciod: LOGIN chdir(/bglscratch/bwallen/SWL/SYS-CALLS/testcases/kernel/syscalls/truncate) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: generated 64 core files for program /home/rfisher/sodscaling/flash2`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: LOGIN chdir(/home/germann2/SPaSM_static) failed: No such file or directory`
+Log template: `ciod: LOGIN chdir(<*>) failed: No such file or directory`
+Log message: `ciod: generated 128 core files for program /bgl/apps/SWL/stability/DDCMD//ddcMDbglV`
+Log template: `ciod: generated <*> core files for program <*>`
+Log message: `ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111`
+Log template: `ciod: generated <*> core files for program <*>`
+`ciod: generated 64 core files for program /bgl/apps/followup/hellow/a.out.1111`

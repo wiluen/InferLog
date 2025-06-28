@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000000_0 is : 0.10004553`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.3512319`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Assigned container container_1445144423722_0020_01_000006 to attempt_1445144423722_0020_m_000004_0`
+Log template: `Assigned container <*> to <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.9185183`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.19084874`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+`Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.9854844`

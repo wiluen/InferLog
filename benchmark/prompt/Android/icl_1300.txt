@@ -1,0 +1,11 @@
+Log message: `state.clipTopAmount:69, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `ActivityManagerService,attachApplication,callingPid = 12787`
+Log template: `ActivityManagerService,attachApplication,callingPid = <*>`
+Log message: `getAllCellInfo is blocked by permission manager . callingPackage = com.tencent.mobileqq`
+Log template: `getAllCellInfo is blocked by permission manager . callingPackage = <*>`
+Log message: `state.clipTopAmount:197, i:0`
+Log template: `state.clipTopAmount:<*>, i:<*>`
+Log message: `updateClipping isOverlap:true, getTopPadding=333.0, Translation=-546.0`
+Log template: `updateClipping isOverlap:<*>, getTopPadding=<*>, Translation=<*>`
+`cancelNotification,cancelNotificationLocked,callingUid = 10111,callingPid = 28601`

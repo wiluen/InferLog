@@ -1,0 +1,11 @@
+Log message: `updateLightsLocked,mInCall =false,mScreenOn = true,ledNotification == null?true`
+Log template: `updateLightsLocked,mInCall =<*>,mScreenOn = <*>,ledNotification == null?true`
+Log message: `updateNotificationShade: total=1, active=1`
+Log template: `updateNotificationShade: total=<*>, active=<*>`
+Log message: `getTasks: caller 10020 does not hold REAL_GET_TASKS; limiting output`
+Log template: `getTasks: caller <*> does not hold REAL_GET_TASKS; limiting output`
+Log message: `onTrackingStopped: true`
+Log template: `onTrackingStopped: <*>`
+Log message: `unregisterAudioFocusListener...`
+Log template: `unregisterAudioFocusListener...`
+`Destroying surface Surface(name=PopupWindow:d76a91d) called by com.android.server.wm.WindowStateAnimator.destroySurface:2060 com.android.server.wm.WindowStateAnimator.destroySurfaceLocked:913 com.android.server.wm.WindowState.removeLocked:1554 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2739 com.android.server.wm.WindowManagerService.removeWindowInnerLocked:2702 com.android.server.wm.WindowManagerService.removeWindowLocked:2691 com.android.server.wm.WindowManagerService.removeWindowLocked:2560 com.android.server.wm.WindowManagerService.removeWindow:2555`

@@ -1,0 +1,11 @@
+Log message: `[ib_sm_sweep.c:1455]: No topology change`
+Log template: `[ib_sm_sweep.c:<*>]: No topology change`
+Log message: `HPET id: 0xffffffff base: 0xfed00000`
+Log template: `HPET id: <*> base: <*>`
+Log message: `Detected 3591.360 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Using HPET based timekeeping.`
+Log template: `Using HPET based timekeeping.`
+Log message: `Using 14.318180 MHz HPET timer.`
+Log template: `Using <*> MHz HPET timer.`
+`Using 14.318180 MHz HPET timer.`

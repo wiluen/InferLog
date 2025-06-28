@@ -1,0 +1,11 @@
+Log message: `Closed socket connection for client /10.10.34.12:59284 which had sessionid 0x34ed9ac1c1e0059`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.12:56372 which had sessionid 0x34ede65503f0030`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Closed socket connection for client /10.10.34.17:51214 which had sessionid 0x14ede63a5a70053`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Established session 0x14ed93111f200df with negotiated timeout 10000 for client /10.10.34.13:37467`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Closed socket connection for client /10.10.34.13:45817 which had sessionid 0x24edfaa87170022`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Closed socket connection for client /10.10.34.13:54485 which had sessionid 0x14edfaa86f60021`

@@ -1,0 +1,11 @@
+Log message: `Registering secondary module capability`
+Log template: `Registering secondary module capability`
+Log message: `Using configuration type 1`
+Log template: `Using configuration type <*>`
+Log message: `Registered protocol family 17`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 10`
+Log template: `Registered protocol family <*>`
+Log message: `Registered protocol family 2`
+Log template: `Registered protocol family <*>`
+`Registered protocol family 1`

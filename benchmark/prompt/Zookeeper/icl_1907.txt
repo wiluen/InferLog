@@ -1,0 +1,11 @@
+Log message: `Established session 0x24f0557806a001e with negotiated timeout 10000 for client /10.10.34.11:51000`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Expiring session 0x34ede65503f005c, timeout of 10000ms exceeded`
+Log template: `Expiring session <*>, timeout of <*> exceeded`
+Log message: `Established session 0x34ede65503f0025 with negotiated timeout 10000 for client /10.10.34.11:50961`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x24ed93119420091 with negotiated timeout 10000 for client /10.10.34.40:47629`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+Log message: `Established session 0x24ed9311942008c with negotiated timeout 10000 for client /10.10.34.18:40006`
+Log template: `Established session <*> with negotiated timeout <*> for client <*>`
+`Established session 0x24ed9311942008c with negotiated timeout 10000 for client /10.10.34.18:40006`

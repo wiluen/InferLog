@@ -1,0 +1,11 @@
+Log message: `ARPT: 739295.354731: wl0: Roamed or switched channel, reason #4, bssid f8:4f:57:3b:ea:b2, last RSSI -77`
+Log template: `ARPT: <*>: wl0: Roamed or switched channel, reason #<*>, bssid <*>, last RSSI <*>`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type 1 Font Format specification.`
+Log template: `WARNING: Type1 font data isn't in the correct format required by the Adobe Type <*> Font Format specification.`
+Log message: `2017-07-06 06:22:57.163367 PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log template: `<*> PM [AirPlayUIAgent] BecomingInactive: NSWorkspaceWillSleepNotification`
+Log message: `Session 101921 created`
+Log template: `Session <*> created`
+`Sandbox: com.apple.Addres(31229) deny(1) network-outbound /private/var/run/mDNSResponder`

@@ -1,0 +1,11 @@
+Log message: `setDiffTotalSteps=0`
+Log template: `setDiffTotalSteps=<*>`
+Log message: `onStandStepChanged 3739`
+Log template: `onStandStepChanged <*>`
+Log message: `tryToRecordAsBasicStepData bWrite true`
+Log template: `tryToRecordAsBasicStepData bWrite <*>`
+Log message: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log template: `initDataPrivacy the dataPrivacy switch is open, start push health data!`
+Log message: `REPORT : 7165 5115 153474 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`setWriteDBLastDataMinute success`

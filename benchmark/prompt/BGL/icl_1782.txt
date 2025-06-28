@@ -1,0 +1,11 @@
+Log message: `0 microseconds spent in the rbs signal handler during 0 calls. 0 microseconds was the maximum time for a single instance of a correctable ddr.`
+Log template: `<*> microseconds spent in the rbs signal handler during <*> calls. <*> microseconds was the maximum time for a single instance of a correctable ddr.`
+Log message: `2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds`
+Log template: `<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `total of 12 ddr error(s) detected and corrected`
+Log template: `total of <*> ddr error(s) detected and corrected`
+Log message: `1 ddr errors(s) detected and corrected on rank 0, symbol 25, bit 1`
+Log template: `<*> ddr errors(s) detected and corrected on rank <*>, symbol <*>, bit <*>`
+Log message: `2 ddr error(s) detected and corrected on rank 0, symbol 34 over 2738 seconds`
+Log template: `<*> ddr error(s) detected and corrected on rank <*>, symbol <*> over <*> seconds`
+`2 ddr error(s) detected and corrected on rank 0, symbol 28 over 3365 seconds`

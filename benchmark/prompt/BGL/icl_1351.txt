@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /bgl/apps/followup/MINIBEN/MB_254_051007/torus-latency.rts: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `total of 12 ddr error(s) detected and corrected`
+Log template: `total of <*> ddr error(s) detected and corrected`
+Log message: `guaranteed data cache block touch........1`
+Log template: `guaranteed data cache block touch........<*>`
+Log message: `instruction cache parity error corrected`
+Log template: `instruction cache parity error corrected`
+Log message: `data cache search parity error detected. attempting to correct`
+Log template: `data cache search parity error detected. attempting to correct`
+`data cache search parity error detected. attempting to correct`

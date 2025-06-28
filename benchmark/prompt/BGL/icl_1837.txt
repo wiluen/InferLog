@@ -1,0 +1,11 @@
+Log message: `program interrupt: privileged instruction...0`
+Log template: `program interrupt: privileged instruction...<*>`
+Log message: `program interrupt: imprecise exception......0`
+Log template: `program interrupt: imprecise exception......<*>`
+Log message: `program interrupt`
+Log template: `program interrupt`
+Log message: `program interrupt: fp cr field .............0`
+Log template: `program interrupt: fp cr field .............<*>`
+Log message: `program interrupt: fp cr update.............0`
+Log template: `program interrupt: fp cr update.............<*>`
+`program interrupt: fp cr update.............0`

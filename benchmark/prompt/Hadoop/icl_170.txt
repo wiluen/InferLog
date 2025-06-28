@@ -1,0 +1,11 @@
+Log message: `Num completed Tasks: 1`
+Log template: `Num completed Tasks: <*>`
+Log message: `Processing the event EventType: CONTAINER_REMOTE_LAUNCH for container container_1445144423722_0020_01_000011 taskAttempt attempt_1445144423722_0020_m_000009_0`
+Log template: `Processing the event EventType: <*> for container <*> taskAttempt <*>`
+Log message: `Done acknowledgement from attempt_1445144423722_0020_m_000003_0`
+Log template: `Done acknowledgement from <*>`
+Log message: `All maps assigned. Ramping up all remaining reduces:1`
+Log template: `All maps assigned. Ramping up all remaining reduces:<*>`
+Log message: `Got allocated containers 1`
+Log template: `Got allocated containers <*>`
+`Reduce slow start threshold not met. completedMapsForReduceSlowstart 1`

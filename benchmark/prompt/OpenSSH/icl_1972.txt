@@ -1,0 +1,11 @@
+Log message: `Failed password for root from 183.62.140.253 port 36525 ssh2`
+Log template: `Failed password for <*> from <*> port <*> ssh2`
+Log message: `Failed password for invalid user oracle from 183.62.140.253 port 47098 ssh2`
+Log template: `Failed password for invalid user <*> from <*> port <*> ssh2`
+Log message: `Disconnecting: Too many authentication failures for root [preauth]`
+Log template: `Disconnecting: Too many authentication failures for <*> [preauth]`
+Log message: `input_userauth_request: invalid user zhangyan [preauth]`
+Log template: `input_userauth_request: invalid user <*> [preauth]`
+Log message: `Invalid user dff from 183.62.140.253`
+Log template: `Invalid user <*> from <*>`
+`Failed password for invalid user zhangyan from 183.62.140.253 port 33521 ssh2`

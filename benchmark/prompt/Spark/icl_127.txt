@@ -1,0 +1,11 @@
+Log message: `Block broadcast_1 stored as values in memory (estimated size 384.0 B, free 319.0 KB)`
+Log template: `Block <*> stored as values in memory (estimated size <*>, free <*>)`
+Log message: `Block broadcast_37 stored as values in memory (estimated size 8.8 KB, free 500.9 KB)`
+Log template: `Block <*> stored as values in memory (estimated size <*>, free <*>)`
+Log message: `Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)`
+Log template: `Block <*> stored as bytes in memory (estimated size <*>, free <*>)`
+Log message: `Block rdd_42_34 stored as bytes in memory (estimated size 842.0 B, free 832.9 KB)`
+Log template: `Block <*> stored as bytes in memory (estimated size <*>, free <*>)`
+Log message: `Block rdd_2_2 stored as bytes in memory (estimated size 850.0 B, free 320.3 KB)`
+Log template: `Block <*> stored as bytes in memory (estimated size <*>, free <*>)`
+`Block rdd_6_2 stored as bytes in memory (estimated size 252.0 B, free 370.4 KB)`

@@ -1,0 +1,11 @@
+Log message: `REPORT : 7038 5025 150753 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `setBasicStandardSteps basicStandardStep=3786 restartSteps=0`
+Log template: `setBasicStandardSteps basicStandardStep=<*> restartSteps=<*>`
+Log message: `getStepCounterStatus= true`
+Log template: `getStepCounterStatus= <*>`
+Log message: `getStepCounterStatus`
+Log template: `getStepCounterStatus`
+Log message: `reStartStepCounter`
+Log template: `reStartStepCounter`
+`reStartStepCounter`

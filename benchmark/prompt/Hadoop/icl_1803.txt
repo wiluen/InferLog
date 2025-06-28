@@ -1,0 +1,11 @@
+Log message: `Added attempt_1445144423722_0020_m_000001_1 to list of failed maps`
+Log template: `Added <*> to list of failed maps`
+Log message: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating task_1445144423722_0020_m_000000`
+Log template: `DefaultSpeculator.addSpeculativeAttempt -- we are speculating <*>`
+Log message: `Web app /mapreduce started at 62267`
+Log template: `Web app <*> started at <*>`
+Log message: `adding path spec: /mapreduce/*`
+Log template: `adding path spec: <*>`
+Log message: `Using mapred newApiCommitter.`
+Log template: `Using mapred newApiCommitter.`
+`Using mapred newApiCommitter.`

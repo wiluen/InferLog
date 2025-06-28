@@ -1,0 +1,11 @@
+Log message: `Client attempting to establish new session at /10.10.34.27:32782`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Client attempting to establish new session at /10.10.34.11:50990`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Accepted socket connection from /10.10.34.13:37196`
+Log template: `Accepted socket connection from <*>`
+Log message: `Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000`
+Log template: `Have quorum of supporters; starting up and setting last processed zxid: <*>`
+Log message: `Starting quorum peer`
+Log template: `Starting quorum peer`
+`Starting quorum peer`

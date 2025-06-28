@@ -1,0 +1,11 @@
+Log message: `10.11.21.123,10.11.10.1 "GET /latest/meta-data/block-device-mapping/ HTTP/1.1" status: 200 len: 124 time: 0.0008931`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] VM Stopped (Lifecycle Event)`
+Log template: `[instance: <*>] VM Stopped (Lifecycle Event)`
+Log message: `10.11.21.132,10.11.10.1 "GET /latest/meta-data/ami-launch-index HTTP/1.1" status: 200 len: 117 time: 0.0007291`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `10.11.21.143,10.11.10.1 "GET /latest/meta-data/placement/ HTTP/1.1" status: 200 len: 134 time: 0.4259689`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `10.11.21.139,10.11.10.1 "GET /latest/meta-data/placement/availability-zone HTTP/1.1" status: 200 len: 120 time: 0.0008299`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+`10.11.21.132,10.11.10.1 "GET /latest/meta-data/placement/availability-zone HTTP/1.1" status: 200 len: 120 time: 0.0009980`

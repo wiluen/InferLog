@@ -1,0 +1,11 @@
+Log message: `ciod: Error loading /home.old/glosli/src/ddcMD/ddcMD1.1.18a/bin/ddcMDGbglV: invalid or missing program image, No such file or directory`
+Log template: `ciod: Error loading <*>: invalid or missing program image, No such file or directory`
+Log message: `lr:00004ed0 cr:28244842 xer:20000002 ctr:00086000`
+Log template: `lr:<*> cr:<*> xer:<*> ctr:<*>`
+Log message: `2 L3 EDRAM error(s) (dcr 0x0157) detected and corrected over 282 seconds`
+Log template: `<*> L3 EDRAM error(s) (dcr <*>) detected and corrected over <*> seconds`
+Log message: `fraction rounded.........................0`
+Log template: `fraction rounded.........................<*>`
+Log message: `size of scratchpad portion of L3.........0 (0M)`
+Log template: `size of scratchpad portion of L3.........<*> (<*>)`
+`size of scratchpad portion of L3.........0 (0M)`

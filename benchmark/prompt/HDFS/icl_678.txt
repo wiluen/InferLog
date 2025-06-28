@@ -1,0 +1,11 @@
+Log message: `BLOCK* NameSystem.delete: blk_1960893136630391966 is added to invalidSet of 10.251.39.144:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.delete: blk_-2012430628930443984 is added to invalidSet of 10.250.11.100:50010`
+Log template: `BLOCK* NameSystem.delete: <*> is added to invalidSet of <*>`
+Log message: `BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.106.37:50010 is added to blk_-4510259260131940043 size 3552141`
+Log template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>`
+Log message: `BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.215.192:50010 is added to blk_2015610615789582788 size 67108864`
+Log template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>`
+Log message: `BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.250.7.146:50010 is added to blk_278357163850888 size 67108864`
+Log template: `BLOCK* NameSystem.addStoredBlock: blockMap updated: <*> is added to <*> size <*>`
+`BLOCK* NameSystem.addStoredBlock: blockMap updated: 10.251.70.37:50010 is added to blk_300967862449910205 size 67108864`

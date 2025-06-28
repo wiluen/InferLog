@@ -1,0 +1,11 @@
+Log message: `data address: 0x00000002`
+Log template: `data address: <*>`
+Log message: `core configuration register: 0x00002000`
+Log template: `core configuration register: <*>`
+Log message: `Machine State Register: 0x0002f900`
+Log template: `Machine State Register: <*>`
+Log message: `iar 00149ee0 dear 0099e5e8`
+Log template: `iar <*> dear <*>`
+Log message: `CE sym 14, at 0x06047860, mask 0x20`
+Log template: `CE sym <*>, at <*>, mask <*>`
+`CE sym 15, at 0x1bb2fe80, mask 0x02`

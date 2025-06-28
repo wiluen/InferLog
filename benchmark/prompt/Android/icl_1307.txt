@@ -1,0 +1,11 @@
+Log message: `received broadcast android.intent.action.TIME_TICK`
+Log template: `received broadcast <*>`
+Log message: `onNotificationExpansionChanged called`
+Log template: `onNotificationExpansionChanged called`
+Log message: `getRingerMode...`
+Log template: `getRingerMode...`
+Log message: `cancelNotification,index:-1`
+Log template: `cancelNotification,index:<*>`
+Log message: `cancelNotificationLocked called,tell the app,reason = 8`
+Log template: `cancelNotificationLocked called,tell the app,reason = <*>`
+`setSystemUiVisibility vis=40000500 mask=ffffffff oldVal=80000508 newVal=40000500 diff=c0000008 fullscreenStackVis=0 dockedStackVis=0, fullscreenStackBounds=Rect(0, 0 - 720, 1280), dockedStackBounds=Rect(0, 0 - 0, 0)`

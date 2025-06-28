@@ -1,0 +1,11 @@
+Log message: `Connection request from old client /10.10.34.12:56424; will be dropped if server is in r-o mode`
+Log template: `Connection request from old client <*>; will be dropped if server is in r-o mode`
+Log message: `autopurge.snapRetainCount set to 3`
+Log template: `autopurge.snapRetainCount set to <*>`
+Log message: `Connection request from old client /10.10.34.34:55584; will be dropped if server is in r-o mode`
+Log template: `Connection request from old client <*>; will be dropped if server is in r-o mode`
+Log message: `Connection request from old client /10.10.34.11:51259; will be dropped if server is in r-o mode`
+Log template: `Connection request from old client <*>; will be dropped if server is in r-o mode`
+Log message: `New election. My id =  1, proposed zxid=0x700000000`
+Log template: `New election. My id = <*>, proposed zxid=<*>`
+`Have smaller server identifier, so dropping the connection: (2, 1)`

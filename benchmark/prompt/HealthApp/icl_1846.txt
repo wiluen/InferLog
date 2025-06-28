@@ -1,0 +1,11 @@
+Log message: `REPORT : 7066 5045 151353 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `getTodayTotalDetailSteps = 1514038560000##7071##548561##8661##16256##27288973`
+Log template: `getTodayTotalDetailSteps = <*>##<*>##<*>##<*>##<*>##<*>`
+Log message: `onStandStepChanged 3640`
+Log template: `onStandStepChanged <*>`
+Log message: `processHandleBroadcastAction action:android.intent.action.TIME_TICK`
+Log template: `processHandleBroadcastAction action:android.intent.action.TIME_TICK`
+Log message: `REPORT : 7056 5037 151139 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`REPORT : 7053 5035 151075 240`

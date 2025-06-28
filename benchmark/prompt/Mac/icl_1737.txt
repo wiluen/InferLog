@@ -1,0 +1,11 @@
+Log message: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log template: `CCIOReporterFormatter::refreshSubscriptionsFromStreamRegistry clearing out any previous subscriptions`
+Log message: `AirPort: Link Up on awdl0`
+Log template: `AirPort: Link Up on awdl0`
+Log message: `mDNS_RegisterInterface: Frequent transitions for interface en0 (FE80:0000:0000:0000:C6B3:01FF:FECD:467F)`
+Log template: `mDNS_RegisterInterface: Frequent transitions for interface en0 (<*>)`
+Log message: `ARPT: 682840.256116: AQM agg results 0x8001 len hi/lo: 0x0 0x30 BAbitmap(0-3) 0 0 0 0`
+Log template: `ARPT: <*>: AQM agg results <*> len hi/lo: <*> BAbitmap(<*>) <*>`
+Log message: `en0: manual intervention required!`
+Log template: `en0: manual intervention required!`
+`CCFile::captureLogRun Skipping current file Dir file [2017-07-08_02,32,46.787931]-AirPortBrcm4360_Logs-004.txt, Current File [2017-07-08_02,32,46.787931]-AirPortBrcm4360_Logs-004.txt`

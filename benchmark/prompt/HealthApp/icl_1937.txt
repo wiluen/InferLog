@@ -1,0 +1,11 @@
+Log message: `onStandStepChanged 3580`
+Log template: `onStandStepChanged <*>`
+Log message: `flush2DB result success`
+Log template: `flush2DB result success`
+Log message: `writeDataToDB size 327`
+Log template: `writeDataToDB size <*>`
+Log message: `REPORT : 7165 5115 153474 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+Log message: `onStandStepChanged 3739`
+Log template: `onStandStepChanged <*>`
+`flush2DB result success`

@@ -1,0 +1,11 @@
+Log message: `BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)`
+Log template: `<*>: <*> - <*> (usable)`
+Log message: `Initializing CPU#0`
+Log template: `Initializing <*>`
+Log message: `CPU: L2 cache: 256K`
+Log template: `CPU: <*> cache: <*>`
+Log message: `Memory: 125312k/129720k available (1540k kernel code, 3860k reserved, 599k data, 144k init, 0k highmem)`
+Log template: `Memory: <*> available (<*> kernel code, <*> reserved, <*> data, <*> init, <*> highmem)`
+Log message: `CPU 0 irqstacks, hard=02345000 soft=02344000`
+Log template: `CPU <*> irqstacks, hard=<*> soft=<*>`
+`CPU 0 irqstacks, hard=02345000 soft=02344000`

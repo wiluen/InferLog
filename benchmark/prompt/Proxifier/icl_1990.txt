@@ -1,0 +1,11 @@
+Log message: `3.client-channel.google.com:443 open through proxy proxy.cse.cuhk.edu.hk:5070 HTTPS`
+Log template: `<*> open through proxy <*> HTTPS`
+Log message: `lh3.googleusercontent.com:443 close, 745 bytes sent, 229 bytes received, lifetime 00:14`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+Log message: `video-hkg3-2.xx.fbcdn.net:443 close, 58373 bytes (57.0 KB) sent, 8896991 bytes (8.48 MB) received, lifetime 02:25`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> MB) received, lifetime <*>`
+Log message: `f-log-extension.grammarly.io:443 close, 1363 bytes (1.33 KB) sent, 3549 bytes (3.46 KB) received, lifetime 00:33`
+Log template: `<*> close, <*> bytes (<*> KB) sent, <*> bytes (<*> KB) received, lifetime <*>`
+Log message: `qdun-data.qq.com:443 close, 261 bytes sent, 70 bytes received, lifetime <1 sec`
+Log template: `<*> close, <*> bytes sent, <*> bytes received, lifetime <*>`
+`lh3.googleusercontent.com:443 close, 745 bytes sent, 229 bytes received, lifetime 00:14`

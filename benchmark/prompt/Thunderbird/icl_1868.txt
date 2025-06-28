@@ -1,0 +1,11 @@
+Log message: `Using MMCONFIG at e0000000`
+Log template: `Using MMCONFIG at <*>`
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `i8042 AUX port at 0x60,0x64 irq 12`
+Log template: `<*> AUX port at <*>,<*> irq <*>`
+Log message: `colour VGA+ 80x25`
+Log template: `colour VGA+ <*>`
+`colour VGA+ 80x25`

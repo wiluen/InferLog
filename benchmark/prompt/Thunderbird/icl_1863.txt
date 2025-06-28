@@ -1,0 +1,11 @@
+Log message: `Physical Processor ID: 0`
+Log template: `Physical Processor ID: <*>`
+Log message: `Physical Processor ID: 3`
+Log template: `Physical Processor ID: <*>`
+Log message: `Processor [CPU2] (supports C1)`
+Log template: `Processor [<*>] (supports C1)`
+Log message: `Detected 3591.360 MHz processor.`
+Log template: `Detected <*> MHz processor.`
+Log message: `Intel(R) Xeon(TM) CPU 3.60GHz stepping 03`
+Log template: `Intel(R) Xeon(TM) CPU <*> stepping <*>`
+`Intel(R) Xeon(TM) CPU 3.60GHz stepping 03`

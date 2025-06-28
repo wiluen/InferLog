@@ -1,0 +1,11 @@
+Log message: `Block broadcast_1 stored as values in memory (estimated size 384.0 B, free 319.0 KB)`
+Log template: `Block <*> stored as values in memory (estimated size <*>, free <*>)`
+Log message: `Connecting to driver: spark://CoarseGrainedScheduler@10.10.34.11:48069`
+Log template: `Connecting to driver: <*>`
+Log message: `Block broadcast_9_piece0 stored as bytes in memory (estimated size 5.2 KB, free 5.2 KB)`
+Log template: `Block <*> stored as bytes in memory (estimated size <*>, free <*>)`
+Log message: `Saved output of task 'attempt_201706092018_0024_m_000121_1146' to hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000121`
+Log template: `Saved output of task '<*>' to <*>`
+Log message: `Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:247928+7292`
+Log template: `Input split: <*>`
+`Input split: hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:0+7292`

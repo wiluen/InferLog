@@ -1,0 +1,11 @@
+Log message: `setWriteDBLastDataMinute success`
+Log template: `setWriteDBLastDataMinute success`
+Log message: `checkInsertStatus stepSum or calorieSum is enough`
+Log template: `checkInsertStatus stepSum or calorieSum is enough`
+Log message: `saveHealthDetailData() saveOneDetailData fail hiHealthData = 1513958400000,type = 40003`
+Log template: `saveHealthDetailData() saveOneDetailData fail hiHealthData = <*>,type = <*>`
+Log message: `saveHealthDetailData() deviceID = 2,clientID=1,id=1`
+Log template: `saveHealthDetailData() deviceID = <*>,clientID=<*>,id=<*>`
+Log message: `startSync hiSyncOption = HiSyncOption{syncAction=2, syncMethod=2, syncScope=0, syncDataType=20000, syncModel=2, pushAction=0},app = 1 who = 1`
+Log template: `startSync hiSyncOption = HiSyncOption{syncAction=<*>, syncMethod=<*>, syncScope=<*>, syncDataType=<*>, syncModel=<*>, pushAction=<*>},app = <*> who = <*>`
+`checkFirstSyncByType no such data in db ,type is 1 deviceCode is 0`

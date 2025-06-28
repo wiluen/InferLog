@@ -1,0 +1,11 @@
+Log message: `Closed socket connection for client /10.10.34.12:56372 which had sessionid 0x34ede65503f0030`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Unexpected exception causing shutdown while sock still open`
+Log template: `Unexpected exception causing shutdown while sock still open`
+Log message: `Connection broken for id 1, my id = 3, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `Connection broken for id 188978561024, my id = 1, error =`
+Log template: `Connection broken for id <*>, my id = <*>, error =`
+Log message: `Interrupting SendWorker`
+Log template: `Interrupting SendWorker`
+`Connection broken for id 188978561024, my id = 2, error =`

@@ -1,0 +1,11 @@
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000005_0 is : 0.32285523`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Got allocated containers 2`
+Log template: `Got allocated containers <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.19084874`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000006_0 is : 0.19266446`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+Log message: `Progress of TaskAttempt attempt_1445144423722_0020_m_000001_0 is : 0.3512319`
+Log template: `Progress of TaskAttempt <*> is : <*>`
+`Progress of TaskAttempt attempt_1445144423722_0020_m_000003_0 is : 0.80356`

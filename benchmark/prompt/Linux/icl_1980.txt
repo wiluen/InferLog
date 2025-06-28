@@ -1,0 +1,11 @@
+Log message: `BIOS-e820: 0000000000100000 - 0000000007eae000 (usable)`
+Log template: `<*>: <*> - <*> (usable)`
+Log message: `BIOS-provided physical RAM map:`
+Log template: `BIOS-provided physical RAM map:`
+Log message: `Version 1.0.6 Starting`
+Log template: `Version <*> Starting`
+Log message: `PCI: PCI BIOS revision 2.10 entry at 0xfc0ce, last bus=1`
+Log template: `PCI: PCI BIOS revision <*> entry at <*>, last bus=<*>`
+Log message: `apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`
+Log template: `apm: BIOS version <*> Flags <*> (Driver version <*>)`
+`apm: BIOS version 1.2 Flags 0x03 (Driver version 1.16ac)`

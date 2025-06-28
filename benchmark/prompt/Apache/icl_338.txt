@@ -1,0 +1,11 @@
+Log message: `jk2_init() Found child 32438 in scoreboard slot 8`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 32629 in scoreboard slot 10`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `mod_jk child workerEnv in error state 10`
+Log template: `mod_jk child workerEnv in error state <*>`
+Log message: `jk2_init() Found child 32457 in scoreboard slot 6`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+Log message: `jk2_init() Found child 32600 in scoreboard slot 9`
+Log template: `jk2_init() Found child <*> in scoreboard slot <*>`
+`jk2_init() Found child 32584 in scoreboard slot 9`

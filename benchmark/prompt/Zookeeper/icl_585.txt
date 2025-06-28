@@ -1,0 +1,11 @@
+Log message: `Cannot open channel to 2 at election address /10.10.34.12:3888`
+Log template: `Cannot open channel to <*> at election address <*>`
+Log message: `FOLLOWING - LEADER ELECTION TOOK - 49`
+Log template: `FOLLOWING - LEADER ELECTION TOOK - <*>`
+Log message: `FOLLOWING`
+Log template: `FOLLOWING`
+Log message: `Accepted socket connection from /10.10.34.12:34568`
+Log template: `Accepted socket connection from <*>`
+Log message: `Closed socket connection for client /10.10.34.13:38088 which had sessionid 0x14ede63a5a70048`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+`Cannot open channel to 2 at election address /10.10.34.12:3888`

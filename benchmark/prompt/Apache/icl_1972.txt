@@ -1,0 +1,11 @@
+Log message: `jk2_init() Can't find child 2082 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+Log message: `jk2_init() Can't find child 5619 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+Log message: `jk2_init() Can't find child 5620 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+Log message: `jk2_init() Can't find child 5621 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+Log message: `jk2_init() Can't find child 5622 in scoreboard`
+Log template: `jk2_init() Can't find child <*> in scoreboard`
+`jk2_init() Can't find child 5622 in scoreboard`

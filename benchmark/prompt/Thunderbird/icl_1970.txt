@@ -1,0 +1,11 @@
+Log message: `i8042 KBD port at 0x60,0x64 irq 1`
+Log template: `<*> KBD port at <*>,<*> irq <*>`
+Log message: `initializing netlink socket (disabled)`
+Log template: `initializing netlink socket (disabled)`
+Log message: `Local APIC address 0xfee00000`
+Log template: `Local APIC address <*>`
+Log message: `Server listening on :: port 22.`
+Log template: `Server listening on :: port <*>.`
+Log message: `error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`
+Log template: `error: Bind to port <*> on <*> failed: Address already in use.`
+`error: Bind to port 22 on 0.0.0.0 failed: Address already in use.`

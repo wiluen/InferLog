@@ -1,0 +1,11 @@
+Log message: `00000006 Created NT transaction (seq 1) result 0x00000000, handle @0x214`
+Log template: `<*> Created NT transaction (seq <*>) result <*>, handle @<*>`
+Log message: `Ending the TrustedInstaller main loop.`
+Log template: `Ending the TrustedInstaller main loop.`
+Log message: `Starting TrustedInstaller initialization.`
+Log template: `Starting TrustedInstaller initialization.`
+Log message: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log template: `No startup processing required, TrustedInstaller service was not set as autostart, or else a reboot is still pending.`
+Log message: `Scavenge: Completed, disposition: 0X1`
+Log template: `Scavenge: Completed, disposition: <*>`
+`0000000a Performing 1 operations; 1 are not lock/unlock and follow:`

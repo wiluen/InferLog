@@ -1,0 +1,11 @@
+Log message: `new date =20171223, type=40024,79200.0,old=79200.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `saveRealTimeHealthDatasStat() size = 1,totalTime = 48`
+Log template: `saveRealTimeHealthDatasStat() size = <*>,totalTime = <*>`
+Log message: `new date =20171223, type=40011,6314.0,old=6137.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `InsertEvent success begin:25233975 end:25233979`
+Log template: `InsertEvent success begin:<*> end:<*>`
+Log message: `bulkSaveDetailHiHealthData() size = 4,totalTime = 30`
+Log template: `bulkSaveDetailHiHealthData() size = <*>,totalTime = <*>`
+`saveStatData() type =40004,time = 1513958400000,statClient = 2,who is 1`

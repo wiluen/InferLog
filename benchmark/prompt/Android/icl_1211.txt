@@ -1,0 +1,11 @@
+Log message: `Start proc 13003:com.tencent.mobileqq:qzone/u0a111 for service com.tencent.mobileqq/cooperation.qzone.remote.logic.QzoneWebPluginProxyService`
+Log template: `Start proc <*> for service <*>`
+Log message: `cancelPeek: false`
+Log template: `cancelPeek: <*>`
+Log message: `flingToHeight: vel=2849.079, expand=true, target=553.0, collapseSpeedUpFactor=1.0, expandBecauseOfFalsing=false`
+Log template: `flingToHeight: vel=<*>, expand=<*>, target=<*>, collapseSpeedUpFactor=<*>, expandBecauseOfFalsing=<*>`
+Log message: `getRecentTasks: topActivity=ComponentInfo{com.example.android.notepad/com.example.android.notepad.NoteEditor}`
+Log template: `getRecentTasks: topActivity=ComponentInfo{<*>}`
+Log message: `getLastAudibleStreamVolume  treamType: 0`
+Log template: `getLastAudibleStreamVolume treamType: <*>`
+`instantCollapse`

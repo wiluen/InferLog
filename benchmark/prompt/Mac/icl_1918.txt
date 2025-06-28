@@ -1,0 +1,11 @@
+Log message: `CCLogTap::profileRemoved, Owner: com.apple.iokit.IO80211Family, Name: OneStats`
+Log template: `CCLogTap::profileRemoved, Owner: com.apple.iokit.<*>, Name: <*>`
+Log message: `Internal name did not resolve to internal address!`
+Log template: `Internal name did not resolve to internal address!`
+Log message: `ARPT: 683173.929950: ARPT: Wake Reason: Wake on Scan offload`
+Log template: `ARPT: <*>: ARPT: Wake Reason: Wake on Scan offload`
+Log message: `08:21:18.004 : Discoverable mode changed to Off`
+Log template: `<*> : Discoverable mode changed to Off`
+Log message: `Failed to stop a scan - central is not powered on: 4`
+Log template: `Failed to stop a scan - central is not powered on: <*>`
+`[00:28:42.167] (Fig) signalled err=-12871`

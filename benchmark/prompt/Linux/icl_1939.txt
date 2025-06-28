@@ -1,0 +1,11 @@
+Log message: `sdpd startup succeeded`
+Log template: `sdpd startup succeeded`
+Log message: `klogd startup succeeded`
+Log template: `klogd startup succeeded`
+Log message: `syslogd startup succeeded`
+Log template: `syslogd startup succeeded`
+Log message: `rpc.idmapd startup succeeded`
+Log template: `<*> startup succeeded`
+Log message: `rpc.statd startup succeeded`
+Log template: `<*> startup succeeded`
+`rpc.statd startup succeeded`

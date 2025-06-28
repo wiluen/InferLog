@@ -1,0 +1,11 @@
+Log message: `Closed socket connection for client /10.10.34.11:50940 which had sessionid 0x14ed93111f20099`
+Log template: `Closed socket connection for client <*> which had sessionid <*>`
+Log message: `Client attempting to establish new session at /10.10.34.11:50990`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Client attempting to establish new session at /10.10.34.19:33425`
+Log template: `Client attempting to establish new session at <*>`
+Log message: `Server environment:user.name=zookeeper`
+Log template: `Server environment:<*>`
+Log message: `Client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969`
+Log template: `Client attempting to renew session <*> at <*>`
+`Client attempting to renew session 0x24f0557806a0020 at /10.10.34.17:55969`

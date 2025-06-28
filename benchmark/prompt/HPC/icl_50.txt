@@ -1,0 +1,11 @@
+Log message: `boot  (command 3615)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 3169)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 2999)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 2619)`
+Log template: `boot (command <*>)`
+Log message: `boot  (command 3572)`
+Log template: `boot (command <*>)`
+`boot  (command 3579)`

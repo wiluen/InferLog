@@ -1,0 +1,11 @@
+Log message: `ClusterFileSystem: ServerFileSystem domain root12_tmp is no longer served by node node-11`
+Log template: `ClusterFileSystem: ServerFileSystem domain <*> is no longer served by node <*>`
+Log message: `bootGenvmunix  (command 1903)`
+Log template: `bootGenvmunix (command <*>)`
+Log message: `halt  (command 1982)`
+Log template: `halt (command <*>)`
+Log message: `clusterAddMember  (command 1900)`
+Log template: `clusterAddMember (command <*>)`
+Log message: `clusterAddMember  (command 1902)`
+Log template: `clusterAddMember (command <*>)`
+`clusterAddMember  (command 1902)`

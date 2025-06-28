@@ -1,0 +1,11 @@
+Log message: `Notification: 3 (n.leader), 0x0 (n.zxid), 0x1 (n.round), LOOKING (n.state), 3 (n.sid), 0x0 (n.peerEPoch), LOOKING (my state)`
+Log template: `Notification: <*> (n.leader), <*> (n.zxid), <*> (n.round), LOOKING (n.state), <*> (n.sid), <*> (n.peerEPoch), LOOKING (my state)`
+Log message: `Cannot open channel to 2 at election address /10.10.34.12:3888`
+Log template: `Cannot open channel to <*> at election address <*>`
+Log message: `Sending DIFF`
+Log template: `Sending DIFF`
+Log message: `Server environment:host.name=mesos-master-1`
+Log template: `Server environment:<*>`
+Log message: `Cannot open channel to 3 at election address /10.10.34.13:3888`
+Log template: `Cannot open channel to <*> at election address <*>`
+`LOOKING`

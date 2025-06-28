@@ -1,0 +1,11 @@
+Log message: `calculateCaloriesWithCache totalCalories=131144`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `onStandStepChanged 3620`
+Log template: `onStandStepChanged <*>`
+Log message: `calculateCaloriesWithCache totalCalories=130951`
+Log template: `calculateCaloriesWithCache totalCalories=<*>`
+Log message: `onReceive action: android.intent.action.SCREEN_OFF`
+Log template: `onReceive action: android.intent.action.SCREEN_OFF`
+Log message: `REPORT : 7181 5127 153817 240`
+Log template: `REPORT : <*> <*> <*> <*>`
+`calculateCaloriesWithCache totalCalories=130266`

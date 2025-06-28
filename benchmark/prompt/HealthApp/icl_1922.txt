@@ -1,0 +1,11 @@
+Log message: `saveRealTimeHealthDatasStat() size = 1,totalTime = 48`
+Log template: `saveRealTimeHealthDatasStat() size = <*>,totalTime = <*>`
+Log message: `new date =20171223, type=40011,6314.0,old=6137.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40024,79200.0,old=79200.0`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40034,292.73999999999995,old=292.73999999999995`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+Log message: `new date =20171223, type=40031,4508.196000000001,old=4381.818`
+Log template: `new date =<*>, type=<*>,<*>,old=<*>`
+`new date =20171223, type=40003,214445.88000000006,old=210654.54000000004`

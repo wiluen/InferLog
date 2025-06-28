@@ -1,0 +1,11 @@
+Log message: `v2.0 (20020519)`
+Log template: `<*> (<*>)`
+Log message: `DHCPDISCOVER from 00:11:43:e3:ba:c3 via eth1: network A_net: no free leases`
+Log template: `DHCPDISCOVER from <*> via eth1: network A_net: no free leases`
+Log message: `DHCPACK on 10.100.4.251 to 00:11:43:e3:ba:c3 via eth1`
+Log template: `DHCPACK on <*> to <*> via eth1`
+Log message: `#39# (Release Date: Mon Sep 27 22:15:07 EDT 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+Log message: `#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004)`
+Log template: `<*> (Release Date: <*> <*>)`
+`#38#-rh1 (Release Date: Fri Dec 10 19:02:14 EST 2004)`

@@ -1,0 +1,11 @@
+Log message: `authentication failure; logname= uid=0 euid=0 tty=:0 ruser= rhost=`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=:<*> ruser= rhost=`
+Log message: `connection from 82.252.162.81 (lns-vlq-45-tou-82-252-162-81.adsl.proxad.net) at Fri Jun 17 20:55:06 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `Total HugeTLB memory allocated, 0`
+Log template: `Total HugeTLB memory allocated, <*>`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=massive.merukuru.org`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*>`
+Log message: `On node 0 totalpages: 32430`
+Log template: `On node <*> totalpages: <*>`
+`On node 0 totalpages: 32430`

@@ -1,0 +1,11 @@
+Log message: `PCI: Probing PCI hardware (bus 00)`
+Log template: `PCI: Probing PCI hardware (bus <*>)`
+Log message: `PCI: Using configuration type 1`
+Log template: `PCI: Using configuration type <*>`
+Log message: `PCI: Using IRQ router PIIX/ICH [8086/2410] at 0000:00:1f.0`
+Log template: `PCI: Using IRQ router PIIX/ICH [<*>] at <*>`
+Log message: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log template: `PCI: Invalid ACPI-PCI IRQ routing table`
+Log message: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+Log template: `ACPI: ACPI tables contain no PCI IRQ routing entries`
+`ACPI: ACPI tables contain no PCI IRQ routing entries`

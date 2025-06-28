@@ -1,0 +1,11 @@
+Log message: `[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] vcpu limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] vcpu limit not specified, defaulting to unlimited`
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Claim successful`
+Log template: `[instance: <*>] Claim successful`
+Log message: `[instance: c62f4f25-982c-4ea2-b5e4-93000edfcfbf] disk limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] disk limit not specified, defaulting to unlimited`
+Log message: `[instance: b562ef10-ba2d-48ae-bf4a-18666cba4a51] VM Paused (Lifecycle Event)`
+Log template: `[instance: <*>] VM Paused (Lifecycle Event)`
+Log message: `[instance: d96a117b-0193-4549-bdcc-63b917273d1d] disk limit not specified, defaulting to unlimited`
+Log template: `[instance: <*>] disk limit not specified, defaulting to unlimited`
+`[instance: d6b7bd36-2943-4363-9235-fffdd89ea40e] disk limit not specified, defaulting to unlimited`

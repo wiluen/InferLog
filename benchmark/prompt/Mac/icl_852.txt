@@ -1,0 +1,11 @@
+Log message: `hciControllerOnline; HID devices? 0`
+Log template: `hciControllerOnline; HID devices? <*>`
+Log message: `sigio_handler: sigio_handler_active != 1`
+Log template: `sigio_handler: sigio_handler_active != <*>`
+Log message: `com.apple.Addres(34830) deny network-outbound /private/var/run/mDNSResponder`
+Log template: `<*>(<*>) deny network-outbound <*>`
+Log message: `Captive: CNPluginHandler en0: Evaluating`
+Log template: `Captive: CNPluginHandler en0: Evaluating`
+Log message: `[10:13:05.044] <<<< CRABS >>>> crabsFlumeHostAvailable: [0x7f961cf08cf0] Byte flume reports host available again.`
+Log template: `[<*>] <<<< CRABS >>>> crabsFlumeHostAvailable: [<*>] Byte flume reports host available again.`
+`NETWORK: requery, 0, 0, 0, 0, 300, items, fQueryRetries, 0, fLastRetryTimestamp, 520899307.1`

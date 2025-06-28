@@ -1,0 +1,11 @@
+Log message: `Registering class org.apache.hadoop.mapreduce.v2.app.launcher.ContainerLauncher$EventType for class org.apache.hadoop.mapreduce.v2.app.MRAppMaster$ContainerLauncherRouter`
+Log template: `Registering class org.apache.hadoop.mapreduce.<*> for class org.apache.hadoop.mapreduce.<*>`
+Log message: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log template: `Adding protocol org.apache.hadoop.mapreduce.v2.api.MRClientProtocolPB to the server`
+Log message: `Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)`
+Log template: `Added global filter 'safety' (class=org.apache.hadoop.http.HttpServer2$QuotingInputFilter)`
+Log message: `Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce`
+Log template: `Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context mapreduce`
+Log message: `Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static`
+Log template: `Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static`
+`Added filter AM_PROXY_FILTER (class=org.apache.hadoop.yarn.server.webproxy.amfilter.AmIpFilter) to context static`

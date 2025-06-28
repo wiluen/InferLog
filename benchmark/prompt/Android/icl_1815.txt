@@ -1,0 +1,11 @@
+Log message: `new Process app=ProcessRecord{6eaaf00 0:com.tencent.mobileqq:qzone/u0a111}, name: com.tencent.mobileqq:qzone, euid: 0`
+Log template: `new Process app=ProcessRecord{<*> <*>}, name: <*>:qzone, euid: <*>`
+Log message: `Skipping AppWindowToken{df0798e token=Token{78af589 ActivityRecord{3b04890 u0 com.tencent.qt.qtl/com.tencent.video.player.activity.PlayerActivity t761}}} -- going to hide`
+Log template: `Skipping AppWindowToken{<*> token=Token{<*> ActivityRecord{<*> u0 <*>}}} -- going to hide`
+Log message: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=0x24000000 cmp=com.tencent.mm/.ui.LauncherUI (has extras) }`
+Log template: `startActivity called from non-Activity context; forcing Intent.FLAG_ACTIVITY_NEW_TASK for: Intent { flg=<*> cmp=<*> (has extras) }`
+Log message: `disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >`
+Log template: `disable: < expand ICONS* alerts SYSTEM_INFO* back home recent clock navigationbar search quick_settings >`
+Log message: `Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}`
+Log template: `Screen frozen for <*> due to Window{<*> u0 <*>}`
+`Screen frozen for +1s0ms due to Window{ca98d5 u0 com.tencent.qt.qtl/com.tencent.qt.qtl.activity.info.NewsDetailXmlActivity}`

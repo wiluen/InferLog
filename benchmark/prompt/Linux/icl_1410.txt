@@ -1,0 +1,11 @@
+Log message: `connection from 82.68.222.195 (82-68-222-195.dsl.in-addr.zen.co.uk) at Sun Jul 17 23:21:50 2005`
+Log template: `connection from <*> (<*>) at <*>`
+Log message: `connection from 211.72.151.162 () at Mon Jul 18 03:26:49 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.72.151.162 () at Wed Jul  6 18:00:57 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 211.72.2.106 () at Tue Jul  5 13:52:21 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `connection from 82.68.222.194 (82-68-222-194.dsl.in-addr.zen.co.uk) at Sun Jul 17 21:23:20 2005`
+Log template: `connection from <*> (<*>) at <*>`
+`connection from 203.101.45.59 (dsl-Chn-static-059.45.101.203.touchtelindia.net) at Sun Jul 17 15:09:16 2005`

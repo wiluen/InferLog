@@ -1,0 +1,11 @@
+Log message: `All maps assigned. Ramping up all remaining reduces:1`
+Log template: `All maps assigned. Ramping up all remaining reduces:<*>`
+Log message: `Using mapred newApiCommitter.`
+Log template: `Using mapred newApiCommitter.`
+Log message: `Got allocated containers 1`
+Log template: `Got allocated containers <*>`
+Log message: `adding path spec: /mapreduce/*`
+Log template: `adding path spec: <*>`
+Log message: `adding path spec: /ws/*`
+Log template: `adding path spec: <*>`
+`adding path spec: /ws/*`

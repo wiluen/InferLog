@@ -1,0 +1,11 @@
+Log message: `[instance: 17288ea8-cbf4-4f0e-94fe-853fd2735f29] Took 19.79 seconds to build instance.`
+Log template: `[instance: <*>] Took <*> seconds to build instance.`
+Log message: `10.11.21.135,10.11.10.1 "GET /latest/meta-data/block-device-mapping/root HTTP/1.1" status: 200 len: 124 time: 0.0009499`
+Log template: `<*> "<*> <*> <*>" status: <*> len: <*> time: <*>`
+Log message: `[instance: 7e7cc42f-3cb9-4d91-804c-f5a32d54f1c5] Creating image`
+Log template: `[instance: <*>] Creating image`
+Log message: `Creating event network-vif-plugged:b25f912d-d8bd-4332-b55f-8e244fe36c7c for instance 127e769a-4fe6-4548-93b1-513ac51e0452`
+Log template: `Creating event network-vif-plugged:<*> for instance <*>`
+Log message: `[instance: be793e89-2cc3-4f99-9884-9c6a624a84bc] Instance spawned successfully.`
+Log template: `[instance: <*>] Instance spawned successfully.`
+`Creating event network-vif-plugged:418c107f-95d6-4655-ae6b-90bca57d9a71 for instance be793e89-2cc3-4f99-9884-9c6a624a84bc`

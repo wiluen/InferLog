@@ -1,0 +1,11 @@
+Log message: `connection from 210.245.165.136 () at Sun Jul 17 09:44:07 2005`
+Log template: `connection from <*> () at <*>`
+Log message: `Authentication failed from 163.27.187.39 (163.27.187.39): Permission denied in replay cache code`
+Log template: `Authentication failed from <*> (<*>): Permission denied in replay cache code`
+Log message: `session opened for user test by (uid=509)`
+Log template: `session opened for user <*> by (uid=<*>)`
+Log message: `authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=62-192-102-94.dsl.easynet.nl  user=root`
+Log template: `authentication failure; logname= uid=<*> euid=<*> tty=NODEVssh ruser= rhost=<*> user=<*>`
+Log message: `connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005`
+Log template: `connection from <*> () at <*>`
+`connection from 218.38.58.3 () at Wed Jul 27 10:59:53 2005`
