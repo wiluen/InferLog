@@ -27,7 +27,7 @@ We use loghub2k as the dataset and employ in-context learning technique to find 
 - src/prefix_cache_reusing: implementation of Prefix-Aware ICL Refinement(PAIR) strategy to refine the ICL examples to improve prefix cache hit rate.
 - src/fast_config_tuning: implementation of configuration tuning base on AttMAML and SMBO.
 
-#### ICL-oriented KV Cache Reusing
+### ICL-oriented KV Cache Reusing
 InferLog proposes Prefix-aware ICL Refinement(PAIR) policy to refine the log parsing prompt by adjusting the contents and order of ICL examples. For each current request, InferLog first identifies the examples of historical requests with the highest prefix cache hit rate probability, then performs modifying and reordering operations to update the current examples to align with it. By doing so, the ICL component can significantly boost the prefix cache hit rate
 
 #### Main code:
