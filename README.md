@@ -37,7 +37,6 @@ InferLog proposes Prefix-aware ICL Refinement(PAIR) policy to refine the log par
 - inferlog.py: implement of PAIR
 - postprocess.py: post processing for log parsing
 - prepare_icl.py: selecting ICL for distict log messages in Loghub-2k. The main code is from [https://github.com/logpai/logparser/blob/main/logparser/DivLog/DivLog.py]
-- prompt.zip: the processed results
 
 #### Run
 Download the open-source model and launch it using vLLM
