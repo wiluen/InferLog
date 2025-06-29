@@ -16,6 +16,7 @@ Reusing prefix KV caching of ICL part, not limited to common instruct.
 
 ### Environment Version
 - vLLM(v0.6.3.post1)
+- python 3.11
 
 ### Install dependencies (with python 3.9)
 > pip install -r requirements.txt
