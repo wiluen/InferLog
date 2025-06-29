@@ -70,7 +70,7 @@ configuration in a few iterations.
 2. Conduct training for AttMAML and save model (attmaml.py)
 3. Online tuning (tuner.py and attmamldrop_bo.py)
 
-#### Dataset
+#### Data collect
 perform LHS to sample configuration and measure the performance of LLM inference for log parsing based on Qwen2.5-14B and vLLM
 
 
